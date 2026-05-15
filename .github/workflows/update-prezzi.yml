@@ -1,0 +1,27 @@
+name: Aggiorna Prezzi Carburanti
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # ogni giorno alle 6:00 ora italiana (5 UTC)
+  workflow_dispatch:
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch prezzi MIMIT
+        run: node scripts/fetch-prezzi.mjs
+
+      - name: Commit dati aggiornati
+        run: |
+          git config user.name "CarburantiOggi Bot"
+          git config user.email "info@plasmacompany.net"
+          git add public/data/
+          git diff --cached --quiet || git commit -m "chore: aggiorna prezzi carburanti $(date +%Y-%m-%d)"
+          git push
