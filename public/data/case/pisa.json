@@ -1,0 +1,22 @@
+{
+  "slug": "pisa",
+  "nome": "Pisa",
+  "provincia": "PI",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Fuori Porta",
+      "res_min": 2500,
+      "res_max": 4500,
+      "loc_min": 78,
+      "loc_max": 138
+    }
+  ],
+  "residenziale_media": 3500,
+  "residenziale_min": 2500,
+  "residenziale_max": 4500,
+  "affitto_media": 108,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

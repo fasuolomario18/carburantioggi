@@ -1,0 +1,34 @@
+{
+  "slug": "diclofenac",
+  "nome": "Diclofenac",
+  "atc": "M01AB05",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 3,
+  "prezzo_min": 3.4,
+  "prezzo_medio": 5.23,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Voltaren 50mg 20cpr",
+      "ditta": "GSK",
+      "prezzo": 6.5,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Dicloreum 75mg 10fl",
+      "ditta": "Alfa Wassermann",
+      "prezzo": 5.8,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Diclofenac EG 50mg 20cpr",
+      "ditta": "EG",
+      "prezzo": 3.4,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

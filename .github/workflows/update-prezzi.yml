@@ -1,8 +1,9 @@
-name: Aggiorna Prezzi Carburanti
+name: Aggiorna Tutti i Dati
 
 on:
   schedule:
-    - cron: "0 5 * * *"  # ogni giorno alle 6:00 ora italiana (5 UTC)
+    - cron: "0 5 * * *"      # ogni giorno alle 6:00 (carburanti + bollette)
+    - cron: "0 6 1 * *"      # il 1° di ogni mese (farmaci)
   workflow_dispatch:
 
 jobs:
@@ -15,13 +16,24 @@ jobs:
         with:
           node-version: 20
 
-      - name: Fetch prezzi MIMIT
+      - name: Fetch prezzi carburanti (MIMIT)
         run: node scripts/fetch-prezzi.mjs
+
+      - name: Fetch prezzi bollette (ARERA)
+        run: node scripts/fetch-bollette.mjs
+
+      - name: Fetch farmaci (AIFA) — solo il 1° del mese
+        if: github.event.schedule == '0 6 1 * *' || github.event_name == 'workflow_dispatch'
+        run: node scripts/fetch-farmaci.mjs
+
+      - name: Fetch prezzi case (OMI) — solo workflow_dispatch manuale
+        if: github.event_name == 'workflow_dispatch'
+        run: node scripts/fetch-case.mjs
 
       - name: Commit dati aggiornati
         run: |
-          git config user.name "CarburantiOggi Bot"
+          git config user.name "SperanzaBot"
           git config user.email "info@plasmacompany.net"
           git add public/data/
-          git diff --cached --quiet || git commit -m "chore: aggiorna prezzi carburanti $(date +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "chore: aggiorna dati $(date +%Y-%m-%d)"
           git push

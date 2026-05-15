@@ -1,0 +1,29 @@
+{
+  "slug": "brescia",
+  "nome": "Brescia",
+  "provincia": "BS",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 78,
+      "loc_max": 128
+    },
+    {
+      "nome": "Don Bosco/Lamarmora",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 2925,
+  "residenziale_min": 1800,
+  "residenziale_max": 4200,
+  "affitto_media": 91,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

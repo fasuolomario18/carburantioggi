@@ -1,0 +1,34 @@
+{
+  "slug": "pantoprazolo",
+  "nome": "Pantoprazolo",
+  "atc": "A02BC02",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 3.1,
+  "prezzo_medio": 5.6,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Pantoprazolo Teva 20mg 14cpr",
+      "ditta": "Teva",
+      "prezzo": 3.1,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Pantoprazolo EG 40mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 5.2,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Pantorc 40mg 28cpr",
+      "ditta": "Takeda",
+      "prezzo": 8.5,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

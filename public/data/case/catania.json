@@ -1,0 +1,29 @@
+{
+  "slug": "catania",
+  "nome": "Catania",
+  "provincia": "CT",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Picanello",
+      "res_min": 1500,
+      "res_max": 3000,
+      "loc_min": 50,
+      "loc_max": 92
+    },
+    {
+      "nome": "Librino/Nesima",
+      "res_min": 700,
+      "res_max": 1800,
+      "loc_min": 28,
+      "loc_max": 58
+    }
+  ],
+  "residenziale_media": 1750,
+  "residenziale_min": 700,
+  "residenziale_max": 3000,
+  "affitto_media": 57,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

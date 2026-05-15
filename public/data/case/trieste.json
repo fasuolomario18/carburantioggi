@@ -1,0 +1,29 @@
+{
+  "slug": "trieste",
+  "nome": "Trieste",
+  "provincia": "TS",
+  "regione": "Friuli-Venezia Giulia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Cavana",
+      "res_min": 2000,
+      "res_max": 3800,
+      "loc_min": 62,
+      "loc_max": 115
+    },
+    {
+      "nome": "Rione Barriera",
+      "res_min": 1200,
+      "res_max": 2500,
+      "loc_min": 42,
+      "loc_max": 78
+    }
+  ],
+  "residenziale_media": 2375,
+  "residenziale_min": 1200,
+  "residenziale_max": 3800,
+  "affitto_media": 74,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

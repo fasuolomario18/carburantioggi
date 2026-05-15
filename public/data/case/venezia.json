@@ -1,0 +1,43 @@
+{
+  "slug": "venezia",
+  "nome": "Venezia",
+  "provincia": "VE",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Cannareggio",
+      "res_min": 4500,
+      "res_max": 9000,
+      "loc_min": 130,
+      "loc_max": 260
+    },
+    {
+      "nome": "Dorsoduro/San Polo",
+      "res_min": 5000,
+      "res_max": 10000,
+      "loc_min": 145,
+      "loc_max": 290
+    },
+    {
+      "nome": "Mestre",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 60,
+      "loc_max": 100
+    },
+    {
+      "nome": "Marghera",
+      "res_min": 1400,
+      "res_max": 2500,
+      "loc_min": 50,
+      "loc_max": 80
+    }
+  ],
+  "residenziale_media": 4675,
+  "residenziale_min": 1400,
+  "residenziale_max": 10000,
+  "affitto_media": 139,
+  "n_zone": 4,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

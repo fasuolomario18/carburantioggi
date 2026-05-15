@@ -1,0 +1,71 @@
+{
+  "slug": "milano",
+  "nome": "Milano",
+  "provincia": "MI",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Duomo",
+      "res_min": 8500,
+      "res_max": 16000,
+      "loc_min": 230,
+      "loc_max": 400
+    },
+    {
+      "nome": "Brera/Moscova",
+      "res_min": 7500,
+      "res_max": 13000,
+      "loc_min": 200,
+      "loc_max": 350
+    },
+    {
+      "nome": "Navigli/Ticinese",
+      "res_min": 5500,
+      "res_max": 9500,
+      "loc_min": 160,
+      "loc_max": 280
+    },
+    {
+      "nome": "Isola/Porta Nuova",
+      "res_min": 6000,
+      "res_max": 11000,
+      "loc_min": 170,
+      "loc_max": 300
+    },
+    {
+      "nome": "Città Studi",
+      "res_min": 4500,
+      "res_max": 7500,
+      "loc_min": 140,
+      "loc_max": 220
+    },
+    {
+      "nome": "Loreto/Crescenzago",
+      "res_min": 3800,
+      "res_max": 6000,
+      "loc_min": 120,
+      "loc_max": 185
+    },
+    {
+      "nome": "Bicocca/Sesto",
+      "res_min": 3200,
+      "res_max": 5200,
+      "loc_min": 100,
+      "loc_max": 160
+    },
+    {
+      "nome": "Famagosta/Abbiategrasso",
+      "res_min": 2900,
+      "res_max": 4500,
+      "loc_min": 90,
+      "loc_max": 140
+    }
+  ],
+  "residenziale_media": 7163,
+  "residenziale_min": 2900,
+  "residenziale_max": 16000,
+  "affitto_media": 203,
+  "n_zone": 8,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

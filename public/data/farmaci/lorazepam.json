@@ -1,0 +1,27 @@
+{
+  "slug": "lorazepam",
+  "nome": "Lorazepam",
+  "atc": "N05BA06",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 2,
+  "prezzo_min": 3.2,
+  "prezzo_medio": 4.3,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Tavor 1mg 30cpr",
+      "ditta": "Pfizer",
+      "prezzo": 5.4,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Lorazepam EG 1mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.2,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

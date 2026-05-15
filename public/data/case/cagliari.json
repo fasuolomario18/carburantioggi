@@ -1,0 +1,29 @@
+{
+  "slug": "cagliari",
+  "nome": "Cagliari",
+  "provincia": "CA",
+  "regione": "Sardegna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Stampace/Castello",
+      "res_min": 2200,
+      "res_max": 4000,
+      "loc_min": 68,
+      "loc_max": 120
+    },
+    {
+      "nome": "Quartucciu/Monserrato",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 50,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 2625,
+  "residenziale_min": 1500,
+  "residenziale_max": 4000,
+  "affitto_media": 82,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

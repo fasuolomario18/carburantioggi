@@ -1,0 +1,22 @@
+{
+  "slug": "cosenza",
+  "nome": "Cosenza",
+  "provincia": "CS",
+  "regione": "Calabria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Vaglio Lise",
+      "res_min": 900,
+      "res_max": 2000,
+      "loc_min": 32,
+      "loc_max": 62
+    }
+  ],
+  "residenziale_media": 1450,
+  "residenziale_min": 900,
+  "residenziale_max": 2000,
+  "affitto_media": 47,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nimesulide",
+  "nome": "Nimesulide",
+  "atc": "M01AX17",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 2,
+  "prezzo_min": 3.9,
+  "prezzo_medio": 5.55,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Aulin 100mg 30cpr",
+      "ditta": "Reckitt",
+      "prezzo": 7.2,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Nimesulide EG 100mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.9,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "rimini",
+  "nome": "Rimini",
+  "provincia": "RN",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Marina Centro",
+      "res_min": 2800,
+      "res_max": 5000,
+      "loc_min": 85,
+      "loc_max": 150
+    }
+  ],
+  "residenziale_media": 3900,
+  "residenziale_min": 2800,
+  "residenziale_max": 5000,
+  "affitto_media": 118,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

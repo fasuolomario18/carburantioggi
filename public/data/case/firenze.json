@@ -1,0 +1,43 @@
+{
+  "slug": "firenze",
+  "nome": "Firenze",
+  "provincia": "FI",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 4800,
+      "res_max": 8500,
+      "loc_min": 135,
+      "loc_max": 250
+    },
+    {
+      "nome": "Oltrarno",
+      "res_min": 4200,
+      "res_max": 7000,
+      "loc_min": 120,
+      "loc_max": 210
+    },
+    {
+      "nome": "Campo di Marte",
+      "res_min": 3500,
+      "res_max": 5800,
+      "loc_min": 100,
+      "loc_max": 175
+    },
+    {
+      "nome": "Peretola/Novoli",
+      "res_min": 2500,
+      "res_max": 4000,
+      "loc_min": 75,
+      "loc_max": 120
+    }
+  ],
+  "residenziale_media": 5038,
+  "residenziale_min": 2500,
+  "residenziale_max": 8500,
+  "affitto_media": 148,
+  "n_zone": 4,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

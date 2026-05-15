@@ -161,6 +161,33 @@ export default function Home() {
         </section>
       </div>
 
+      {/* SEZIONI DEL PORTALE */}
+      <section className="mb-10">
+        <h2 className="font-semibold text-gray-800 mb-4">Esplora tutte le sezioni</h2>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <Link href="/province" className="bg-white rounded-2xl border border-gray-200 p-5 shadow-sm hover:border-green-400 hover:shadow-md transition-all group text-center">
+            <div className="text-3xl mb-2">⛽</div>
+            <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Carburanti</div>
+            <div className="text-xs text-gray-400 mt-1">Benzina · Gasolio · GPL</div>
+          </Link>
+          <Link href="/case" className="bg-white rounded-2xl border border-gray-200 p-5 shadow-sm hover:border-green-400 hover:shadow-md transition-all group text-center">
+            <div className="text-3xl mb-2">🏠</div>
+            <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Prezzi Case</div>
+            <div className="text-xs text-gray-400 mt-1">Acquisto · Affitto · Zona</div>
+          </Link>
+          <Link href="/bollette" className="bg-white rounded-2xl border border-gray-200 p-5 shadow-sm hover:border-green-400 hover:shadow-md transition-all group text-center">
+            <div className="text-3xl mb-2">⚡</div>
+            <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Bollette</div>
+            <div className="text-xs text-gray-400 mt-1">Luce · Gas · Storico</div>
+          </Link>
+          <Link href="/farmaci" className="bg-white rounded-2xl border border-gray-200 p-5 shadow-sm hover:border-green-400 hover:shadow-md transition-all group text-center">
+            <div className="text-3xl mb-2">💊</div>
+            <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Farmaci</div>
+            <div className="text-xs text-gray-400 mt-1">Prezzi · Generici · AIFA</div>
+          </Link>
+        </div>
+      </section>
+
       {/* TRASPARENZA DATI */}
       <section className="bg-white rounded-2xl border border-gray-200 shadow-sm p-6 mb-6">
         <div className="flex items-start gap-4">

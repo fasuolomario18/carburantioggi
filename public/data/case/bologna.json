@@ -1,0 +1,36 @@
+{
+  "slug": "bologna",
+  "nome": "Bologna",
+  "provincia": "BO",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 4200,
+      "res_max": 7000,
+      "loc_min": 120,
+      "loc_max": 210
+    },
+    {
+      "nome": "Bolognina/Navile",
+      "res_min": 2800,
+      "res_max": 4500,
+      "loc_min": 88,
+      "loc_max": 138
+    },
+    {
+      "nome": "San Vitale/Savena",
+      "res_min": 3000,
+      "res_max": 5000,
+      "loc_min": 92,
+      "loc_max": 150
+    }
+  ],
+  "residenziale_media": 4417,
+  "residenziale_min": 2800,
+  "residenziale_max": 7000,
+  "affitto_media": 133,
+  "n_zone": 3,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

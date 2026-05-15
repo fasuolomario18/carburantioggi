@@ -1,0 +1,27 @@
+{
+  "slug": "beclometasone",
+  "nome": "Beclometasone",
+  "atc": "R03BA01",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 2,
+  "prezzo_min": 6.8,
+  "prezzo_medio": 7.5,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Clenil 100mcg 200dosi",
+      "ditta": "Chiesi",
+      "prezzo": 6.8,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Beclometasone EG 250mcg",
+      "ditta": "EG",
+      "prezzo": 8.2,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

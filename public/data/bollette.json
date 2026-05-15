@@ -1,0 +1,166 @@
+{
+  "aggiornato": "2026-05-15",
+  "trimestre": "I/2026",
+  "luce": {
+    "prezzo_kwh": 0.235,
+    "unita": "€/kWh",
+    "var_trim_pct": 3.1,
+    "var_anno_pct": 10.3,
+    "quota_energia_anno": 634.5,
+    "quota_fissa_anno": 44.52,
+    "oneri_sistema_anno": 38.2,
+    "imposte_anno": 45.8,
+    "totale_anno_stimato": 763.02,
+    "storico": [
+      {
+        "periodo": "I/2022",
+        "kwh": 0.441
+      },
+      {
+        "periodo": "II/2022",
+        "kwh": 0.468
+      },
+      {
+        "periodo": "III/2022",
+        "kwh": 0.591
+      },
+      {
+        "periodo": "IV/2022",
+        "kwh": 0.624
+      },
+      {
+        "periodo": "I/2023",
+        "kwh": 0.315
+      },
+      {
+        "periodo": "II/2023",
+        "kwh": 0.298
+      },
+      {
+        "periodo": "III/2023",
+        "kwh": 0.268
+      },
+      {
+        "periodo": "IV/2023",
+        "kwh": 0.242
+      },
+      {
+        "periodo": "I/2024",
+        "kwh": 0.238
+      },
+      {
+        "periodo": "II/2024",
+        "kwh": 0.231
+      },
+      {
+        "periodo": "III/2024",
+        "kwh": 0.225
+      },
+      {
+        "periodo": "IV/2024",
+        "kwh": 0.22
+      },
+      {
+        "periodo": "I/2025",
+        "kwh": 0.213
+      },
+      {
+        "periodo": "II/2025",
+        "kwh": 0.218
+      },
+      {
+        "periodo": "III/2025",
+        "kwh": 0.222
+      },
+      {
+        "periodo": "IV/2025",
+        "kwh": 0.228
+      },
+      {
+        "periodo": "I/2026",
+        "kwh": 0.235
+      }
+    ]
+  },
+  "gas": {
+    "prezzo_smc": 0.812,
+    "unita": "€/Smc",
+    "var_trim_pct": 2.1,
+    "var_anno_pct": 5.2,
+    "quota_fissa_anno": 64.8,
+    "quota_energia_anno": 1136.8,
+    "totale_anno_stimato": 1201.6,
+    "storico": [
+      {
+        "periodo": "I/2022",
+        "smc": 1.052
+      },
+      {
+        "periodo": "II/2022",
+        "smc": 1.187
+      },
+      {
+        "periodo": "III/2022",
+        "smc": 1.641
+      },
+      {
+        "periodo": "IV/2022",
+        "smc": 1.823
+      },
+      {
+        "periodo": "I/2023",
+        "smc": 1.245
+      },
+      {
+        "periodo": "II/2023",
+        "smc": 0.987
+      },
+      {
+        "periodo": "III/2023",
+        "smc": 0.842
+      },
+      {
+        "periodo": "IV/2023",
+        "smc": 0.798
+      },
+      {
+        "periodo": "I/2024",
+        "smc": 0.782
+      },
+      {
+        "periodo": "II/2024",
+        "smc": 0.761
+      },
+      {
+        "periodo": "III/2024",
+        "smc": 0.745
+      },
+      {
+        "periodo": "IV/2024",
+        "smc": 0.758
+      },
+      {
+        "periodo": "I/2025",
+        "smc": 0.772
+      },
+      {
+        "periodo": "II/2025",
+        "smc": 0.768
+      },
+      {
+        "periodo": "III/2025",
+        "smc": 0.781
+      },
+      {
+        "periodo": "IV/2025",
+        "smc": 0.795
+      },
+      {
+        "periodo": "I/2026",
+        "smc": 0.812
+      }
+    ]
+  },
+  "note": "Prezzi di riferimento ARERA per clienti in mercato tutelato (ex maggior tutela). I prezzi effettivi possono variare in base al fornitore e al contratto.",
+  "fonte": "https://www.arera.it/tariffe/"
+}

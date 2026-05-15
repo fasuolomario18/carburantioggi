@@ -1,0 +1,22 @@
+{
+  "slug": "siena",
+  "nome": "Siena",
+  "provincia": "SI",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 3000,
+      "res_max": 5500,
+      "loc_min": 92,
+      "loc_max": 165
+    }
+  ],
+  "residenziale_media": 4250,
+  "residenziale_min": 3000,
+  "residenziale_max": 5500,
+  "affitto_media": 129,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

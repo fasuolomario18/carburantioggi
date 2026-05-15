@@ -1,0 +1,43 @@
+{
+  "slug": "torino",
+  "nome": "Torino",
+  "provincia": "TO",
+  "regione": "Piemonte",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Crocetta",
+      "res_min": 3200,
+      "res_max": 5500,
+      "loc_min": 95,
+      "loc_max": 165
+    },
+    {
+      "nome": "Cit Turin/Collina",
+      "res_min": 2800,
+      "res_max": 4800,
+      "loc_min": 85,
+      "loc_max": 145
+    },
+    {
+      "nome": "San Salvario/Vanchiglia",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 78,
+      "loc_max": 128
+    },
+    {
+      "nome": "Mirafiori/Nichelino",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 50,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 3413,
+  "residenziale_min": 1500,
+  "residenziale_max": 5500,
+  "affitto_media": 104,
+  "n_zone": 4,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

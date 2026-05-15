@@ -1,0 +1,48 @@
+{
+  "slug": "ibuprofene",
+  "nome": "Ibuprofene",
+  "atc": "M01AE01",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 5,
+  "prezzo_min": 2.7,
+  "prezzo_medio": 4.02,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Brufen 200mg 24cpr",
+      "ditta": "Viatris",
+      "prezzo": 4.2,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Moment 200mg 24cps",
+      "ditta": "Angelini",
+      "prezzo": 5.5,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Nurofen 200mg 12cpr",
+      "ditta": "RB",
+      "prezzo": 4.8,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Ibuprofene EG 400mg",
+      "ditta": "EG",
+      "prezzo": 2.9,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Ibuprofene Teva 400mg",
+      "ditta": "Teva",
+      "prezzo": 2.7,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

@@ -46,9 +46,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
               {/* Nav */}
               <nav className="flex items-center gap-1 text-sm font-medium text-gray-600">
-                <Link href="/regioni" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">Regioni</Link>
-                <Link href="/province" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">Province</Link>
-                <Link href="/contatti" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">Prezzi</Link>
+                <Link href="/carburanti" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">⛽ Carburanti</Link>
+                <Link href="/case" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">🏠 Case</Link>
+                <Link href="/bollette" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">⚡ Bollette</Link>
+                <Link href="/farmaci" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors hidden lg:block">💊 Farmaci</Link>
               </nav>
             </div>
           </div>

@@ -1,0 +1,34 @@
+{
+  "slug": "cetirizina",
+  "nome": "Cetirizina",
+  "atc": "R06AE07",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 2.8,
+  "prezzo_medio": 4.4,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Zyrtec 10mg 7cpr",
+      "ditta": "UCB",
+      "prezzo": 5.2,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Zirtec 10mg 7cpr",
+      "ditta": "UCB",
+      "prezzo": 5.2,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Cetirizina EG 10mg 7cpr",
+      "ditta": "EG",
+      "prezzo": 2.8,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

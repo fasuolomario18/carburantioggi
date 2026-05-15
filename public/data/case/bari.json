@@ -1,0 +1,36 @@
+{
+  "slug": "bari",
+  "nome": "Bari",
+  "provincia": "BA",
+  "regione": "Puglia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Murattiano/Libertà",
+      "res_min": 2000,
+      "res_max": 3800,
+      "loc_min": 62,
+      "loc_max": 115
+    },
+    {
+      "nome": "Madonnella/Carrassi",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 55,
+      "loc_max": 98
+    },
+    {
+      "nome": "Japigia/Torre a Mare",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 48,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 2517,
+  "residenziale_min": 1500,
+  "residenziale_max": 3800,
+  "affitto_media": 78,
+  "n_zone": 3,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

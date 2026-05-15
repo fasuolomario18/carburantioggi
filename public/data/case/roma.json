@@ -1,0 +1,71 @@
+{
+  "slug": "roma",
+  "nome": "Roma",
+  "provincia": "RM",
+  "regione": "Lazio",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 5200,
+      "res_max": 9500,
+      "loc_min": 150,
+      "loc_max": 280
+    },
+    {
+      "nome": "Prati/Trionfale",
+      "res_min": 4800,
+      "res_max": 7200,
+      "loc_min": 140,
+      "loc_max": 220
+    },
+    {
+      "nome": "Parioli/Flaminio",
+      "res_min": 4500,
+      "res_max": 7000,
+      "loc_min": 130,
+      "loc_max": 210
+    },
+    {
+      "nome": "Trastevere",
+      "res_min": 4200,
+      "res_max": 6800,
+      "loc_min": 130,
+      "loc_max": 200
+    },
+    {
+      "nome": "EUR/Ostiense",
+      "res_min": 3500,
+      "res_max": 5500,
+      "loc_min": 100,
+      "loc_max": 165
+    },
+    {
+      "nome": "Tiburtino/Prenestino",
+      "res_min": 2800,
+      "res_max": 4200,
+      "loc_min": 85,
+      "loc_max": 130
+    },
+    {
+      "nome": "Tor Bella Monaca",
+      "res_min": 1800,
+      "res_max": 2800,
+      "loc_min": 65,
+      "loc_max": 95
+    },
+    {
+      "nome": "Aurelio/Gianicolense",
+      "res_min": 3200,
+      "res_max": 5000,
+      "loc_min": 95,
+      "loc_max": 150
+    }
+  ],
+  "residenziale_media": 4875,
+  "residenziale_min": 1800,
+  "residenziale_max": 9500,
+  "affitto_media": 147,
+  "n_zone": 8,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

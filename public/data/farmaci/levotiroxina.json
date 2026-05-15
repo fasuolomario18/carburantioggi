@@ -1,0 +1,41 @@
+{
+  "slug": "levotiroxina",
+  "nome": "Levotiroxina",
+  "atc": "H03AA01",
+  "categoria_atc": "Preparati ormonali sistemici",
+  "n_farmaci": 4,
+  "prezzo_min": 4.9,
+  "prezzo_medio": 5.23,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Eutirox 25mcg 50cpr",
+      "ditta": "Merck",
+      "prezzo": 4.9,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Eutirox 50mcg 50cpr",
+      "ditta": "Merck",
+      "prezzo": 4.9,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Eutirox 100mcg 50cpr",
+      "ditta": "Merck",
+      "prezzo": 4.9,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Tirosint 100mcg 30cpr",
+      "ditta": "IBSA",
+      "prezzo": 6.2,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

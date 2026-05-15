@@ -1,0 +1,22 @@
+{
+  "slug": "catanzaro",
+  "nome": "Catanzaro",
+  "provincia": "CZ",
+  "regione": "Calabria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro",
+      "res_min": 800,
+      "res_max": 1800,
+      "loc_min": 30,
+      "loc_max": 58
+    }
+  ],
+  "residenziale_media": 1300,
+  "residenziale_min": 800,
+  "residenziale_max": 1800,
+  "affitto_media": 44,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

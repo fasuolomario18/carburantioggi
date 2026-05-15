@@ -1,0 +1,22 @@
+{
+  "slug": "venezia-mestre",
+  "nome": "Venezia Mestre",
+  "provincia": "VE",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 60,
+      "loc_max": 100
+    }
+  ],
+  "residenziale_media": 2500,
+  "residenziale_min": 1800,
+  "residenziale_max": 3200,
+  "affitto_media": 80,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

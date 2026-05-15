@@ -1,0 +1,48 @@
+{
+  "slug": "paracetamolo",
+  "nome": "Paracetamolo",
+  "atc": "N02BE01",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 5,
+  "prezzo_min": 1.5,
+  "prezzo_medio": 2.4,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Tachipirina 500mg 20cpr",
+      "ditta": "Angelini",
+      "prezzo": 2.5,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Tachipirina 1000mg 16cpr",
+      "ditta": "Angelini",
+      "prezzo": 3.2,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Efferalgan 500mg 16cpr",
+      "ditta": "UPSA",
+      "prezzo": 3,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Paracetamolo Teva 500mg",
+      "ditta": "Teva",
+      "prezzo": 1.5,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Paracetamolo EG 1000mg",
+      "ditta": "EG",
+      "prezzo": 1.8,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

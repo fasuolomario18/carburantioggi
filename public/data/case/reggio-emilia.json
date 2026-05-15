@@ -1,0 +1,22 @@
+{
+  "slug": "reggio-emilia",
+  "nome": "Reggio Emilia",
+  "provincia": "RE",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro",
+      "res_min": 2200,
+      "res_max": 3800,
+      "loc_min": 68,
+      "loc_max": 115
+    }
+  ],
+  "residenziale_media": 3000,
+  "residenziale_min": 2200,
+  "residenziale_max": 3800,
+  "affitto_media": 92,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

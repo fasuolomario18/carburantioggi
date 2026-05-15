@@ -1,0 +1,22 @@
+{
+  "slug": "bolzano",
+  "nome": "Bolzano",
+  "provincia": "BZ",
+  "regione": "Trentino-Alto Adige",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Europa",
+      "res_min": 4000,
+      "res_max": 7000,
+      "loc_min": 115,
+      "loc_max": 210
+    }
+  ],
+  "residenziale_media": 5500,
+  "residenziale_min": 4000,
+  "residenziale_max": 7000,
+  "affitto_media": 163,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

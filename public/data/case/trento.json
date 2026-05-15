@@ -1,0 +1,22 @@
+{
+  "slug": "trento",
+  "nome": "Trento",
+  "provincia": "TN",
+  "regione": "Trentino-Alto Adige",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Piedicastello",
+      "res_min": 2800,
+      "res_max": 4800,
+      "loc_min": 88,
+      "loc_max": 148
+    }
+  ],
+  "residenziale_media": 3800,
+  "residenziale_min": 2800,
+  "residenziale_max": 4800,
+  "affitto_media": 118,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

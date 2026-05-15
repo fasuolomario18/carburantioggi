@@ -1,0 +1,27 @@
+{
+  "slug": "simvastatina",
+  "nome": "Simvastatina",
+  "atc": "C10AA01",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 3.8,
+  "prezzo_medio": 6.65,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Simvastatina EG 20mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.8,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Zocor 40mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 9.5,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

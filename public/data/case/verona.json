@@ -1,0 +1,36 @@
+{
+  "slug": "verona",
+  "nome": "Verona",
+  "provincia": "VR",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 3200,
+      "res_max": 5500,
+      "loc_min": 95,
+      "loc_max": 165
+    },
+    {
+      "nome": "Borgo Trento/Quinzano",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 78,
+      "loc_max": 128
+    },
+    {
+      "nome": "Golosine/Stadio",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 3400,
+  "residenziale_min": 1800,
+  "residenziale_max": 5500,
+  "affitto_media": 104,
+  "n_zone": 3,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

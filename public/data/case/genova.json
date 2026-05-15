@@ -1,0 +1,36 @@
+{
+  "slug": "genova",
+  "nome": "Genova",
+  "provincia": "GE",
+  "regione": "Liguria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Albaro",
+      "res_min": 2500,
+      "res_max": 4500,
+      "loc_min": 75,
+      "loc_max": 135
+    },
+    {
+      "nome": "Nervi/Quarto",
+      "res_min": 2800,
+      "res_max": 5000,
+      "loc_min": 82,
+      "loc_max": 148
+    },
+    {
+      "nome": "Sestri/Cornigliano",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 50,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 3183,
+  "residenziale_min": 1500,
+  "residenziale_max": 5000,
+  "affitto_media": 96,
+  "n_zone": 3,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

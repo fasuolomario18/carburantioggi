@@ -1,0 +1,185 @@
+{
+  "aggiornato": "2026-05-15",
+  "principi_attivi": [
+    {
+      "slug": "paracetamolo",
+      "nome": "Paracetamolo",
+      "atc": "N02BE01",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 5,
+      "prezzo_min": 1.5,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "ibuprofene",
+      "nome": "Ibuprofene",
+      "atc": "M01AE01",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 5,
+      "prezzo_min": 2.7,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "amoxicillina",
+      "nome": "Amoxicillina",
+      "atc": "J01CA04",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.1,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "pantoprazolo",
+      "nome": "Pantoprazolo",
+      "atc": "A02BC02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 3.1,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "atorvastatina",
+      "nome": "Atorvastatina",
+      "atc": "C10AA05",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 4.5,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "metformina",
+      "nome": "Metformina",
+      "atc": "A10BA02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 3.2,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "levotiroxina",
+      "nome": "Levotiroxina",
+      "atc": "H03AA01",
+      "categoria_atc": "Preparati ormonali sistemici",
+      "n_farmaci": 4,
+      "prezzo_min": 4.9,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "amlodipina",
+      "nome": "Amlodipina",
+      "atc": "C08CA01",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 3.5,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "lansoprazolo",
+      "nome": "Lansoprazolo",
+      "atc": "A02BC03",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 2,
+      "prezzo_min": 2.8,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "simvastatina",
+      "nome": "Simvastatina",
+      "atc": "C10AA01",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 3.8,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "ramipril",
+      "nome": "Ramipril",
+      "atc": "C09AA05",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 3.2,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "omeprazolo",
+      "nome": "Omeprazolo",
+      "atc": "A02BC01",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 2.5,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "beclometasone",
+      "nome": "Beclometasone",
+      "atc": "R03BA01",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 2,
+      "prezzo_min": 6.8,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "diclofenac",
+      "nome": "Diclofenac",
+      "atc": "M01AB05",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 3.4,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "cetirizina",
+      "nome": "Cetirizina",
+      "atc": "R06AE07",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 2.8,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "lorazepam",
+      "nome": "Lorazepam",
+      "atc": "N05BA06",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 2,
+      "prezzo_min": 3.2,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "acido-acetilsalicilico",
+      "nome": "Acido Acetilsalicilico",
+      "atc": "B01AC06",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 3,
+      "prezzo_min": 2.5,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "nimesulide",
+      "nome": "Nimesulide",
+      "atc": "M01AX17",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 2,
+      "prezzo_min": 3.9,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "sertralina",
+      "nome": "Sertralina",
+      "atc": "N06AB06",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 2,
+      "prezzo_min": 5.8,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "furosemide",
+      "nome": "Furosemide",
+      "atc": "C03CA01",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 2.2,
+      "ha_rimborsato": true
+    }
+  ]
+}

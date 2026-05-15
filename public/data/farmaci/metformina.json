@@ -1,0 +1,34 @@
+{
+  "slug": "metformina",
+  "nome": "Metformina",
+  "atc": "A10BA02",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 3.2,
+  "prezzo_medio": 3.83,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Metformina EG 500mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.2,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Glucophage 1000mg 30cpr",
+      "ditta": "Merck",
+      "prezzo": 4.8,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Metformina Teva 850mg 30cpr",
+      "ditta": "Teva",
+      "prezzo": 3.5,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

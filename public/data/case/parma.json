@@ -1,0 +1,22 @@
+{
+  "slug": "parma",
+  "nome": "Parma",
+  "provincia": "PR",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Oltretorrente",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 78,
+      "loc_max": 128
+    }
+  ],
+  "residenziale_media": 3350,
+  "residenziale_min": 2500,
+  "residenziale_max": 4200,
+  "affitto_media": 103,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

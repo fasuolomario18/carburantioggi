@@ -1,0 +1,27 @@
+{
+  "slug": "ramipril",
+  "nome": "Ramipril",
+  "atc": "C09AA05",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 3.2,
+  "prezzo_medio": 5.5,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-15",
+  "farmaci": [
+    {
+      "nome": "Ramipril EG 5mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 3.2,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Triatec 10mg 28cpr",
+      "ditta": "Sanofi",
+      "prezzo": 7.8,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}
