@@ -1,0 +1,22 @@
+{
+  "slug": "capri",
+  "nome": "Capri",
+  "provincia": "NA",
+  "regione": "Campania",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Marina Grande",
+      "res_min": 7000,
+      "res_max": 18000,
+      "loc_min": 200,
+      "loc_max": 520
+    }
+  ],
+  "residenziale_media": 12500,
+  "residenziale_min": 7000,
+  "residenziale_max": 18000,
+  "affitto_media": 360,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

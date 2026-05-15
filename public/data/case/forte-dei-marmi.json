@@ -1,0 +1,22 @@
+{
+  "slug": "forte-dei-marmi",
+  "nome": "Forte dei Marmi",
+  "provincia": "LU",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Ponente",
+      "res_min": 5000,
+      "res_max": 12000,
+      "loc_min": 145,
+      "loc_max": 350
+    }
+  ],
+  "residenziale_media": 8500,
+  "residenziale_min": 5000,
+  "residenziale_max": 12000,
+  "affitto_media": 248,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

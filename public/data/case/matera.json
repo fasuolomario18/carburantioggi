@@ -1,0 +1,22 @@
+{
+  "slug": "matera",
+  "nome": "Matera",
+  "provincia": "MT",
+  "regione": "Basilicata",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Sassi/Centro",
+      "res_min": 2000,
+      "res_max": 4500,
+      "loc_min": 62,
+      "loc_max": 138
+    }
+  ],
+  "residenziale_media": 3250,
+  "residenziale_min": 2000,
+  "residenziale_max": 4500,
+  "affitto_media": 100,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

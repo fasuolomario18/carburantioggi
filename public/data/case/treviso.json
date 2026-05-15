@@ -1,0 +1,29 @@
+{
+  "slug": "treviso",
+  "nome": "Treviso",
+  "provincia": "TV",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Murato",
+      "res_min": 2800,
+      "res_max": 5000,
+      "loc_min": 85,
+      "loc_max": 150
+    },
+    {
+      "nome": "Fiera/Santi Quaranta",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 3200,
+  "residenziale_min": 1800,
+  "residenziale_max": 5000,
+  "affitto_media": 98,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

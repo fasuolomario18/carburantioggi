@@ -199,6 +199,250 @@ const COMUNI_OMI = [
   { nome: "Arezzo", prov: "AR", reg: "Toscana", zone: [
     { nome: "Centro Storico", res_min: 1800, res_max: 3500, loc_min: 58, loc_max: 108 },
   ]},
+  // LOMBARDIA
+  { nome: "Monza", prov: "MB", reg: "Lombardia", zone: [
+    { nome: "Centro/San Fruttuoso", res_min: 2500, res_max: 4200, loc_min: 78, loc_max: 128 },
+    { nome: "Cederna/Libertà", res_min: 1800, res_max: 3000, loc_min: 58, loc_max: 92 },
+  ]},
+  { nome: "Como", prov: "CO", reg: "Lombardia", zone: [
+    { nome: "Centro/Lago", res_min: 3000, res_max: 5500, loc_min: 92, loc_max: 165 },
+    { nome: "Camerlata/Rebbio", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  { nome: "Varese", prov: "VA", reg: "Lombardia", zone: [
+    { nome: "Centro/Giubiano", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Lecco", prov: "LC", reg: "Lombardia", zone: [
+    { nome: "Centro/Rancio", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Mantova", prov: "MN", reg: "Lombardia", zone: [
+    { nome: "Centro Storico", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Cremona", prov: "CR", reg: "Lombardia", zone: [
+    { nome: "Centro", res_min: 1800, res_max: 3200, loc_min: 55, loc_max: 98 },
+  ]},
+  { nome: "Pavia", prov: "PV", reg: "Lombardia", zone: [
+    { nome: "Centro/Ticinello", res_min: 1800, res_max: 3500, loc_min: 58, loc_max: 108 },
+  ]},
+  { nome: "Sondrio", prov: "SO", reg: "Lombardia", zone: [
+    { nome: "Centro", res_min: 1500, res_max: 2800, loc_min: 50, loc_max: 88 },
+  ]},
+  // PIEMONTE
+  { nome: "Alessandria", prov: "AL", reg: "Piemonte", zone: [
+    { nome: "Centro/Cristo", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Asti", prov: "AT", reg: "Piemonte", zone: [
+    { nome: "Centro Storico", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Cuneo", prov: "CN", reg: "Piemonte", zone: [
+    { nome: "Centro", res_min: 1800, res_max: 3200, loc_min: 55, loc_max: 98 },
+  ]},
+  { nome: "Novara", prov: "NO", reg: "Piemonte", zone: [
+    { nome: "Centro/Bicocca", res_min: 1500, res_max: 2800, loc_min: 50, loc_max: 88 },
+  ]},
+  { nome: "Verbania", prov: "VB", reg: "Piemonte", zone: [
+    { nome: "Centro/Pallanza", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Vercelli", prov: "VC", reg: "Piemonte", zone: [
+    { nome: "Centro", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  // VENETO
+  { nome: "Vicenza", prov: "VI", reg: "Veneto", zone: [
+    { nome: "Centro Storico", res_min: 2500, res_max: 4500, loc_min: 78, loc_max: 138 },
+    { nome: "Gogna/Laghetto", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  { nome: "Treviso", prov: "TV", reg: "Veneto", zone: [
+    { nome: "Centro Murato", res_min: 2800, res_max: 5000, loc_min: 85, loc_max: 150 },
+    { nome: "Fiera/Santi Quaranta", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  { nome: "Rovigo", prov: "RO", reg: "Veneto", zone: [
+    { nome: "Centro", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Belluno", prov: "BL", reg: "Veneto", zone: [
+    { nome: "Centro/Lambioi", res_min: 1500, res_max: 2800, loc_min: 50, loc_max: 88 },
+  ]},
+  // FRIULI-VENEZIA GIULIA
+  { nome: "Udine", prov: "UD", reg: "Friuli-Venezia Giulia", zone: [
+    { nome: "Centro/Laipacco", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  { nome: "Pordenone", prov: "PN", reg: "Friuli-Venezia Giulia", zone: [
+    { nome: "Centro", res_min: 1500, res_max: 2800, loc_min: 50, loc_max: 88 },
+  ]},
+  // LIGURIA
+  { nome: "La Spezia", prov: "SP", reg: "Liguria", zone: [
+    { nome: "Centro/Migliarina", res_min: 1800, res_max: 3500, loc_min: 58, loc_max: 108 },
+  ]},
+  { nome: "Savona", prov: "SV", reg: "Liguria", zone: [
+    { nome: "Centro/Villetta", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  { nome: "Imperia", prov: "IM", reg: "Liguria", zone: [
+    { nome: "Porto Maurizio/Oneglia", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Sanremo", prov: "IM", reg: "Liguria", zone: [
+    { nome: "Centro/Levante", res_min: 2500, res_max: 5000, loc_min: 78, loc_max: 150 },
+  ]},
+  // EMILIA-ROMAGNA
+  { nome: "Piacenza", prov: "PC", reg: "Emilia-Romagna", zone: [
+    { nome: "Centro Storico", res_min: 1800, res_max: 3200, loc_min: 55, loc_max: 98 },
+  ]},
+  { nome: "Forlì", prov: "FC", reg: "Emilia-Romagna", zone: [
+    { nome: "Centro/San Pietro", res_min: 1800, res_max: 3200, loc_min: 55, loc_max: 98 },
+  ]},
+  { nome: "Cesena", prov: "FC", reg: "Emilia-Romagna", zone: [
+    { nome: "Centro/Oltresavio", res_min: 1800, res_max: 3200, loc_min: 55, loc_max: 98 },
+  ]},
+  // TOSCANA
+  { nome: "Pistoia", prov: "PT", reg: "Toscana", zone: [
+    { nome: "Centro Storico", res_min: 1800, res_max: 3500, loc_min: 55, loc_max: 108 },
+  ]},
+  { nome: "Grosseto", prov: "GR", reg: "Toscana", zone: [
+    { nome: "Centro/Gorarella", res_min: 1500, res_max: 2800, loc_min: 48, loc_max: 88 },
+  ]},
+  { nome: "Massa", prov: "MS", reg: "Toscana", zone: [
+    { nome: "Centro/Marina di Massa", res_min: 2000, res_max: 3800, loc_min: 62, loc_max: 115 },
+  ]},
+  { nome: "Carrara", prov: "MS", reg: "Toscana", zone: [
+    { nome: "Centro/Avenza", res_min: 1800, res_max: 3200, loc_min: 58, loc_max: 98 },
+  ]},
+  // UMBRIA
+  { nome: "Terni", prov: "TR", reg: "Umbria", zone: [
+    { nome: "Centro/Borgo Bovio", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  // MARCHE
+  { nome: "Pesaro", prov: "PU", reg: "Marche", zone: [
+    { nome: "Centro/Tombaccia", res_min: 1800, res_max: 3500, loc_min: 55, loc_max: 108 },
+  ]},
+  { nome: "Macerata", prov: "MC", reg: "Marche", zone: [
+    { nome: "Centro Storico", res_min: 1500, res_max: 2800, loc_min: 48, loc_max: 88 },
+  ]},
+  { nome: "Ascoli Piceno", prov: "AP", reg: "Marche", zone: [
+    { nome: "Centro Storico", res_min: 1500, res_max: 2800, loc_min: 48, loc_max: 88 },
+  ]},
+  // LAZIO
+  { nome: "Latina", prov: "LT", reg: "Lazio", zone: [
+    { nome: "Centro/Q4", res_min: 1500, res_max: 2800, loc_min: 48, loc_max: 88 },
+  ]},
+  { nome: "Frosinone", prov: "FR", reg: "Lazio", zone: [
+    { nome: "Centro/Scalo", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  { nome: "Viterbo", prov: "VT", reg: "Lazio", zone: [
+    { nome: "Centro Storico", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  // CAMPANIA
+  { nome: "Caserta", prov: "CE", reg: "Campania", zone: [
+    { nome: "Centro/Ercole", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Avellino", prov: "AV", reg: "Campania", zone: [
+    { nome: "Centro/Valle", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  { nome: "Benevento", prov: "BN", reg: "Campania", zone: [
+    { nome: "Centro/Ferrovia", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Torre del Greco", prov: "NA", reg: "Campania", zone: [
+    { nome: "Centro/Marina", res_min: 1500, res_max: 2800, loc_min: 48, loc_max: 88 },
+  ]},
+  { nome: "Giugliano in Campania", prov: "NA", reg: "Campania", zone: [
+    { nome: "Centro/Varcaturo", res_min: 1200, res_max: 2200, loc_min: 40, loc_max: 70 },
+  ]},
+  // BASILICATA
+  { nome: "Potenza", prov: "PZ", reg: "Basilicata", zone: [
+    { nome: "Centro/Poggio Tre Galli", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Matera", prov: "MT", reg: "Basilicata", zone: [
+    { nome: "Sassi/Centro", res_min: 2000, res_max: 4500, loc_min: 62, loc_max: 138 },
+  ]},
+  // CALABRIA
+  { nome: "Crotone", prov: "KR", reg: "Calabria", zone: [
+    { nome: "Centro/Farina", res_min: 700, res_max: 1600, loc_min: 28, loc_max: 52 },
+  ]},
+  { nome: "Vibo Valentia", prov: "VV", reg: "Calabria", zone: [
+    { nome: "Centro", res_min: 700, res_max: 1600, loc_min: 28, loc_max: 52 },
+  ]},
+  { nome: "Lamezia Terme", prov: "CZ", reg: "Calabria", zone: [
+    { nome: "Centro/Sambiase", res_min: 800, res_max: 1800, loc_min: 30, loc_max: 58 },
+  ]},
+  // SICILIA
+  { nome: "Agrigento", prov: "AG", reg: "Sicilia", zone: [
+    { nome: "Centro/Villaseta", res_min: 700, res_max: 1800, loc_min: 28, loc_max: 58 },
+  ]},
+  { nome: "Trapani", prov: "TP", reg: "Sicilia", zone: [
+    { nome: "Centro/Villa Rosina", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Ragusa", prov: "RG", reg: "Sicilia", zone: [
+    { nome: "Ibla/Centro", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  { nome: "Marsala", prov: "TP", reg: "Sicilia", zone: [
+    { nome: "Centro/Lido", res_min: 800, res_max: 1800, loc_min: 30, loc_max: 58 },
+  ]},
+  { nome: "Gela", prov: "CL", reg: "Sicilia", zone: [
+    { nome: "Centro", res_min: 600, res_max: 1400, loc_min: 25, loc_max: 48 },
+  ]},
+  // SARDEGNA
+  { nome: "Nuoro", prov: "NU", reg: "Sardegna", zone: [
+    { nome: "Centro/Biscollai", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Oristano", prov: "OR", reg: "Sardegna", zone: [
+    { nome: "Centro", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Olbia", prov: "SS", reg: "Sardegna", zone: [
+    { nome: "Centro/Berchideddu", res_min: 2000, res_max: 4000, loc_min: 62, loc_max: 120 },
+  ]},
+  // ABRUZZO
+  { nome: "L'Aquila", prov: "AQ", reg: "Abruzzo", zone: [
+    { nome: "Centro Storico", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Chieti", prov: "CH", reg: "Abruzzo", zone: [
+    { nome: "Centro/Scalo", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Teramo", prov: "TE", reg: "Abruzzo", zone: [
+    { nome: "Centro", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  // MOLISE
+  { nome: "Campobasso", prov: "CB", reg: "Molise", zone: [
+    { nome: "Centro/Vazzieri", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  // PUGLIA
+  { nome: "Lecce", prov: "LE", reg: "Puglia", zone: [
+    { nome: "Centro Storico", res_min: 1800, res_max: 3800, loc_min: 58, loc_max: 115 },
+    { nome: "Rudiae/San Lazzaro", res_min: 1200, res_max: 2500, loc_min: 42, loc_max: 78 },
+  ]},
+  { nome: "Brindisi", prov: "BR", reg: "Puglia", zone: [
+    { nome: "Centro/Bozzano", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  { nome: "Andria", prov: "BT", reg: "Puglia", zone: [
+    { nome: "Centro", res_min: 900, res_max: 2000, loc_min: 32, loc_max: 62 },
+  ]},
+  { nome: "Barletta", prov: "BT", reg: "Puglia", zone: [
+    { nome: "Centro/Patalini", res_min: 1000, res_max: 2200, loc_min: 38, loc_max: 70 },
+  ]},
+  // VALLE D'AOSTA
+  { nome: "Aosta", prov: "AO", reg: "Valle d'Aosta", zone: [
+    { nome: "Centro Storico/Consolata", res_min: 2500, res_max: 4500, loc_min: 78, loc_max: 138 },
+  ]},
+  // CITTÀ TURISTICHE
+  { nome: "Amalfi", prov: "SA", reg: "Campania", zone: [
+    { nome: "Centro/Marina Grande", res_min: 3500, res_max: 7000, loc_min: 100, loc_max: 210 },
+  ]},
+  { nome: "Portofino", prov: "GE", reg: "Liguria", zone: [
+    { nome: "Centro/Porto", res_min: 8000, res_max: 18000, loc_min: 220, loc_max: 500 },
+  ]},
+  { nome: "Taormina", prov: "ME", reg: "Sicilia", zone: [
+    { nome: "Centro/Isolabella", res_min: 3000, res_max: 7000, loc_min: 92, loc_max: 210 },
+  ]},
+  { nome: "Positano", prov: "SA", reg: "Campania", zone: [
+    { nome: "Centro/Fornillo", res_min: 5000, res_max: 12000, loc_min: 145, loc_max: 350 },
+  ]},
+  { nome: "Cortina d'Ampezzo", prov: "BL", reg: "Veneto", zone: [
+    { nome: "Centro/Zuel", res_min: 6000, res_max: 15000, loc_min: 170, loc_max: 430 },
+  ]},
+  { nome: "Forte dei Marmi", prov: "LU", reg: "Toscana", zone: [
+    { nome: "Centro/Ponente", res_min: 5000, res_max: 12000, loc_min: 145, loc_max: 350 },
+  ]},
+  { nome: "Porto Cervo", prov: "SS", reg: "Sardegna", zone: [
+    { nome: "Centro/Porto Vecchio", res_min: 8000, res_max: 20000, loc_min: 220, loc_max: 580 },
+  ]},
+  { nome: "Capri", prov: "NA", reg: "Campania", zone: [
+    { nome: "Centro/Marina Grande", res_min: 7000, res_max: 18000, loc_min: 200, loc_max: 520 },
+  ]},
 ];
 
 async function main() {

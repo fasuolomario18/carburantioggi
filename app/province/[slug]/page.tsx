@@ -76,8 +76,23 @@ export default async function ProvinciaPage({ params }: { params: Promise<{ slug
     .filter(pr => pr.regione === p.regione && pr.slug !== p.slug)
     .slice(0, 6);
 
+  const benzSelf = p.prezzi?.benzina?.self_media;
+  const gasSelf = p.prezzi?.gasolio?.self_media;
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": `Prezzi Carburanti ${p.nome} (${p.sigla}) — Aggiornati Oggi`,
+    "description": `Prezzi benzina e gasolio a ${p.nome}, ${p.regione}. ${benzSelf ? `Benzina self: €${benzSelf.toFixed(3)}/L.` : ""} ${gasSelf ? `Gasolio self: €${gasSelf.toFixed(3)}/L.` : ""} Dati MIMIT ufficiali.`,
+    "url": `https://www.prezzioggi.com/province/${p.slug}`,
+    "creator": { "@type": "Organization", "name": "MIMIT — Ministero delle Imprese", "url": "https://www.mimit.gov.it" },
+    "dateModified": p.aggiornato,
+    "spatialCoverage": { "@type": "Place", "name": `${p.nome}, ${p.regione}, Italia` },
+  };
+
   return (
     <div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 
       {/* BREADCRUMB */}
       <nav className="text-xs text-gray-400 mb-5 flex items-center gap-1.5 flex-wrap">

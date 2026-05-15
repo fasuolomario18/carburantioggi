@@ -1,0 +1,29 @@
+{
+  "slug": "monza",
+  "nome": "Monza",
+  "provincia": "MB",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/San Fruttuoso",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 78,
+      "loc_max": 128
+    },
+    {
+      "nome": "Cederna/Libertà",
+      "res_min": 1800,
+      "res_max": 3000,
+      "loc_min": 58,
+      "loc_max": 92
+    }
+  ],
+  "residenziale_media": 2875,
+  "residenziale_min": 1800,
+  "residenziale_max": 4200,
+  "affitto_media": 89,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

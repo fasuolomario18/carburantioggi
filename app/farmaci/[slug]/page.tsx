@@ -56,8 +56,26 @@ export default async function FarmacoPage({ params }: { params: Promise<{ slug: 
   const farmaciOrdinati = [...p.farmaci].sort((a, b) => (a.prezzo ?? 9999) - (b.prezzo ?? 9999));
   const risparmioMax = p.prezzo_medio && p.prezzo_min ? Math.round((p.prezzo_medio - p.prezzo_min) * 100) / 100 : null;
 
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Drug",
+    "name": p.nome,
+    "description": `Prezzi di ${p.nome} in farmacia italiana. ${p.n_farmaci} medicinali disponibili. Dati AIFA.`,
+    "url": `https://www.prezzioggi.com/farmaci/${p.slug}`,
+    "drugClass": p.categoria_atc,
+    "legalStatus": p.ha_rimborsato ? "PrescriptionOnly" : "OTC",
+    "offers": p.prezzo_min ? {
+      "@type": "Offer",
+      "priceCurrency": "EUR",
+      "price": p.prezzo_min.toFixed(2),
+      "availability": "https://schema.org/InStock",
+    } : undefined,
+  };
+
   return (
     <div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 
       {/* BREADCRUMB */}
       <nav className="text-xs text-gray-400 mb-5 flex items-center gap-1.5 flex-wrap">

@@ -1,0 +1,22 @@
+{
+  "slug": "agrigento",
+  "nome": "Agrigento",
+  "provincia": "AG",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Villaseta",
+      "res_min": 700,
+      "res_max": 1800,
+      "loc_min": 28,
+      "loc_max": 58
+    }
+  ],
+  "residenziale_media": 1250,
+  "residenziale_min": 700,
+  "residenziale_max": 1800,
+  "affitto_media": 43,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

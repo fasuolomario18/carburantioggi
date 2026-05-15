@@ -1,0 +1,22 @@
+{
+  "slug": "gela",
+  "nome": "Gela",
+  "provincia": "CL",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro",
+      "res_min": 600,
+      "res_max": 1400,
+      "loc_min": 25,
+      "loc_max": 48
+    }
+  ],
+  "residenziale_media": 1000,
+  "residenziale_min": 600,
+  "residenziale_max": 1400,
+  "affitto_media": 37,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

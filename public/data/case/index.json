@@ -396,6 +396,663 @@
       "residenziale_media": 2650,
       "affitto_media": 83,
       "n_zone": 1
+    },
+    {
+      "slug": "monza",
+      "nome": "Monza",
+      "provincia": "MB",
+      "regione": "Lombardia",
+      "residenziale_media": 2875,
+      "affitto_media": 89,
+      "n_zone": 2
+    },
+    {
+      "slug": "como",
+      "nome": "Como",
+      "provincia": "CO",
+      "regione": "Lombardia",
+      "residenziale_media": 3375,
+      "affitto_media": 103,
+      "n_zone": 2
+    },
+    {
+      "slug": "varese",
+      "nome": "Varese",
+      "provincia": "VA",
+      "regione": "Lombardia",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "lecco",
+      "nome": "Lecco",
+      "provincia": "LC",
+      "regione": "Lombardia",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "mantova",
+      "nome": "Mantova",
+      "provincia": "MN",
+      "regione": "Lombardia",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "cremona",
+      "nome": "Cremona",
+      "provincia": "CR",
+      "regione": "Lombardia",
+      "residenziale_media": 2500,
+      "affitto_media": 77,
+      "n_zone": 1
+    },
+    {
+      "slug": "pavia",
+      "nome": "Pavia",
+      "provincia": "PV",
+      "regione": "Lombardia",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "sondrio",
+      "nome": "Sondrio",
+      "provincia": "SO",
+      "regione": "Lombardia",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "alessandria",
+      "nome": "Alessandria",
+      "provincia": "AL",
+      "regione": "Piemonte",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "asti",
+      "nome": "Asti",
+      "provincia": "AT",
+      "regione": "Piemonte",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "cuneo",
+      "nome": "Cuneo",
+      "provincia": "CN",
+      "regione": "Piemonte",
+      "residenziale_media": 2500,
+      "affitto_media": 77,
+      "n_zone": 1
+    },
+    {
+      "slug": "novara",
+      "nome": "Novara",
+      "provincia": "NO",
+      "regione": "Piemonte",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "verbania",
+      "nome": "Verbania",
+      "provincia": "VB",
+      "regione": "Piemonte",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "vercelli",
+      "nome": "Vercelli",
+      "provincia": "VC",
+      "regione": "Piemonte",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "vicenza",
+      "nome": "Vicenza",
+      "provincia": "VI",
+      "regione": "Veneto",
+      "residenziale_media": 3000,
+      "affitto_media": 93,
+      "n_zone": 2
+    },
+    {
+      "slug": "treviso",
+      "nome": "Treviso",
+      "provincia": "TV",
+      "regione": "Veneto",
+      "residenziale_media": 3200,
+      "affitto_media": 98,
+      "n_zone": 2
+    },
+    {
+      "slug": "rovigo",
+      "nome": "Rovigo",
+      "provincia": "RO",
+      "regione": "Veneto",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "belluno",
+      "nome": "Belluno",
+      "provincia": "BL",
+      "regione": "Veneto",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "udine",
+      "nome": "Udine",
+      "provincia": "UD",
+      "regione": "Friuli-Venezia Giulia",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "pordenone",
+      "nome": "Pordenone",
+      "provincia": "PN",
+      "regione": "Friuli-Venezia Giulia",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "la-spezia",
+      "nome": "La Spezia",
+      "provincia": "SP",
+      "regione": "Liguria",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "savona",
+      "nome": "Savona",
+      "provincia": "SV",
+      "regione": "Liguria",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "imperia",
+      "nome": "Imperia",
+      "provincia": "IM",
+      "regione": "Liguria",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "sanremo",
+      "nome": "Sanremo",
+      "provincia": "IM",
+      "regione": "Liguria",
+      "residenziale_media": 3750,
+      "affitto_media": 114,
+      "n_zone": 1
+    },
+    {
+      "slug": "piacenza",
+      "nome": "Piacenza",
+      "provincia": "PC",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2500,
+      "affitto_media": 77,
+      "n_zone": 1
+    },
+    {
+      "slug": "forli",
+      "nome": "Forlì",
+      "provincia": "FC",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2500,
+      "affitto_media": 77,
+      "n_zone": 1
+    },
+    {
+      "slug": "cesena",
+      "nome": "Cesena",
+      "provincia": "FC",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2500,
+      "affitto_media": 77,
+      "n_zone": 1
+    },
+    {
+      "slug": "pistoia",
+      "nome": "Pistoia",
+      "provincia": "PT",
+      "regione": "Toscana",
+      "residenziale_media": 2650,
+      "affitto_media": 82,
+      "n_zone": 1
+    },
+    {
+      "slug": "grosseto",
+      "nome": "Grosseto",
+      "provincia": "GR",
+      "regione": "Toscana",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "massa",
+      "nome": "Massa",
+      "provincia": "MS",
+      "regione": "Toscana",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "carrara",
+      "nome": "Carrara",
+      "provincia": "MS",
+      "regione": "Toscana",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "terni",
+      "nome": "Terni",
+      "provincia": "TR",
+      "regione": "Umbria",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "pesaro",
+      "nome": "Pesaro",
+      "provincia": "PU",
+      "regione": "Marche",
+      "residenziale_media": 2650,
+      "affitto_media": 82,
+      "n_zone": 1
+    },
+    {
+      "slug": "macerata",
+      "nome": "Macerata",
+      "provincia": "MC",
+      "regione": "Marche",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "ascoli-piceno",
+      "nome": "Ascoli Piceno",
+      "provincia": "AP",
+      "regione": "Marche",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "latina",
+      "nome": "Latina",
+      "provincia": "LT",
+      "regione": "Lazio",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "frosinone",
+      "nome": "Frosinone",
+      "provincia": "FR",
+      "regione": "Lazio",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "viterbo",
+      "nome": "Viterbo",
+      "provincia": "VT",
+      "regione": "Lazio",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "caserta",
+      "nome": "Caserta",
+      "provincia": "CE",
+      "regione": "Campania",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "avellino",
+      "nome": "Avellino",
+      "provincia": "AV",
+      "regione": "Campania",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "benevento",
+      "nome": "Benevento",
+      "provincia": "BN",
+      "regione": "Campania",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "torre-del-greco",
+      "nome": "Torre del Greco",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "giugliano-in-campania",
+      "nome": "Giugliano in Campania",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 1700,
+      "affitto_media": 55,
+      "n_zone": 1
+    },
+    {
+      "slug": "potenza",
+      "nome": "Potenza",
+      "provincia": "PZ",
+      "regione": "Basilicata",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "matera",
+      "nome": "Matera",
+      "provincia": "MT",
+      "regione": "Basilicata",
+      "residenziale_media": 3250,
+      "affitto_media": 100,
+      "n_zone": 1
+    },
+    {
+      "slug": "crotone",
+      "nome": "Crotone",
+      "provincia": "KR",
+      "regione": "Calabria",
+      "residenziale_media": 1150,
+      "affitto_media": 40,
+      "n_zone": 1
+    },
+    {
+      "slug": "vibo-valentia",
+      "nome": "Vibo Valentia",
+      "provincia": "VV",
+      "regione": "Calabria",
+      "residenziale_media": 1150,
+      "affitto_media": 40,
+      "n_zone": 1
+    },
+    {
+      "slug": "lamezia-terme",
+      "nome": "Lamezia Terme",
+      "provincia": "CZ",
+      "regione": "Calabria",
+      "residenziale_media": 1300,
+      "affitto_media": 44,
+      "n_zone": 1
+    },
+    {
+      "slug": "agrigento",
+      "nome": "Agrigento",
+      "provincia": "AG",
+      "regione": "Sicilia",
+      "residenziale_media": 1250,
+      "affitto_media": 43,
+      "n_zone": 1
+    },
+    {
+      "slug": "trapani",
+      "nome": "Trapani",
+      "provincia": "TP",
+      "regione": "Sicilia",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "ragusa",
+      "nome": "Ragusa",
+      "provincia": "RG",
+      "regione": "Sicilia",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "marsala",
+      "nome": "Marsala",
+      "provincia": "TP",
+      "regione": "Sicilia",
+      "residenziale_media": 1300,
+      "affitto_media": 44,
+      "n_zone": 1
+    },
+    {
+      "slug": "gela",
+      "nome": "Gela",
+      "provincia": "CL",
+      "regione": "Sicilia",
+      "residenziale_media": 1000,
+      "affitto_media": 37,
+      "n_zone": 1
+    },
+    {
+      "slug": "nuoro",
+      "nome": "Nuoro",
+      "provincia": "NU",
+      "regione": "Sardegna",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "oristano",
+      "nome": "Oristano",
+      "provincia": "OR",
+      "regione": "Sardegna",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "olbia",
+      "nome": "Olbia",
+      "provincia": "SS",
+      "regione": "Sardegna",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "laquila",
+      "nome": "L'Aquila",
+      "provincia": "AQ",
+      "regione": "Abruzzo",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "chieti",
+      "nome": "Chieti",
+      "provincia": "CH",
+      "regione": "Abruzzo",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "teramo",
+      "nome": "Teramo",
+      "provincia": "TE",
+      "regione": "Abruzzo",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "campobasso",
+      "nome": "Campobasso",
+      "provincia": "CB",
+      "regione": "Molise",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "lecce",
+      "nome": "Lecce",
+      "provincia": "LE",
+      "regione": "Puglia",
+      "residenziale_media": 2325,
+      "affitto_media": 73,
+      "n_zone": 2
+    },
+    {
+      "slug": "brindisi",
+      "nome": "Brindisi",
+      "provincia": "BR",
+      "regione": "Puglia",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "andria",
+      "nome": "Andria",
+      "provincia": "BT",
+      "regione": "Puglia",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "barletta",
+      "nome": "Barletta",
+      "provincia": "BT",
+      "regione": "Puglia",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "aosta",
+      "nome": "Aosta",
+      "provincia": "AO",
+      "regione": "Valle d'Aosta",
+      "residenziale_media": 3500,
+      "affitto_media": 108,
+      "n_zone": 1
+    },
+    {
+      "slug": "amalfi",
+      "nome": "Amalfi",
+      "provincia": "SA",
+      "regione": "Campania",
+      "residenziale_media": 5250,
+      "affitto_media": 155,
+      "n_zone": 1
+    },
+    {
+      "slug": "portofino",
+      "nome": "Portofino",
+      "provincia": "GE",
+      "regione": "Liguria",
+      "residenziale_media": 13000,
+      "affitto_media": 360,
+      "n_zone": 1
+    },
+    {
+      "slug": "taormina",
+      "nome": "Taormina",
+      "provincia": "ME",
+      "regione": "Sicilia",
+      "residenziale_media": 5000,
+      "affitto_media": 151,
+      "n_zone": 1
+    },
+    {
+      "slug": "positano",
+      "nome": "Positano",
+      "provincia": "SA",
+      "regione": "Campania",
+      "residenziale_media": 8500,
+      "affitto_media": 248,
+      "n_zone": 1
+    },
+    {
+      "slug": "cortina-dampezzo",
+      "nome": "Cortina d'Ampezzo",
+      "provincia": "BL",
+      "regione": "Veneto",
+      "residenziale_media": 10500,
+      "affitto_media": 300,
+      "n_zone": 1
+    },
+    {
+      "slug": "forte-dei-marmi",
+      "nome": "Forte dei Marmi",
+      "provincia": "LU",
+      "regione": "Toscana",
+      "residenziale_media": 8500,
+      "affitto_media": 248,
+      "n_zone": 1
+    },
+    {
+      "slug": "porto-cervo",
+      "nome": "Porto Cervo",
+      "provincia": "SS",
+      "regione": "Sardegna",
+      "residenziale_media": 14000,
+      "affitto_media": 400,
+      "n_zone": 1
+    },
+    {
+      "slug": "capri",
+      "nome": "Capri",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 12500,
+      "affitto_media": 360,
+      "n_zone": 1
     }
   ]
 }

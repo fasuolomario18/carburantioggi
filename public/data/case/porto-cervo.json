@@ -1,0 +1,22 @@
+{
+  "slug": "porto-cervo",
+  "nome": "Porto Cervo",
+  "provincia": "SS",
+  "regione": "Sardegna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Porto Vecchio",
+      "res_min": 8000,
+      "res_max": 20000,
+      "loc_min": 220,
+      "loc_max": 580
+    }
+  ],
+  "residenziale_media": 14000,
+  "residenziale_min": 8000,
+  "residenziale_max": 20000,
+  "affitto_media": 400,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

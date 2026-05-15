@@ -1,0 +1,29 @@
+{
+  "slug": "como",
+  "nome": "Como",
+  "provincia": "CO",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lago",
+      "res_min": 3000,
+      "res_max": 5500,
+      "loc_min": 92,
+      "loc_max": 165
+    },
+    {
+      "nome": "Camerlata/Rebbio",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 3375,
+  "residenziale_min": 1800,
+  "residenziale_max": 5500,
+  "affitto_media": 103,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

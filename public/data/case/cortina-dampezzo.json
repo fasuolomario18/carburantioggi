@@ -1,0 +1,22 @@
+{
+  "slug": "cortina-dampezzo",
+  "nome": "Cortina d'Ampezzo",
+  "provincia": "BL",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Zuel",
+      "res_min": 6000,
+      "res_max": 15000,
+      "loc_min": 170,
+      "loc_max": 430
+    }
+  ],
+  "residenziale_media": 10500,
+  "residenziale_min": 6000,
+  "residenziale_max": 15000,
+  "affitto_media": 300,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

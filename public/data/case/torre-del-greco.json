@@ -1,0 +1,22 @@
+{
+  "slug": "torre-del-greco",
+  "nome": "Torre del Greco",
+  "provincia": "NA",
+  "regione": "Campania",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Marina",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 48,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 2150,
+  "residenziale_min": 1500,
+  "residenziale_max": 2800,
+  "affitto_media": 68,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

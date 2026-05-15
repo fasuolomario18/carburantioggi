@@ -1,0 +1,22 @@
+{
+  "slug": "barletta",
+  "nome": "Barletta",
+  "provincia": "BT",
+  "regione": "Puglia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Patalini",
+      "res_min": 1000,
+      "res_max": 2200,
+      "loc_min": 38,
+      "loc_max": 70
+    }
+  ],
+  "residenziale_media": 1600,
+  "residenziale_min": 1000,
+  "residenziale_max": 2200,
+  "affitto_media": 54,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

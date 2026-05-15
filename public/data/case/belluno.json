@@ -1,0 +1,22 @@
+{
+  "slug": "belluno",
+  "nome": "Belluno",
+  "provincia": "BL",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lambioi",
+      "res_min": 1500,
+      "res_max": 2800,
+      "loc_min": 50,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 2150,
+  "residenziale_min": 1500,
+  "residenziale_max": 2800,
+  "affitto_media": 69,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

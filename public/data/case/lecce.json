@@ -1,0 +1,29 @@
+{
+  "slug": "lecce",
+  "nome": "Lecce",
+  "provincia": "LE",
+  "regione": "Puglia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 1800,
+      "res_max": 3800,
+      "loc_min": 58,
+      "loc_max": 115
+    },
+    {
+      "nome": "Rudiae/San Lazzaro",
+      "res_min": 1200,
+      "res_max": 2500,
+      "loc_min": 42,
+      "loc_max": 78
+    }
+  ],
+  "residenziale_media": 2325,
+  "residenziale_min": 1200,
+  "residenziale_max": 3800,
+  "affitto_media": 73,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "sanremo",
+  "nome": "Sanremo",
+  "provincia": "IM",
+  "regione": "Liguria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Levante",
+      "res_min": 2500,
+      "res_max": 5000,
+      "loc_min": 78,
+      "loc_max": 150
+    }
+  ],
+  "residenziale_media": 3750,
+  "residenziale_min": 2500,
+  "residenziale_max": 5000,
+  "affitto_media": 114,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "verbania",
+  "nome": "Verbania",
+  "provincia": "VB",
+  "regione": "Piemonte",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Pallanza",
+      "res_min": 2000,
+      "res_max": 3800,
+      "loc_min": 62,
+      "loc_max": 115
+    }
+  ],
+  "residenziale_media": 2900,
+  "residenziale_min": 2000,
+  "residenziale_max": 3800,
+  "affitto_media": 89,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "taormina",
+  "nome": "Taormina",
+  "provincia": "ME",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Isolabella",
+      "res_min": 3000,
+      "res_max": 7000,
+      "loc_min": 92,
+      "loc_max": 210
+    }
+  ],
+  "residenziale_media": 5000,
+  "residenziale_min": 3000,
+  "residenziale_max": 7000,
+  "affitto_media": 151,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

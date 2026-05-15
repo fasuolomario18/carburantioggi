@@ -58,8 +58,22 @@ export default async function ComuneCasePage({ params }: { params: Promise<{ slu
   const prezzoAppt80 = c.residenziale_media * 80;
   const mutuoMensile = Math.round((prezzoAppt80 * 0.8) * (0.035 / 12) / (1 - Math.pow(1 + 0.035 / 12, -300)));
 
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": `Prezzi Case e Affitti ${c.nome} — Dati OMI`,
+    "description": `Prezzi immobili residenziali per zona a ${c.nome} (${c.provincia}), ${c.regione}. Dati OMI Agenzia delle Entrate, semestre ${c.aggiornato}.`,
+    "url": `https://www.prezzioggi.com/case/${c.slug}`,
+    "creator": { "@type": "Organization", "name": "OMI — Agenzia delle Entrate", "url": "https://www.agenziaentrate.gov.it" },
+    "temporalCoverage": c.aggiornato,
+    "spatialCoverage": { "@type": "Place", "name": `${c.nome}, ${c.regione}, Italia` },
+    "variableMeasured": "Prezzi immobili residenziali €/m²",
+  };
+
   return (
     <div>
+
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }} />
 
       {/* BREADCRUMB */}
       <nav className="text-xs text-gray-400 mb-5 flex items-center gap-1.5 flex-wrap">

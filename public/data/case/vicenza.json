@@ -1,0 +1,29 @@
+{
+  "slug": "vicenza",
+  "nome": "Vicenza",
+  "provincia": "VI",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico",
+      "res_min": 2500,
+      "res_max": 4500,
+      "loc_min": 78,
+      "loc_max": 138
+    },
+    {
+      "nome": "Gogna/Laghetto",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 3000,
+  "residenziale_min": 1800,
+  "residenziale_max": 4500,
+  "affitto_media": 93,
+  "n_zone": 2,
+  "fonte": "OMI — Agenzia delle Entrate"
+}
