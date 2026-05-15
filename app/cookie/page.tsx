@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Cookie Policy",
-  description: "Cookie Policy di CarburantiOggi.it",
+  description: "Cookie Policy di PrezziOggi.com",
   robots: { index: false },
 };
 
@@ -13,7 +13,7 @@ export default function CookiePage() {
       <p>Ultimo aggiornamento: maggio 2026</p>
       <h2>Cookie tecnici</h2>
       <p>
-        CarburantiOggi.it utilizza esclusivamente cookie tecnici strettamente necessari al funzionamento del sito.
+        PrezziOggi.com utilizza esclusivamente cookie tecnici strettamente necessari al funzionamento del sito.
         Questi cookie non richiedono consenso ai sensi della normativa vigente.
       </p>
       <h2>Cookie di terze parti (Google AdSense)</h2>

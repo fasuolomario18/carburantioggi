@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "Informativa sulla privacy di CarburantiOggi.it",
+  description: "Informativa sulla privacy di PrezziOggi.com",
   robots: { index: false },
 };
 
@@ -12,7 +12,7 @@ export default function PrivacyPage() {
       <h1>Privacy Policy</h1>
       <p>Ultimo aggiornamento: maggio 2026</p>
       <p>
-        CarburantiOggi.it, gestito da PlasmaCompany (info@plasmacompany.net), rispetta la tua privacy
+        PrezziOggi.com, gestito da PlasmaCompany (info@plasmacompany.net), rispetta la tua privacy
         e si impegna a proteggere i dati personali degli utenti in conformità al Regolamento (UE) 2016/679 (GDPR).
       </p>
       <h2>Dati raccolti</h2>
@@ -34,8 +34,8 @@ export default function PrivacyPage() {
       </p>
       <h2>Dati sui prezzi</h2>
       <p>
-        I prezzi carburanti provengono dall&apos;API pubblica del Ministero delle Imprese e del Made in Italy (MIMIT).
-        CarburantiOggi.it non è responsabile di eventuali imprecisioni nei dati forniti dalla fonte ufficiale.
+        I dati provengono da fonti pubbliche ufficiali: MIMIT (carburanti), ARERA (bollette), OMI Agenzia Entrate (immobili), AIFA (farmaci).
+        PrezziOggi.com non è responsabile di eventuali imprecisioni nei dati forniti dalle fonti ufficiali.
       </p>
       <h2>Contatti</h2>
       <p>Per qualsiasi richiesta relativa alla privacy: <a href="mailto:info@plasmacompany.net">info@plasmacompany.net</a></p>
