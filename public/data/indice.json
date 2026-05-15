@@ -1,0 +1,747 @@
+{
+  "aggiornato": "2026-05-15",
+  "province": [
+    {
+      "slug": "agrigento",
+      "nome": "Agrigento",
+      "sigla": "AG",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "alessandria",
+      "nome": "Alessandria",
+      "sigla": "AL",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "ancona",
+      "nome": "Ancona",
+      "sigla": "AN",
+      "regione": "Marche"
+    },
+    {
+      "slug": "aosta",
+      "nome": "Aosta",
+      "sigla": "AO",
+      "regione": "Valle d'Aosta"
+    },
+    {
+      "slug": "arezzo",
+      "nome": "Arezzo",
+      "sigla": "AR",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "ascoli-piceno",
+      "nome": "Ascoli Piceno",
+      "sigla": "AP",
+      "regione": "Marche"
+    },
+    {
+      "slug": "asti",
+      "nome": "Asti",
+      "sigla": "AT",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "avellino",
+      "nome": "Avellino",
+      "sigla": "AV",
+      "regione": "Campania"
+    },
+    {
+      "slug": "bari",
+      "nome": "Bari",
+      "sigla": "BA",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "barletta-andria-trani",
+      "nome": "Barletta-Andria-Trani",
+      "sigla": "BT",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "belluno",
+      "nome": "Belluno",
+      "sigla": "BL",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "benevento",
+      "nome": "Benevento",
+      "sigla": "BN",
+      "regione": "Campania"
+    },
+    {
+      "slug": "bergamo",
+      "nome": "Bergamo",
+      "sigla": "BG",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "biella",
+      "nome": "Biella",
+      "sigla": "BI",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "bologna",
+      "nome": "Bologna",
+      "sigla": "BO",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "bolzano",
+      "nome": "Bolzano",
+      "sigla": "BZ",
+      "regione": "Trentino Alto Adige"
+    },
+    {
+      "slug": "brescia",
+      "nome": "Brescia",
+      "sigla": "BS",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "brindisi",
+      "nome": "Brindisi",
+      "sigla": "BR",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "cagliari",
+      "nome": "Cagliari",
+      "sigla": "CA",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "caltanissetta",
+      "nome": "Caltanissetta",
+      "sigla": "CL",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "campobasso",
+      "nome": "Campobasso",
+      "sigla": "CB",
+      "regione": "Molise"
+    },
+    {
+      "slug": "carbonia-iglesias",
+      "nome": "Carbonia-Iglesias",
+      "sigla": "CI",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "caserta",
+      "nome": "Caserta",
+      "sigla": "CE",
+      "regione": "Campania"
+    },
+    {
+      "slug": "catania",
+      "nome": "Catania",
+      "sigla": "CT",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "catanzaro",
+      "nome": "Catanzaro",
+      "sigla": "CZ",
+      "regione": "Calabria"
+    },
+    {
+      "slug": "chieti",
+      "nome": "Chieti",
+      "sigla": "CH",
+      "regione": "Abruzzo"
+    },
+    {
+      "slug": "como",
+      "nome": "Como",
+      "sigla": "CO",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "cosenza",
+      "nome": "Cosenza",
+      "sigla": "CS",
+      "regione": "Calabria"
+    },
+    {
+      "slug": "cremona",
+      "nome": "Cremona",
+      "sigla": "CR",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "crotone",
+      "nome": "Crotone",
+      "sigla": "KR",
+      "regione": "Calabria"
+    },
+    {
+      "slug": "cuneo",
+      "nome": "Cuneo",
+      "sigla": "CN",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "enna",
+      "nome": "Enna",
+      "sigla": "EN",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "fermo",
+      "nome": "Fermo",
+      "sigla": "FM",
+      "regione": "Marche"
+    },
+    {
+      "slug": "ferrara",
+      "nome": "Ferrara",
+      "sigla": "FE",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "firenze",
+      "nome": "Firenze",
+      "sigla": "FI",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "foggia",
+      "nome": "Foggia",
+      "sigla": "FG",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "forli-cesena",
+      "nome": "Forlì-Cesena",
+      "sigla": "FC",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "frosinone",
+      "nome": "Frosinone",
+      "sigla": "FR",
+      "regione": "Lazio"
+    },
+    {
+      "slug": "genova",
+      "nome": "Genova",
+      "sigla": "GE",
+      "regione": "Liguria"
+    },
+    {
+      "slug": "gorizia",
+      "nome": "Gorizia",
+      "sigla": "GO",
+      "regione": "Friuli Venezia Giulia"
+    },
+    {
+      "slug": "grosseto",
+      "nome": "Grosseto",
+      "sigla": "GR",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "imperia",
+      "nome": "Imperia",
+      "sigla": "IM",
+      "regione": "Liguria"
+    },
+    {
+      "slug": "isernia",
+      "nome": "Isernia",
+      "sigla": "IS",
+      "regione": "Molise"
+    },
+    {
+      "slug": "laquila",
+      "nome": "L'Aquila",
+      "sigla": "AQ",
+      "regione": "Abruzzo"
+    },
+    {
+      "slug": "la-spezia",
+      "nome": "La Spezia",
+      "sigla": "SP",
+      "regione": "Liguria"
+    },
+    {
+      "slug": "latina",
+      "nome": "Latina",
+      "sigla": "LT",
+      "regione": "Lazio"
+    },
+    {
+      "slug": "lecce",
+      "nome": "Lecce",
+      "sigla": "LE",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "lecco",
+      "nome": "Lecco",
+      "sigla": "LC",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "livorno",
+      "nome": "Livorno",
+      "sigla": "LI",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "lodi",
+      "nome": "Lodi",
+      "sigla": "LO",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "lucca",
+      "nome": "Lucca",
+      "sigla": "LU",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "macerata",
+      "nome": "Macerata",
+      "sigla": "MC",
+      "regione": "Marche"
+    },
+    {
+      "slug": "mantova",
+      "nome": "Mantova",
+      "sigla": "MN",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "massa-carrara",
+      "nome": "Massa-Carrara",
+      "sigla": "MS",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "matera",
+      "nome": "Matera",
+      "sigla": "MT",
+      "regione": "Basilicata"
+    },
+    {
+      "slug": "medio-campidano",
+      "nome": "Medio Campidano",
+      "sigla": "VS",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "messina",
+      "nome": "Messina",
+      "sigla": "ME",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "milano",
+      "nome": "Milano",
+      "sigla": "MI",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "modena",
+      "nome": "Modena",
+      "sigla": "MO",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "monza-e-brianza",
+      "nome": "Monza e Brianza",
+      "sigla": "MB",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "napoli",
+      "nome": "Napoli",
+      "sigla": "NA",
+      "regione": "Campania"
+    },
+    {
+      "slug": "novara",
+      "nome": "Novara",
+      "sigla": "NO",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "nuoro",
+      "nome": "Nuoro",
+      "sigla": "NU",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "ogliastra",
+      "nome": "Ogliastra",
+      "sigla": "OG",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "olbia-tempio",
+      "nome": "Olbia-Tempio",
+      "sigla": "OT",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "oristano",
+      "nome": "Oristano",
+      "sigla": "OR",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "padova",
+      "nome": "Padova",
+      "sigla": "PD",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "palermo",
+      "nome": "Palermo",
+      "sigla": "PA",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "parma",
+      "nome": "Parma",
+      "sigla": "PR",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "pavia",
+      "nome": "Pavia",
+      "sigla": "PV",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "perugia",
+      "nome": "Perugia",
+      "sigla": "PG",
+      "regione": "Umbria"
+    },
+    {
+      "slug": "pesaro-e-urbino",
+      "nome": "Pesaro e Urbino",
+      "sigla": "PU",
+      "regione": "Marche"
+    },
+    {
+      "slug": "pescara",
+      "nome": "Pescara",
+      "sigla": "PE",
+      "regione": "Abruzzo"
+    },
+    {
+      "slug": "piacenza",
+      "nome": "Piacenza",
+      "sigla": "PC",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "pisa",
+      "nome": "Pisa",
+      "sigla": "PI",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "pistoia",
+      "nome": "Pistoia",
+      "sigla": "PT",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "pordenone",
+      "nome": "Pordenone",
+      "sigla": "PN",
+      "regione": "Friuli Venezia Giulia"
+    },
+    {
+      "slug": "potenza",
+      "nome": "Potenza",
+      "sigla": "PZ",
+      "regione": "Basilicata"
+    },
+    {
+      "slug": "prato",
+      "nome": "Prato",
+      "sigla": "PO",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "ragusa",
+      "nome": "Ragusa",
+      "sigla": "RG",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "ravenna",
+      "nome": "Ravenna",
+      "sigla": "RA",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "reggio-calabria",
+      "nome": "Reggio Calabria",
+      "sigla": "RC",
+      "regione": "Calabria"
+    },
+    {
+      "slug": "reggio-emilia",
+      "nome": "Reggio Emilia",
+      "sigla": "RE",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "rieti",
+      "nome": "Rieti",
+      "sigla": "RI",
+      "regione": "Lazio"
+    },
+    {
+      "slug": "rimini",
+      "nome": "Rimini",
+      "sigla": "RN",
+      "regione": "Emilia Romagna"
+    },
+    {
+      "slug": "roma",
+      "nome": "Roma",
+      "sigla": "RM",
+      "regione": "Lazio"
+    },
+    {
+      "slug": "rovigo",
+      "nome": "Rovigo",
+      "sigla": "RO",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "salerno",
+      "nome": "Salerno",
+      "sigla": "SA",
+      "regione": "Campania"
+    },
+    {
+      "slug": "sassari",
+      "nome": "Sassari",
+      "sigla": "SS",
+      "regione": "Sardegna"
+    },
+    {
+      "slug": "savona",
+      "nome": "Savona",
+      "sigla": "SV",
+      "regione": "Liguria"
+    },
+    {
+      "slug": "siena",
+      "nome": "Siena",
+      "sigla": "SI",
+      "regione": "Toscana"
+    },
+    {
+      "slug": "siracusa",
+      "nome": "Siracusa",
+      "sigla": "SR",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "sondrio",
+      "nome": "Sondrio",
+      "sigla": "SO",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "taranto",
+      "nome": "Taranto",
+      "sigla": "TA",
+      "regione": "Puglia"
+    },
+    {
+      "slug": "teramo",
+      "nome": "Teramo",
+      "sigla": "TE",
+      "regione": "Abruzzo"
+    },
+    {
+      "slug": "terni",
+      "nome": "Terni",
+      "sigla": "TR",
+      "regione": "Umbria"
+    },
+    {
+      "slug": "torino",
+      "nome": "Torino",
+      "sigla": "TO",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "trapani",
+      "nome": "Trapani",
+      "sigla": "TP",
+      "regione": "Sicilia"
+    },
+    {
+      "slug": "trento",
+      "nome": "Trento",
+      "sigla": "TN",
+      "regione": "Trentino Alto Adige"
+    },
+    {
+      "slug": "treviso",
+      "nome": "Treviso",
+      "sigla": "TV",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "trieste",
+      "nome": "Trieste",
+      "sigla": "TS",
+      "regione": "Friuli Venezia Giulia"
+    },
+    {
+      "slug": "udine",
+      "nome": "Udine",
+      "sigla": "UD",
+      "regione": "Friuli Venezia Giulia"
+    },
+    {
+      "slug": "varese",
+      "nome": "Varese",
+      "sigla": "VA",
+      "regione": "Lombardia"
+    },
+    {
+      "slug": "venezia",
+      "nome": "Venezia",
+      "sigla": "VE",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "verbano-cusio-ossola",
+      "nome": "Verbano-Cusio-Ossola",
+      "sigla": "VB",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "vercelli",
+      "nome": "Vercelli",
+      "sigla": "VC",
+      "regione": "Piemonte"
+    },
+    {
+      "slug": "verona",
+      "nome": "Verona",
+      "sigla": "VR",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "vibo-valentia",
+      "nome": "Vibo Valentia",
+      "sigla": "VV",
+      "regione": "Calabria"
+    },
+    {
+      "slug": "vicenza",
+      "nome": "Vicenza",
+      "sigla": "VI",
+      "regione": "Veneto"
+    },
+    {
+      "slug": "viterbo",
+      "nome": "Viterbo",
+      "sigla": "VT",
+      "regione": "Lazio"
+    }
+  ],
+  "regioni": [
+    {
+      "slug": "sicilia",
+      "nome": "Sicilia"
+    },
+    {
+      "slug": "piemonte",
+      "nome": "Piemonte"
+    },
+    {
+      "slug": "marche",
+      "nome": "Marche"
+    },
+    {
+      "slug": "valle-daosta",
+      "nome": "Valle d'Aosta"
+    },
+    {
+      "slug": "toscana",
+      "nome": "Toscana"
+    },
+    {
+      "slug": "campania",
+      "nome": "Campania"
+    },
+    {
+      "slug": "puglia",
+      "nome": "Puglia"
+    },
+    {
+      "slug": "veneto",
+      "nome": "Veneto"
+    },
+    {
+      "slug": "lombardia",
+      "nome": "Lombardia"
+    },
+    {
+      "slug": "emilia-romagna",
+      "nome": "Emilia Romagna"
+    },
+    {
+      "slug": "trentino-alto-adige",
+      "nome": "Trentino Alto Adige"
+    },
+    {
+      "slug": "sardegna",
+      "nome": "Sardegna"
+    },
+    {
+      "slug": "molise",
+      "nome": "Molise"
+    },
+    {
+      "slug": "calabria",
+      "nome": "Calabria"
+    },
+    {
+      "slug": "abruzzo",
+      "nome": "Abruzzo"
+    },
+    {
+      "slug": "lazio",
+      "nome": "Lazio"
+    },
+    {
+      "slug": "liguria",
+      "nome": "Liguria"
+    },
+    {
+      "slug": "friuli-venezia-giulia",
+      "nome": "Friuli Venezia Giulia"
+    },
+    {
+      "slug": "basilicata",
+      "nome": "Basilicata"
+    },
+    {
+      "slug": "umbria",
+      "nome": "Umbria"
+    }
+  ]
+}

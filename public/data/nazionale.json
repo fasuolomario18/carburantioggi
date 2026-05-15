@@ -1,0 +1,25 @@
+{
+  "aggiornato": "2026-05-15",
+  "prezzi": {
+    "benzina": {
+      "label": "Benzina",
+      "self_media": 1.94,
+      "servito_media": 2.092
+    },
+    "gasolio": {
+      "label": "Gasolio",
+      "self_media": 1.978,
+      "servito_media": 2.135
+    },
+    "metano": {
+      "label": "Metano",
+      "self_media": 1.532,
+      "servito_media": 1.579
+    },
+    "gpl": {
+      "label": "GPL",
+      "self_media": 0.811,
+      "servito_media": 0.831
+    }
+  }
+}
