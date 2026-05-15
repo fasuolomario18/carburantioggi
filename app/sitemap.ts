@@ -2,7 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import type { MetadataRoute } from "next";
 
-const BASE_URL = "https://www.carburantioggi.it";
+const BASE_URL = "https://www.prezzioggi.com";
 
 function loadJSON<T>(filename: string): T | null {
   const path = join(process.cwd(), "public/data", filename);

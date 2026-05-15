@@ -7,12 +7,12 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "CarburantiOggi.it — Prezzi Benzina e Gasolio in Italia",
-    template: "%s | CarburantiOggi.it",
+    default: "PrezziOggi.com — Prezzi Carburanti, Case, Farmaci e Bollette in Italia",
+    template: "%s | PrezziOggi.com",
   },
-  description: "Trova i prezzi di benzina, gasolio, GPL e metano aggiornati ogni giorno in tutte le province e regioni italiane. Dati ufficiali MIMIT.",
-  keywords: ["prezzi benzina", "prezzi gasolio", "carburanti italia", "prezzi carburanti oggi"],
-  openGraph: { siteName: "CarburantiOggi.it", locale: "it_IT", type: "website" },
+  description: "Prezzi aggiornati ogni giorno: benzina, gasolio, prezzi case per comune, bollette luce e gas, farmaci equivalenti. Dati ufficiali MIMIT, ARERA, OMI, AIFA.",
+  keywords: ["prezzi oggi", "prezzi benzina", "prezzi case", "bollette luce gas", "farmaci prezzi", "carburanti italia"],
+  openGraph: { siteName: "PrezziOggi.com", locale: "it_IT", type: "website" },
   robots: { index: true, follow: true },
 };
 
@@ -27,8 +27,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             {/* Top row */}
             <div className="flex items-center justify-between h-14 gap-4">
               <Link href="/" className="flex items-center gap-2 shrink-0">
-                <span className="text-2xl">⛽</span>
-                <span className="font-bold text-lg" style={{ color: "#16a34a" }}>CarburantiOggi.it</span>
+                <span className="text-2xl">📊</span>
+                <span className="font-bold text-lg" style={{ color: "#16a34a" }}>PrezziOggi.com</span>
               </Link>
 
               {/* Search bar */}
@@ -64,13 +64,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 text-sm text-gray-500">
               <div>
                 <div className="flex items-center gap-2 mb-2">
-                  <span className="text-xl">⛽</span>
-                  <span className="font-bold text-gray-700">CarburantiOggi.it</span>
+                  <span className="text-xl">📊</span>
+                  <span className="font-bold text-gray-700">PrezziOggi.com</span>
                 </div>
-                <p>Dati ufficiali{" "}
-                  <a href="https://carburanti.mise.gov.it" className="underline hover:text-green-700" target="_blank" rel="noopener noreferrer">MIMIT</a>
-                  {" "}· Aggiornati ogni giorno alle 6:00
-                </p>
+                <p>Dati ufficiali MIMIT · ARERA · OMI · AIFA · Aggiornati ogni giorno</p>
                 <p className="mt-1">Gestito da <strong>PlasmaCompany</strong> · <a href="mailto:info@plasmacompany.net" className="underline hover:text-green-700">info@plasmacompany.net</a></p>
               </div>
               <div className="flex flex-col gap-1 text-right">
@@ -80,7 +77,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </div>
             </div>
             <div className="mt-6 pt-6 border-t border-gray-100 text-xs text-gray-400 text-center">
-              I prezzi mostrati sono medie calcolate su dati MIMIT. Verifica sempre il prezzo esposto al distributore.
+              I prezzi mostrati sono medie calcolate su dati ufficiali (MIMIT, ARERA, OMI, AIFA). Verificare sempre i prezzi aggiornati presso i distributori e le farmacie.
             </div>
           </div>
         </footer>

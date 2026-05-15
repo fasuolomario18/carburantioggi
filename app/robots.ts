@@ -3,6 +3,6 @@ import type { MetadataRoute } from "next";
 export default function robots(): MetadataRoute.Robots {
   return {
     rules: { userAgent: "*", allow: "/", disallow: [] },
-    sitemap: "https://www.carburantioggi.it/sitemap.xml",
+    sitemap: "https://www.prezzioggi.com/sitemap.xml",
   };
 }
