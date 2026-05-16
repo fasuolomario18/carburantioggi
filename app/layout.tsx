@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   keywords: ["prezzi oggi", "prezzi benzina", "prezzi case", "bollette luce gas", "farmaci prezzi", "carburanti italia"],
   openGraph: { siteName: "PrezziOggi.com", locale: "it_IT", type: "website" },
   robots: { index: true, follow: true },
+  verification: { google: "AyzBR1jWyyFosK3O037m2FQbET7tzuHCAO2G1o-McrcC" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
