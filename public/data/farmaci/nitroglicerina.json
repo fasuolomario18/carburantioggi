@@ -1,0 +1,27 @@
+{
+  "slug": "nitroglicerina",
+  "nome": "Nitroglicerina",
+  "atc": "C01DA02",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 7.12,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Trinitrina 0,3mg 80cpr sublinguale",
+      "ditta": "Sanofi",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Nitroderm TTS 5mg/24h cerotto",
+      "ditta": "Novartis",
+      "prezzo": 8.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

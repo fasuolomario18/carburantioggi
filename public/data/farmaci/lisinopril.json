@@ -1,0 +1,34 @@
+{
+  "slug": "lisinopril",
+  "nome": "Lisinopril",
+  "atc": "C09AA03",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 3.22,
+  "prezzo_medio": 5.97,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Lisinopril EG 20mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 3.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Zestril 20mg 28cpr",
+      "ditta": "AstraZeneca",
+      "prezzo": 7.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Prinivil 20mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 7.18,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

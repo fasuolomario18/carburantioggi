@@ -1,0 +1,34 @@
+{
+  "slug": "zolpidem",
+  "nome": "Zolpidem",
+  "atc": "N05CF02",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 4.22,
+  "prezzo_medio": 6.65,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Zolpidem EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Stilnox 10mg 20cpr",
+      "ditta": "Sanofi",
+      "prezzo": 7.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Niotal 10mg 30cpr",
+      "ditta": "Sanofi",
+      "prezzo": 8.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "colecalciferolo",
+  "nome": "Colecalciferolo",
+  "atc": "A11CC05",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 4,
+  "prezzo_min": 4.22,
+  "prezzo_medio": 7.35,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Dibase 25000UI 4fl os",
+      "ditta": "Abiogen",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Colecalciferolo EG 1000UI 90cpr",
+      "ditta": "EG",
+      "prezzo": 6.52,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Vi.De.3 10000UI/ml gocce 10ml",
+      "ditta": "Mead Johnson",
+      "prezzo": 4.22,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Abiogen D3 50000UI 30cps",
+      "ditta": "Abiogen",
+      "prezzo": 12.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

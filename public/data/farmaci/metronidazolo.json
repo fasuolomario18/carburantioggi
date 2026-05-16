@@ -1,0 +1,34 @@
+{
+  "slug": "metronidazolo",
+  "nome": "Metronidazolo",
+  "atc": "J01XD01",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 2.82,
+  "prezzo_medio": 3.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Flagyl 250mg 20cpr",
+      "ditta": "Sanofi",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Metronidazolo EG 250mg 20cpr",
+      "ditta": "EG",
+      "prezzo": 2.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Deflamon 250mg 20cpr",
+      "ditta": "ABC",
+      "prezzo": 4.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

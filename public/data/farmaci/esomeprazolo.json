@@ -1,0 +1,34 @@
+{
+  "slug": "esomeprazolo",
+  "nome": "Esomeprazolo",
+  "atc": "A02BC05",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 8.17,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Esomeprazolo EG 20mg 14cpr",
+      "ditta": "EG",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Nexium 20mg 14cpr",
+      "ditta": "AstraZeneca",
+      "prezzo": 8.58,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Lucen 40mg 28cpr",
+      "ditta": "Menarini",
+      "prezzo": 12.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "riccione",
+  "nome": "Riccione",
+  "provincia": "RN",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lungomare",
+      "res_min": 3000,
+      "res_max": 5800,
+      "loc_min": 92,
+      "loc_max": 175
+    }
+  ],
+  "residenziale_media": 4400,
+  "residenziale_min": 3000,
+  "residenziale_max": 5800,
+  "affitto_media": 134,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

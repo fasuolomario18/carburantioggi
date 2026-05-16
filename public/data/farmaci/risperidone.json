@@ -1,0 +1,34 @@
+{
+  "slug": "risperidone",
+  "nome": "Risperidone",
+  "atc": "N05AX08",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 4.82,
+  "prezzo_medio": 25.39,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Risperidone EG 2mg 20cpr",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Risperdal 4mg 20cpr",
+      "ditta": "Janssen",
+      "prezzo": 42.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Belivon 3mg 20cpr",
+      "ditta": "Janssen",
+      "prezzo": 28.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

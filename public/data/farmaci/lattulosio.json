@@ -1,0 +1,34 @@
+{
+  "slug": "lattulosio",
+  "nome": "Lattulosio",
+  "atc": "A06AD11",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 3.42,
+  "prezzo_medio": 4.49,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Duphalac 66,5g/100ml 200ml",
+      "ditta": "Abbott",
+      "prezzo": 5.22,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Laevolac 66,5g/100ml 180ml",
+      "ditta": "Sanofi",
+      "prezzo": 4.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Lattulosio EG 66,5% 200ml",
+      "ditta": "EG",
+      "prezzo": 3.42,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

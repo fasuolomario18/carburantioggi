@@ -1,0 +1,22 @@
+{
+  "slug": "pozzuoli",
+  "nome": "Pozzuoli",
+  "provincia": "NA",
+  "regione": "Campania",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lucrino",
+      "res_min": 1800,
+      "res_max": 3500,
+      "loc_min": 58,
+      "loc_max": 108
+    }
+  ],
+  "residenziale_media": 2650,
+  "residenziale_min": 1800,
+  "residenziale_max": 3500,
+  "affitto_media": 83,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

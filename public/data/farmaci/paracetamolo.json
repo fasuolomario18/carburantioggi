@@ -3,46 +3,60 @@
   "nome": "Paracetamolo",
   "atc": "N02BE01",
   "categoria_atc": "Sistema nervoso",
-  "n_farmaci": 5,
-  "prezzo_min": 1.5,
-  "prezzo_medio": 2.4,
-  "ha_rimborsato": false,
-  "aggiornato": "2026-05-15",
+  "n_farmaci": 7,
+  "prezzo_min": 1.48,
+  "prezzo_medio": 2.65,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Tachipirina 500mg 20cpr",
       "ditta": "Angelini",
-      "prezzo": 2.5,
+      "prezzo": 2.52,
       "fascia": "C",
       "rimborso": false
     },
     {
       "nome": "Tachipirina 1000mg 16cpr",
       "ditta": "Angelini",
-      "prezzo": 3.2,
+      "prezzo": 3.22,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Efferalgan 500mg 16cpr",
+      "nome": "Efferalgan 500mg 16cpr eff",
       "ditta": "UPSA",
-      "prezzo": 3,
+      "prezzo": 3.18,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Paracetamolo Teva 500mg",
-      "ditta": "Teva",
-      "prezzo": 1.5,
+      "nome": "Efferalgan 1000mg 16cpr eff",
+      "ditta": "UPSA",
+      "prezzo": 4.2,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Paracetamolo EG 1000mg",
+      "nome": "Paracetamolo EG 500mg 20cpr",
       "ditta": "EG",
-      "prezzo": 1.8,
+      "prezzo": 1.48,
       "fascia": "C",
       "rimborso": false
+    },
+    {
+      "nome": "Paracetamolo Teva 1000mg 20cpr",
+      "ditta": "Teva",
+      "prezzo": 1.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Perfalgan 1g/100ml fl iv",
+      "ditta": "BMS",
+      "prezzo": 2.1,
+      "fascia": "A",
+      "rimborso": true
     }
   ]
 }

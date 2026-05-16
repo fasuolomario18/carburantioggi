@@ -1,0 +1,34 @@
+{
+  "slug": "enalapril",
+  "nome": "Enalapril",
+  "atc": "C09AA02",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 3.48,
+  "prezzo_medio": 5.84,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Enalapril EG 20mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 3.48,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Naprilene 20mg 28cpr",
+      "ditta": "Viatris",
+      "prezzo": 7.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Converten 20mg 28cpr",
+      "ditta": "Neopharmed",
+      "prezzo": 6.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

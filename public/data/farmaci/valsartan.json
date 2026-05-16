@@ -1,0 +1,34 @@
+{
+  "slug": "valsartan",
+  "nome": "Valsartan",
+  "atc": "C09CA03",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 4.82,
+  "prezzo_medio": 15.19,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Valsartan EG 80mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Diovan 160mg 28cpr",
+      "ditta": "Novartis",
+      "prezzo": 20.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Tareg 160mg 28cpr",
+      "ditta": "Novartis",
+      "prezzo": 20.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

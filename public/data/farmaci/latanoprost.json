@@ -1,0 +1,27 @@
+{
+  "slug": "latanoprost",
+  "nome": "Latanoprost",
+  "atc": "S01EE01",
+  "categoria_atc": "Organi di senso",
+  "n_farmaci": 2,
+  "prezzo_min": 8.82,
+  "prezzo_medio": 13.67,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Latanoprost EG 0,005% 3fl 2,5ml",
+      "ditta": "EG",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Xalatan 0,005% 2,5ml",
+      "ditta": "Viatris",
+      "prezzo": 18.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

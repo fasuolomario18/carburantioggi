@@ -1,0 +1,34 @@
+{
+  "slug": "loratadina",
+  "nome": "Loratadina",
+  "atc": "R06AX13",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 4.85,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Claritin 10mg 7cpr",
+      "ditta": "Schering-Plough",
+      "prezzo": 5.22,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Loratadina EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Fristamin 10mg 7cpr",
+      "ditta": "Recordati",
+      "prezzo": 4.52,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

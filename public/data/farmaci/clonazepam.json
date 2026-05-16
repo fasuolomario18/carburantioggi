@@ -1,0 +1,34 @@
+{
+  "slug": "clonazepam",
+  "nome": "Clonazepam",
+  "atc": "N03AE01",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 2.82,
+  "prezzo_medio": 4.19,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Rivotril 0,5mg 30cpr",
+      "ditta": "Roche",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Clonazepam EG 0,5mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 2.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Rivotril 2mg 30cpr",
+      "ditta": "Roche",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

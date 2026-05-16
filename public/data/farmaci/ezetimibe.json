@@ -1,0 +1,27 @@
+{
+  "slug": "ezetimibe",
+  "nome": "Ezetimibe",
+  "atc": "C10AX09",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 8.42,
+  "prezzo_medio": 18.47,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ezetimibe EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 8.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Zetia 10mg 28cpr",
+      "ditta": "MSD/Schering",
+      "prezzo": 28.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

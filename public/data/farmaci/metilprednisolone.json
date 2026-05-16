@@ -1,0 +1,34 @@
+{
+  "slug": "metilprednisolone",
+  "nome": "Metilprednisolone",
+  "atc": "H02AB04",
+  "categoria_atc": "Preparati ormonali sistemici",
+  "n_farmaci": 3,
+  "prezzo_min": 3.82,
+  "prezzo_medio": 5.19,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Medrol 16mg 14cpr",
+      "ditta": "Pfizer",
+      "prezzo": 6.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Metilprednisolone EG 16mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Solumedrol 40mg polv+solv",
+      "ditta": "Pfizer",
+      "prezzo": 3.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

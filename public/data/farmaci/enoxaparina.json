@@ -1,0 +1,34 @@
+{
+  "slug": "enoxaparina",
+  "nome": "Enoxaparina",
+  "atc": "B01AB05",
+  "categoria_atc": "Sangue e organi emopoietici",
+  "n_farmaci": 3,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 8.49,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Clexane 4000UI/0,4ml 2sir sc",
+      "ditta": "Sanofi",
+      "prezzo": 8.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Clexane 6000UI/0,6ml 2sir sc",
+      "ditta": "Sanofi",
+      "prezzo": 11.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Enoxaparina EG 4000UI 2sir",
+      "ditta": "EG",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

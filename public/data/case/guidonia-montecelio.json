@@ -1,0 +1,22 @@
+{
+  "slug": "guidonia-montecelio",
+  "nome": "Guidonia Montecelio",
+  "provincia": "RM",
+  "regione": "Lazio",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Villalba",
+      "res_min": 1800,
+      "res_max": 3200,
+      "loc_min": 58,
+      "loc_max": 98
+    }
+  ],
+  "residenziale_media": 2500,
+  "residenziale_min": 1800,
+  "residenziale_max": 3200,
+  "affitto_media": 78,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

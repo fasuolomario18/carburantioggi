@@ -1,31 +1,31 @@
 {
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "principi_attivi": [
     {
       "slug": "paracetamolo",
       "nome": "Paracetamolo",
       "atc": "N02BE01",
       "categoria_atc": "Sistema nervoso",
-      "n_farmaci": 5,
-      "prezzo_min": 1.5,
-      "ha_rimborsato": false
+      "n_farmaci": 7,
+      "prezzo_min": 1.48,
+      "ha_rimborsato": true
     },
     {
       "slug": "ibuprofene",
       "nome": "Ibuprofene",
       "atc": "M01AE01",
       "categoria_atc": "Sistema muscolo-scheletrico",
-      "n_farmaci": 5,
-      "prezzo_min": 2.7,
+      "n_farmaci": 6,
+      "prezzo_min": 2.72,
       "ha_rimborsato": false
     },
     {
-      "slug": "amoxicillina",
-      "nome": "Amoxicillina",
-      "atc": "J01CA04",
-      "categoria_atc": "Antimicrobici per uso sistemico",
-      "n_farmaci": 3,
-      "prezzo_min": 4.1,
+      "slug": "omeprazolo",
+      "nome": "Omeprazolo",
+      "atc": "A02BC01",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 5,
+      "prezzo_min": 2.45,
       "ha_rimborsato": true
     },
     {
@@ -33,8 +33,170 @@
       "nome": "Pantoprazolo",
       "atc": "A02BC02",
       "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 4,
+      "prezzo_min": 3.08,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "lansoprazolo",
+      "nome": "Lansoprazolo",
+      "atc": "A02BC03",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
       "n_farmaci": 3,
-      "prezzo_min": 3.1,
+      "prezzo_min": 2.78,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "esomeprazolo",
+      "nome": "Esomeprazolo",
+      "atc": "A02BC05",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "ranitidina",
+      "nome": "Ranitidina",
+      "atc": "A02BA02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 2.92,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "domperidone",
+      "nome": "Domperidone",
+      "atc": "A03FA03",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 3.48,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "metformina",
+      "nome": "Metformina",
+      "atc": "A10BA02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 4,
+      "prezzo_min": 3.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "glimepiride",
+      "nome": "Glimepiride",
+      "atc": "A10BB12",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "sitagliptin",
+      "nome": "Sitagliptin",
+      "atc": "A10BH01",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 28.42,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "acido-ursodesossicolico",
+      "nome": "Acido Ursodesossicolico",
+      "atc": "A05AA02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 8.42,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "mesalazina",
+      "nome": "Mesalazina",
+      "atc": "A07EC02",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 12.28,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "insulina-glargine",
+      "nome": "Insulina Glargine",
+      "atc": "A10AE04",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 32.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "lattulosio",
+      "nome": "Lattulosio",
+      "atc": "A06AD11",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 3,
+      "prezzo_min": 3.42,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "acido-acetilsalicilico",
+      "nome": "Acido Acetilsalicilico",
+      "atc": "B01AC06",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 4,
+      "prezzo_min": 2.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "clopidogrel",
+      "nome": "Clopidogrel",
+      "atc": "B01AC04",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 3,
+      "prezzo_min": 5.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "apixaban",
+      "nome": "Apixaban",
+      "atc": "B01AF02",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 3,
+      "prezzo_min": 42.18,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "rivaroxaban",
+      "nome": "Rivaroxaban",
+      "atc": "B01AF01",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 2,
+      "prezzo_min": 38.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "enoxaparina",
+      "nome": "Enoxaparina",
+      "atc": "B01AB05",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "warfarin",
+      "nome": "Warfarin",
+      "atc": "B01AA03",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 2,
+      "prezzo_min": 2.42,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "acido-folico",
+      "nome": "Acido Folico",
+      "atc": "B03BB01",
+      "categoria_atc": "Sangue e organi emopoietici",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
       "ha_rimborsato": true
     },
     {
@@ -42,26 +204,35 @@
       "nome": "Atorvastatina",
       "atc": "C10AA05",
       "categoria_atc": "Sistema cardiovascolare",
-      "n_farmaci": 3,
-      "prezzo_min": 4.5,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "metformina",
-      "nome": "Metformina",
-      "atc": "A10BA02",
-      "categoria_atc": "Apparato gastrointestinale e metabolismo",
-      "n_farmaci": 3,
-      "prezzo_min": 3.2,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "levotiroxina",
-      "nome": "Levotiroxina",
-      "atc": "H03AA01",
-      "categoria_atc": "Preparati ormonali sistemici",
       "n_farmaci": 4,
-      "prezzo_min": 4.9,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "rosuvastatina",
+      "nome": "Rosuvastatina",
+      "atc": "C10AA07",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "simvastatina",
+      "nome": "Simvastatina",
+      "atc": "C10AA01",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "ezetimibe",
+      "nome": "Ezetimibe",
+      "atc": "C10AX09",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 8.42,
       "ha_rimborsato": true
     },
     {
@@ -70,25 +241,7 @@
       "atc": "C08CA01",
       "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 3,
-      "prezzo_min": 3.5,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "lansoprazolo",
-      "nome": "Lansoprazolo",
-      "atc": "A02BC03",
-      "categoria_atc": "Apparato gastrointestinale e metabolismo",
-      "n_farmaci": 2,
-      "prezzo_min": 2.8,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "simvastatina",
-      "nome": "Simvastatina",
-      "atc": "C10AA01",
-      "categoria_atc": "Sistema cardiovascolare",
-      "n_farmaci": 2,
-      "prezzo_min": 3.8,
+      "prezzo_min": 3.52,
       "ha_rimborsato": true
     },
     {
@@ -96,80 +249,80 @@
       "nome": "Ramipril",
       "atc": "C09AA05",
       "categoria_atc": "Sistema cardiovascolare",
-      "n_farmaci": 2,
-      "prezzo_min": 3.2,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "omeprazolo",
-      "nome": "Omeprazolo",
-      "atc": "A02BC01",
-      "categoria_atc": "Apparato gastrointestinale e metabolismo",
       "n_farmaci": 3,
-      "prezzo_min": 2.5,
+      "prezzo_min": 3.22,
       "ha_rimborsato": true
     },
     {
-      "slug": "beclometasone",
-      "nome": "Beclometasone",
-      "atc": "R03BA01",
-      "categoria_atc": "Sistema respiratorio",
-      "n_farmaci": 2,
-      "prezzo_min": 6.8,
-      "ha_rimborsato": true
-    },
-    {
-      "slug": "diclofenac",
-      "nome": "Diclofenac",
-      "atc": "M01AB05",
-      "categoria_atc": "Sistema muscolo-scheletrico",
+      "slug": "enalapril",
+      "nome": "Enalapril",
+      "atc": "C09AA02",
+      "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 3,
-      "prezzo_min": 3.4,
+      "prezzo_min": 3.48,
       "ha_rimborsato": true
     },
     {
-      "slug": "cetirizina",
-      "nome": "Cetirizina",
-      "atc": "R06AE07",
-      "categoria_atc": "Sistema respiratorio",
+      "slug": "lisinopril",
+      "nome": "Lisinopril",
+      "atc": "C09AA03",
+      "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 3,
-      "prezzo_min": 2.8,
-      "ha_rimborsato": false
-    },
-    {
-      "slug": "lorazepam",
-      "nome": "Lorazepam",
-      "atc": "N05BA06",
-      "categoria_atc": "Sistema nervoso",
-      "n_farmaci": 2,
-      "prezzo_min": 3.2,
+      "prezzo_min": 3.22,
       "ha_rimborsato": true
     },
     {
-      "slug": "acido-acetilsalicilico",
-      "nome": "Acido Acetilsalicilico",
-      "atc": "B01AC06",
-      "categoria_atc": "Sangue e organi emopoietici",
+      "slug": "losartan",
+      "nome": "Losartan",
+      "atc": "C09CA01",
+      "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 3,
-      "prezzo_min": 2.5,
+      "prezzo_min": 4.52,
       "ha_rimborsato": true
     },
     {
-      "slug": "nimesulide",
-      "nome": "Nimesulide",
-      "atc": "M01AX17",
-      "categoria_atc": "Sistema muscolo-scheletrico",
-      "n_farmaci": 2,
-      "prezzo_min": 3.9,
-      "ha_rimborsato": false
+      "slug": "valsartan",
+      "nome": "Valsartan",
+      "atc": "C09CA03",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 4.82,
+      "ha_rimborsato": true
     },
     {
-      "slug": "sertralina",
-      "nome": "Sertralina",
-      "atc": "N06AB06",
-      "categoria_atc": "Sistema nervoso",
+      "slug": "olmesartan",
+      "nome": "Olmesartan",
+      "atc": "C09CA08",
+      "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 2,
-      "prezzo_min": 5.8,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "bisoprololo",
+      "nome": "Bisoprololo",
+      "atc": "C07AB07",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "metoprololo",
+      "nome": "Metoprololo",
+      "atc": "C07AB02",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "carvedilolo",
+      "nome": "Carvedilolo",
+      "atc": "C07AG02",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
       "ha_rimborsato": true
     },
     {
@@ -177,8 +330,629 @@
       "nome": "Furosemide",
       "atc": "C03CA01",
       "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 2.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "idroclorotiazide",
+      "nome": "Idroclorotiazide",
+      "atc": "C03AA03",
+      "categoria_atc": "Sistema cardiovascolare",
       "n_farmaci": 2,
-      "prezzo_min": 2.2,
+      "prezzo_min": 2.18,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "spironolattone",
+      "nome": "Spironolattone",
+      "atc": "C03DA01",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "digossina",
+      "nome": "Digossina",
+      "atc": "C01AA05",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 2.42,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "fenofibrato",
+      "nome": "Fenofibrato",
+      "atc": "C10AB05",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 3,
+      "prezzo_min": 7.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "nitroglicerina",
+      "nome": "Nitroglicerina",
+      "atc": "C01DA02",
+      "categoria_atc": "Sistema cardiovascolare",
+      "n_farmaci": 2,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "tamsulosina",
+      "nome": "Tamsulosina",
+      "atc": "G04CA02",
+      "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "finasteride",
+      "nome": "Finasteride",
+      "atc": "G04CB01",
+      "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "sildenafil",
+      "nome": "Sildenafil",
+      "atc": "G04BE03",
+      "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+      "n_farmaci": 3,
+      "prezzo_min": 14.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "tadalafil",
+      "nome": "Tadalafil",
+      "atc": "G04BE08",
+      "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+      "n_farmaci": 3,
+      "prezzo_min": 18.42,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "levotiroxina",
+      "nome": "Levotiroxina",
+      "atc": "H03AA01",
+      "categoria_atc": "Preparati ormonali sistemici",
+      "n_farmaci": 5,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "prednisone",
+      "nome": "Prednisone",
+      "atc": "H02AB07",
+      "categoria_atc": "Preparati ormonali sistemici",
+      "n_farmaci": 3,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "metilprednisolone",
+      "nome": "Metilprednisolone",
+      "atc": "H02AB04",
+      "categoria_atc": "Preparati ormonali sistemici",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "desametasone",
+      "nome": "Desametasone",
+      "atc": "H02AB02",
+      "categoria_atc": "Preparati ormonali sistemici",
+      "n_farmaci": 2,
+      "prezzo_min": 1.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "amoxicillina",
+      "nome": "Amoxicillina",
+      "atc": "J01CA04",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.12,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "amoxicillinaclavulanato",
+      "nome": "Amoxicillina/Clavulanato",
+      "atc": "J01CR02",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "azitromicina",
+      "nome": "Azitromicina",
+      "atc": "J01FA10",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "claritromicina",
+      "nome": "Claritromicina",
+      "atc": "J01FA09",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 5.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "ciprofloxacina",
+      "nome": "Ciprofloxacina",
+      "atc": "J01MA02",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 5.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "levofloxacina",
+      "nome": "Levofloxacina",
+      "atc": "J01MA12",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "cefalexina",
+      "nome": "Cefalexina",
+      "atc": "J01DB01",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 5.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "metronidazolo",
+      "nome": "Metronidazolo",
+      "atc": "J01XD01",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "fluconazolo",
+      "nome": "Fluconazolo",
+      "atc": "J02AC01",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "aciclovir",
+      "nome": "Aciclovir",
+      "atc": "J05AB01",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "nitrofurantoina",
+      "nome": "Nitrofurantoina",
+      "atc": "J01XE01",
+      "categoria_atc": "Antimicrobici per uso sistemico",
+      "n_farmaci": 2,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "diclofenac",
+      "nome": "Diclofenac",
+      "atc": "M01AB05",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 4,
+      "prezzo_min": 3.42,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "ketoprofene",
+      "nome": "Ketoprofene",
+      "atc": "M01AE03",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "naprossene",
+      "nome": "Naprossene",
+      "atc": "M01AE02",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "meloxicam",
+      "nome": "Meloxicam",
+      "atc": "M01AC06",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "celecoxib",
+      "nome": "Celecoxib",
+      "atc": "M01AH01",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 9.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "nimesulide",
+      "nome": "Nimesulide",
+      "atc": "M01AX17",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 3.92,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "colecalciferolo",
+      "nome": "Colecalciferolo",
+      "atc": "A11CC05",
+      "categoria_atc": "Apparato gastrointestinale e metabolismo",
+      "n_farmaci": 4,
+      "prezzo_min": 4.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "alendronato",
+      "nome": "Alendronato",
+      "atc": "M05BA04",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "colchicina",
+      "nome": "Colchicina",
+      "atc": "M04AC01",
+      "categoria_atc": "Sistema muscolo-scheletrico",
+      "n_farmaci": 2,
+      "prezzo_min": 11.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "sertralina",
+      "nome": "Sertralina",
+      "atc": "N06AB06",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "escitalopram",
+      "nome": "Escitalopram",
+      "atc": "N06AB10",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 6.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "fluoxetina",
+      "nome": "Fluoxetina",
+      "atc": "N06AB03",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "paroxetina",
+      "nome": "Paroxetina",
+      "atc": "N06AB05",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "venlafaxina",
+      "nome": "Venlafaxina",
+      "atc": "N06AX16",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 6.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "duloxetina",
+      "nome": "Duloxetina",
+      "atc": "N06AX21",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 8.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "mirtazapina",
+      "nome": "Mirtazapina",
+      "atc": "N06AX11",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "amitriptilina",
+      "nome": "Amitriptilina",
+      "atc": "N06AA09",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 3.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "lorazepam",
+      "nome": "Lorazepam",
+      "atc": "N05BA06",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 3.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "alprazolam",
+      "nome": "Alprazolam",
+      "atc": "N05BA12",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 3.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "diazepam",
+      "nome": "Diazepam",
+      "atc": "N05BA01",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "clonazepam",
+      "nome": "Clonazepam",
+      "atc": "N03AE01",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "zolpidem",
+      "nome": "Zolpidem",
+      "atc": "N05CF02",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 4.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "quetiapina",
+      "nome": "Quetiapina",
+      "atc": "N05AH04",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 6.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "olanzapina",
+      "nome": "Olanzapina",
+      "atc": "N05AH03",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 5.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "risperidone",
+      "nome": "Risperidone",
+      "atc": "N05AX08",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 4.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "valproato-di-sodio",
+      "nome": "Valproato di Sodio",
+      "atc": "N03AG01",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 4.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "carbamazepina",
+      "nome": "Carbamazepina",
+      "atc": "N03AB02",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 3.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "levetiracetam",
+      "nome": "Levetiracetam",
+      "atc": "N03AX14",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 5.22,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "gabapentin",
+      "nome": "Gabapentin",
+      "atc": "N03AX12",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 7.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "pregabalin",
+      "nome": "Pregabalin",
+      "atc": "N03AX16",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 8.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "tramadolo",
+      "nome": "Tramadolo",
+      "atc": "N02AX02",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "donepezil",
+      "nome": "Donepezil",
+      "atc": "N06DA02",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 8.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "sumatriptan",
+      "nome": "Sumatriptan",
+      "atc": "N02CC01",
+      "categoria_atc": "Sistema nervoso",
+      "n_farmaci": 3,
+      "prezzo_min": 8.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "salbutamolo",
+      "nome": "Salbutamolo",
+      "atc": "R03AC02",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 3.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "beclometasone-inalatorio",
+      "nome": "Beclometasone Inalatorio",
+      "atc": "R03BA01",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 6.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "fluticasone",
+      "nome": "Fluticasone",
+      "atc": "R03BA05",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 10.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "budesonide-inalatorio",
+      "nome": "Budesonide Inalatorio",
+      "atc": "R03BA02",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 12.52,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "tiotropio",
+      "nome": "Tiotropio",
+      "atc": "R03BB04",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 2,
+      "prezzo_min": 45.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "montelukast",
+      "nome": "Montelukast",
+      "atc": "R03DC03",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "cetirizina",
+      "nome": "Cetirizina",
+      "atc": "R06AE07",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 4,
+      "prezzo_min": 4.82,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "loratadina",
+      "nome": "Loratadina",
+      "atc": "R06AX13",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 4.52,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "desloratadina",
+      "nome": "Desloratadina",
+      "atc": "R06AX27",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 5.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "fexofenadina",
+      "nome": "Fexofenadina",
+      "atc": "R06AX26",
+      "categoria_atc": "Sistema respiratorio",
+      "n_farmaci": 3,
+      "prezzo_min": 6.52,
+      "ha_rimborsato": false
+    },
+    {
+      "slug": "timololo-collirio",
+      "nome": "Timololo collirio",
+      "atc": "S01ED01",
+      "categoria_atc": "Organi di senso",
+      "n_farmaci": 2,
+      "prezzo_min": 2.82,
+      "ha_rimborsato": true
+    },
+    {
+      "slug": "latanoprost",
+      "nome": "Latanoprost",
+      "atc": "S01EE01",
+      "categoria_atc": "Organi di senso",
+      "n_farmaci": 2,
+      "prezzo_min": 8.82,
       "ha_rimborsato": true
     }
   ]

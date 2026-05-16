@@ -1,0 +1,34 @@
+{
+  "slug": "tamsulosina",
+  "nome": "Tamsulosina",
+  "atc": "G04CA02",
+  "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 11.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Tamsulosina EG 0,4mg 30cps",
+      "ditta": "EG",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Omnic 0,4mg 30cps",
+      "ditta": "Astellas",
+      "prezzo": 15.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Flomax 0,4mg 30cps",
+      "ditta": "Astellas",
+      "prezzo": 15.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

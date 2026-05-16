@@ -3,30 +3,37 @@
   "nome": "Acido Acetilsalicilico",
   "atc": "B01AC06",
   "categoria_atc": "Sangue e organi emopoietici",
-  "n_farmaci": 3,
-  "prezzo_min": 2.5,
-  "prezzo_medio": 3.5,
+  "n_farmaci": 4,
+  "prezzo_min": 2.52,
+  "prezzo_medio": 5.34,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Aspirina 500mg 20cpr",
       "ditta": "Bayer",
-      "prezzo": 3.8,
+      "prezzo": 3.82,
       "fascia": "C",
       "rimborso": false
     },
     {
       "nome": "Cardioaspirin 100mg 30cpr",
       "ditta": "Bayer",
-      "prezzo": 4.2,
+      "prezzo": 4.18,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "ASA EG 100mg 30cpr",
       "ditta": "EG",
-      "prezzo": 2.5,
+      "prezzo": 2.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Aspirina Protect 100mg 98cpr",
+      "ditta": "Bayer",
+      "prezzo": 10.82,
       "fascia": "A",
       "rimborso": true
     }

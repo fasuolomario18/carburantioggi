@@ -1,0 +1,34 @@
+{
+  "slug": "levetiracetam",
+  "nome": "Levetiracetam",
+  "atc": "N03AX14",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 5.22,
+  "prezzo_medio": 18.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Levetiracetam EG 500mg 60cpr",
+      "ditta": "EG",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Keppra 1000mg 60cpr",
+      "ditta": "UCB",
+      "prezzo": 42.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Levetiracetam Teva 250mg 30cpr",
+      "ditta": "Teva",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "acido-ursodesossicolico",
+  "nome": "Acido Ursodesossicolico",
+  "atc": "A05AA02",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 8.42,
+  "prezzo_medio": 12.82,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ursofalk 250mg 50cps",
+      "ditta": "Dr.Falk",
+      "prezzo": 15.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Acido Ursodesossicolico EG 300mg 20cps",
+      "ditta": "EG",
+      "prezzo": 8.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Deursil 300mg 30cps",
+      "ditta": "Prodotti Roche",
+      "prezzo": 14.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

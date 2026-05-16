@@ -1,0 +1,22 @@
+{
+  "slug": "ravello",
+  "nome": "Ravello",
+  "provincia": "SA",
+  "regione": "Campania",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Torello",
+      "res_min": 3500,
+      "res_max": 7500,
+      "loc_min": 100,
+      "loc_max": 220
+    }
+  ],
+  "residenziale_media": 5500,
+  "residenziale_min": 3500,
+  "residenziale_max": 7500,
+  "affitto_media": 160,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

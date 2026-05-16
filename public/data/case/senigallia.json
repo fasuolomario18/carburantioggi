@@ -1,0 +1,22 @@
+{
+  "slug": "senigallia",
+  "nome": "Senigallia",
+  "provincia": "AN",
+  "regione": "Marche",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lungomare",
+      "res_min": 2000,
+      "res_max": 4000,
+      "loc_min": 62,
+      "loc_max": 120
+    }
+  ],
+  "residenziale_media": 3000,
+  "residenziale_min": 2000,
+  "residenziale_max": 4000,
+  "affitto_media": 91,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

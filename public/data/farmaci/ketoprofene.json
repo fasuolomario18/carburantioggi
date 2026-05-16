@@ -1,0 +1,34 @@
+{
+  "slug": "ketoprofene",
+  "nome": "Ketoprofene",
+  "atc": "M01AE03",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 7.29,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ketoprofene EG 100mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Orudis 200mg 20cps ret",
+      "ditta": "Sanofi",
+      "prezzo": 9.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Fastum gel 2,5% 50g",
+      "ditta": "Menarini",
+      "prezzo": 7.52,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "glimepiride",
+  "nome": "Glimepiride",
+  "atc": "A10BB12",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 6.84,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Glimepiride EG 2mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Amaryl 3mg 30cpr",
+      "ditta": "Sanofi",
+      "prezzo": 10.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Glimepiride Teva 4mg 30cpr",
+      "ditta": "Teva",
+      "prezzo": 5.18,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

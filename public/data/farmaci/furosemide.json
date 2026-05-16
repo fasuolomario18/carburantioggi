@@ -3,23 +3,30 @@
   "nome": "Furosemide",
   "atc": "C03CA01",
   "categoria_atc": "Sistema cardiovascolare",
-  "n_farmaci": 2,
-  "prezzo_min": 2.2,
-  "prezzo_medio": 2.85,
+  "n_farmaci": 3,
+  "prezzo_min": 2.22,
+  "prezzo_medio": 4.72,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Lasix 25mg 30cpr",
       "ditta": "Sanofi",
-      "prezzo": 3.5,
+      "prezzo": 3.52,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Furosemide EG 25mg 30cpr",
       "ditta": "EG",
-      "prezzo": 2.2,
+      "prezzo": 2.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Furosemide 500mg 10cpr",
+      "ditta": "Sanofi",
+      "prezzo": 8.42,
       "fascia": "A",
       "rimborso": true
     }

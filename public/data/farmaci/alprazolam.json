@@ -1,0 +1,34 @@
+{
+  "slug": "alprazolam",
+  "nome": "Alprazolam",
+  "atc": "N05BA12",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 3.22,
+  "prezzo_medio": 4.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Xanax 0,25mg 30cpr",
+      "ditta": "Pfizer",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Alprazolam EG 0,5mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Frontal 1mg 30cpr",
+      "ditta": "Pfizer",
+      "prezzo": 6.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

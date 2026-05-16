@@ -1,0 +1,22 @@
+{
+  "slug": "fermo",
+  "nome": "Fermo",
+  "provincia": "FM",
+  "regione": "Marche",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Porto San Giorgio",
+      "res_min": 1400,
+      "res_max": 2800,
+      "loc_min": 48,
+      "loc_max": 88
+    }
+  ],
+  "residenziale_media": 2100,
+  "residenziale_min": 1400,
+  "residenziale_max": 2800,
+  "affitto_media": 68,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

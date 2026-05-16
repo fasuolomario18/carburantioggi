@@ -4,29 +4,29 @@
   "atc": "C08CA01",
   "categoria_atc": "Sistema cardiovascolare",
   "n_farmaci": 3,
-  "prezzo_min": 3.5,
-  "prezzo_medio": 5.27,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 5.29,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Amlodipina EG 5mg 30cpr",
       "ditta": "EG",
-      "prezzo": 3.5,
+      "prezzo": 3.52,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Norvasc 5mg 28cpr",
       "ditta": "Viatris",
-      "prezzo": 8.2,
+      "prezzo": 8.22,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Amlodipina Teva 10mg 30cpr",
       "ditta": "Teva",
-      "prezzo": 4.1,
+      "prezzo": 4.12,
       "fascia": "A",
       "rimborso": true
     }

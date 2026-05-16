@@ -1,0 +1,34 @@
+{
+  "slug": "naprossene",
+  "nome": "Naprossene",
+  "atc": "M01AE02",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 3,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 5.52,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Momendol 220mg 12cpr",
+      "ditta": "Bayer",
+      "prezzo": 5.22,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Naprossene EG 250mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Synflex 275mg 20cpr",
+      "ditta": "Roche",
+      "prezzo": 7.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

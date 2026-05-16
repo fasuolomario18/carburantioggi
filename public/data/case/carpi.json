@@ -1,0 +1,22 @@
+{
+  "slug": "carpi",
+  "nome": "Carpi",
+  "provincia": "MO",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Fossoli",
+      "res_min": 1700,
+      "res_max": 3000,
+      "loc_min": 55,
+      "loc_max": 92
+    }
+  ],
+  "residenziale_media": 2350,
+  "residenziale_min": 1700,
+  "residenziale_max": 3000,
+  "affitto_media": 74,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "mesalazina",
+  "nome": "Mesalazina",
+  "atc": "A07EC02",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 12.28,
+  "prezzo_medio": 17.76,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Asacol 400mg 90cpr",
+      "ditta": "Zambon",
+      "prezzo": 22.48,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Pentasa 500mg 50cpr",
+      "ditta": "Ferring",
+      "prezzo": 18.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Mesalazina EG 800mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 12.28,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "spoleto",
+  "nome": "Spoleto",
+  "provincia": "PG",
+  "regione": "Umbria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/San Giovanni",
+      "res_min": 1500,
+      "res_max": 3000,
+      "loc_min": 50,
+      "loc_max": 92
+    }
+  ],
+  "residenziale_media": 2250,
+  "residenziale_min": 1500,
+  "residenziale_max": 3000,
+  "affitto_media": 71,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

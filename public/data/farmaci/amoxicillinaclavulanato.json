@@ -1,0 +1,34 @@
+{
+  "slug": "amoxicillinaclavulanato",
+  "nome": "Amoxicillina/Clavulanato",
+  "atc": "J01CR02",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 4.82,
+  "prezzo_medio": 7.84,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Augmentin 875mg+125mg 12cpr",
+      "ditta": "GSK",
+      "prezzo": 9.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Clavulin 875+125mg 12cpr",
+      "ditta": "GSK",
+      "prezzo": 9.18,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Amox-Clav EG 875+125mg 12cpr",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

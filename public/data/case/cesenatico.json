@@ -1,0 +1,22 @@
+{
+  "slug": "cesenatico",
+  "nome": "Cesenatico",
+  "provincia": "FC",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Porto Canale",
+      "res_min": 2800,
+      "res_max": 5500,
+      "loc_min": 88,
+      "loc_max": 165
+    }
+  ],
+  "residenziale_media": 4150,
+  "residenziale_min": 2800,
+  "residenziale_max": 5500,
+  "affitto_media": 127,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

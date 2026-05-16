@@ -1,0 +1,34 @@
+{
+  "slug": "losartan",
+  "nome": "Losartan",
+  "atc": "C09CA01",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 11.92,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Losartan EG 50mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Cozaar 100mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 18.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Lortaan 50mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 12.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "desametasone",
+  "nome": "Desametasone",
+  "atc": "H02AB02",
+  "categoria_atc": "Preparati ormonali sistemici",
+  "n_farmaci": 2,
+  "prezzo_min": 1.82,
+  "prezzo_medio": 2.62,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Decadron 0,5mg 20cpr",
+      "ditta": "Organon",
+      "prezzo": 3.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Soldesam 4mg/2ml f im/ev",
+      "ditta": "Laboratorio Farmacologico",
+      "prezzo": 1.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

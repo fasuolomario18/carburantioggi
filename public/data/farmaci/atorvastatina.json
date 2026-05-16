@@ -3,30 +3,37 @@
   "nome": "Atorvastatina",
   "atc": "C10AA05",
   "categoria_atc": "Sistema cardiovascolare",
-  "n_farmaci": 3,
-  "prezzo_min": 4.5,
-  "prezzo_medio": 7.43,
+  "n_farmaci": 4,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 9.71,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
-      "nome": "Atorvastatina Teva 10mg 30cpr",
-      "ditta": "Teva",
-      "prezzo": 4.5,
+      "nome": "Atorvastatina EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.52,
       "fascia": "A",
       "rimborso": true
     },
     {
-      "nome": "Atorvastatina EG 20mg 30cpr",
-      "ditta": "EG",
-      "prezzo": 5.8,
+      "nome": "Atorvastatina Teva 20mg 30cpr",
+      "ditta": "Teva",
+      "prezzo": 5.82,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Torvast 40mg 30cpr",
+      "ditta": "Viatris",
+      "prezzo": 12.02,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Totalip 80mg 30cpr",
       "ditta": "Pfizer",
-      "prezzo": 12,
+      "prezzo": 16.48,
       "fascia": "A",
       "rimborso": true
     }

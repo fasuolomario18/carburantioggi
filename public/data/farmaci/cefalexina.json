@@ -1,0 +1,34 @@
+{
+  "slug": "cefalexina",
+  "nome": "Cefalexina",
+  "atc": "J01DB01",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 5.52,
+  "prezzo_medio": 7.62,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Cefalexina EG 500mg 20cps",
+      "ditta": "EG",
+      "prezzo": 5.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Keforal 500mg 20cps",
+      "ditta": "Eli Lilly",
+      "prezzo": 9.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Ospexin 500mg 12cps",
+      "ditta": "Sandoz",
+      "prezzo": 7.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

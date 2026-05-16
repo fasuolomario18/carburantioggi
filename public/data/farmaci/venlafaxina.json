@@ -1,0 +1,34 @@
+{
+  "slug": "venlafaxina",
+  "nome": "Venlafaxina",
+  "atc": "N06AX16",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 6.52,
+  "prezzo_medio": 16.42,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Venlafaxina EG 75mg 28cps RP",
+      "ditta": "EG",
+      "prezzo": 6.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Efexor 150mg 28cps",
+      "ditta": "Viatris",
+      "prezzo": 22.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Faxine 75mg 28cps RP",
+      "ditta": "Lundbeck",
+      "prezzo": 20.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

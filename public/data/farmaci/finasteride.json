@@ -1,0 +1,34 @@
+{
+  "slug": "finasteride",
+  "nome": "Finasteride",
+  "atc": "G04CB01",
+  "categoria_atc": "Sistema genito-urinario e ormoni sessuali",
+  "n_farmaci": 3,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 32.25,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Finasteride EG 5mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Proscar 5mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 42.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Propecia 1mg 84cpr",
+      "ditta": "MSD",
+      "prezzo": 48.42,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

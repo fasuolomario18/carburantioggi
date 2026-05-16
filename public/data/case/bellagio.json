@@ -1,0 +1,22 @@
+{
+  "slug": "bellagio",
+  "nome": "Bellagio",
+  "provincia": "CO",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lago di Como",
+      "res_min": 4000,
+      "res_max": 9000,
+      "loc_min": 118,
+      "loc_max": 270
+    }
+  ],
+  "residenziale_media": 6500,
+  "residenziale_min": 4000,
+  "residenziale_max": 9000,
+  "affitto_media": 194,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

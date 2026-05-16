@@ -1,0 +1,22 @@
+{
+  "slug": "caltanissetta",
+  "nome": "Caltanissetta",
+  "provincia": "CL",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Villaggio Aldisio",
+      "res_min": 600,
+      "res_max": 1500,
+      "loc_min": 25,
+      "loc_max": 50
+    }
+  ],
+  "residenziale_media": 1050,
+  "residenziale_min": 600,
+  "residenziale_max": 1500,
+  "affitto_media": 38,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

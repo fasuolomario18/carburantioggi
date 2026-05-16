@@ -1,0 +1,34 @@
+{
+  "slug": "duloxetina",
+  "nome": "Duloxetina",
+  "atc": "N06AX21",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 8.52,
+  "prezzo_medio": 34.92,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Duloxetina EG 60mg 28cps",
+      "ditta": "EG",
+      "prezzo": 8.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Cymbalta 60mg 28cps",
+      "ditta": "Eli Lilly",
+      "prezzo": 48.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Xeristar 60mg 28cps",
+      "ditta": "Eli Lilly",
+      "prezzo": 47.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

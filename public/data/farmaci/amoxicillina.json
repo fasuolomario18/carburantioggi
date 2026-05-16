@@ -4,29 +4,29 @@
   "atc": "J01CA04",
   "categoria_atc": "Antimicrobici per uso sistemico",
   "n_farmaci": 3,
-  "prezzo_min": 4.1,
-  "prezzo_medio": 6.93,
+  "prezzo_min": 4.12,
+  "prezzo_medio": 6.95,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Zimox 1g 12cpr",
       "ditta": "Pfizer",
-      "prezzo": 8.5,
+      "prezzo": 8.52,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Velamox 1g 12cps",
       "ditta": "Astellas",
-      "prezzo": 8.2,
+      "prezzo": 8.22,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Amoxicillina EG 1g 12cpr",
       "ditta": "EG",
-      "prezzo": 4.1,
+      "prezzo": 4.12,
       "fascia": "A",
       "rimborso": true
     }

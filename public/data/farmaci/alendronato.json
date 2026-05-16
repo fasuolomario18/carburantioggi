@@ -1,0 +1,34 @@
+{
+  "slug": "alendronato",
+  "nome": "Alendronato",
+  "atc": "M05BA04",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 3,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 7.62,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Alendronato EG 70mg 4cpr",
+      "ditta": "EG",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Fosamax 70mg 4cpr",
+      "ditta": "MSD",
+      "prezzo": 9.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Dronal 70mg 4cpr",
+      "ditta": "MSD",
+      "prezzo": 9.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

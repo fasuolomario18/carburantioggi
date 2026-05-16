@@ -1,0 +1,34 @@
+{
+  "slug": "ranitidina",
+  "nome": "Ranitidina",
+  "atc": "A02BA02",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 2.92,
+  "prezzo_medio": 4.21,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ranidil 150mg 20cpr",
+      "ditta": "Almirall",
+      "prezzo": 4.52,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Zantac 150mg 20cpr",
+      "ditta": "GSK",
+      "prezzo": 5.18,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Ranitidina EG 150mg 20cpr",
+      "ditta": "EG",
+      "prezzo": 2.92,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "olanzapina",
+  "nome": "Olanzapina",
+  "atc": "N05AH03",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 5.22,
+  "prezzo_medio": 31.52,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Olanzapina EG 10mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 6.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Zyprexa 10mg 28cpr",
+      "ditta": "Eli Lilly",
+      "prezzo": 82.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Olanzapina Teva 5mg 28cpr",
+      "ditta": "Teva",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

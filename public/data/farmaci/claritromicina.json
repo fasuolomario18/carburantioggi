@@ -1,0 +1,34 @@
+{
+  "slug": "claritromicina",
+  "nome": "Claritromicina",
+  "atc": "J01FA09",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 5.22,
+  "prezzo_medio": 7.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Klacid 500mg 14cpr",
+      "ditta": "AbbVie",
+      "prezzo": 9.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Claritromicina EG 500mg 14cpr",
+      "ditta": "EG",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Veclam 500mg 14cpr",
+      "ditta": "Viatris",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "procida",
+  "nome": "Procida",
+  "provincia": "NA",
+  "regione": "Campania",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Marina Grande/Terra Murata",
+      "res_min": 2800,
+      "res_max": 6000,
+      "loc_min": 88,
+      "loc_max": 180
+    }
+  ],
+  "residenziale_media": 4400,
+  "residenziale_min": 2800,
+  "residenziale_max": 6000,
+  "affitto_media": 134,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

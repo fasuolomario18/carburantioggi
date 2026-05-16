@@ -1,0 +1,22 @@
+{
+  "slug": "stresa",
+  "nome": "Stresa",
+  "provincia": "VB",
+  "regione": "Piemonte",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lago Maggiore",
+      "res_min": 3000,
+      "res_max": 6500,
+      "loc_min": 92,
+      "loc_max": 195
+    }
+  ],
+  "residenziale_media": 4750,
+  "residenziale_min": 3000,
+  "residenziale_max": 6500,
+  "affitto_media": 144,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

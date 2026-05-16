@@ -3,23 +3,30 @@
   "nome": "Sertralina",
   "atc": "N06AB06",
   "categoria_atc": "Sistema nervoso",
-  "n_farmaci": 2,
-  "prezzo_min": 5.8,
-  "prezzo_medio": 10.5,
+  "n_farmaci": 3,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 11.19,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Zoloft 50mg 28cpr",
-      "ditta": "Pfizer",
-      "prezzo": 15.2,
+      "ditta": "Viatris",
+      "prezzo": 15.22,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Sertralina EG 50mg 28cpr",
       "ditta": "EG",
-      "prezzo": 5.8,
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Tatig 100mg 14cpr",
+      "ditta": "Pfizer",
+      "prezzo": 12.52,
       "fascia": "A",
       "rimborso": true
     }

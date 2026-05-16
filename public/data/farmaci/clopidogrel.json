@@ -1,0 +1,34 @@
+{
+  "slug": "clopidogrel",
+  "nome": "Clopidogrel",
+  "atc": "B01AC04",
+  "categoria_atc": "Sangue e organi emopoietici",
+  "n_farmaci": 3,
+  "prezzo_min": 5.22,
+  "prezzo_medio": 12.39,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Clopidogrel EG 75mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 5.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Plavix 75mg 28cpr",
+      "ditta": "Sanofi/BMS",
+      "prezzo": 26.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Clopidogrel Teva 75mg 28cpr",
+      "ditta": "Teva",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

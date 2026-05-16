@@ -3,32 +3,46 @@
   "nome": "Omeprazolo",
   "atc": "A02BC01",
   "categoria_atc": "Apparato gastrointestinale e metabolismo",
-  "n_farmaci": 3,
-  "prezzo_min": 2.5,
-  "prezzo_medio": 4.4,
+  "n_farmaci": 5,
+  "prezzo_min": 2.45,
+  "prezzo_medio": 4.09,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Omeprazolo EG 20mg 14cps",
       "ditta": "EG",
-      "prezzo": 2.5,
+      "prezzo": 2.52,
       "fascia": "A",
       "rimborso": true
     },
     {
-      "nome": "Mepral 20mg 14cps",
+      "nome": "Omeprazolo Teva 20mg 14cps",
+      "ditta": "Teva",
+      "prezzo": 2.45,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Mepral 20mg 28cps",
       "ditta": "AstraZeneca",
-      "prezzo": 5.2,
+      "prezzo": 5.18,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Losec 20mg 14cps",
       "ditta": "AstraZeneca",
-      "prezzo": 5.5,
+      "prezzo": 5.48,
       "fascia": "C",
       "rimborso": false
+    },
+    {
+      "nome": "Antra 20mg 14cps",
+      "ditta": "AstraZeneca",
+      "prezzo": 4.82,
+      "fascia": "A",
+      "rimborso": true
     }
   ]
 }

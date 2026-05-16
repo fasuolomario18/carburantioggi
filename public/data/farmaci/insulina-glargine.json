@@ -1,0 +1,34 @@
+{
+  "slug": "insulina-glargine",
+  "nome": "Insulina Glargine",
+  "atc": "A10AE04",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 32.22,
+  "prezzo_medio": 43.84,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Lantus SoloStar 100UI/ml 5penne",
+      "ditta": "Sanofi",
+      "prezzo": 42.48,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Toujeo 300UI/ml 3penne",
+      "ditta": "Sanofi",
+      "prezzo": 56.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Abasaglar 100UI/ml 5penne",
+      "ditta": "Eli Lilly",
+      "prezzo": 32.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

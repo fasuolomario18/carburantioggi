@@ -1,0 +1,34 @@
+{
+  "slug": "salbutamolo",
+  "nome": "Salbutamolo",
+  "atc": "R03AC02",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 3.82,
+  "prezzo_medio": 4.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ventolin 100mcg/dose 200dosi",
+      "ditta": "GSK",
+      "prezzo": 5.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Broncovaleas 100mcg 200dosi",
+      "ditta": "Chiesi",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Salbutamolo EG 100mcg 200dosi",
+      "ditta": "EG",
+      "prezzo": 3.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

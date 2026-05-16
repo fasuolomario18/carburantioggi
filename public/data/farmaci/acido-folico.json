@@ -1,0 +1,34 @@
+{
+  "slug": "acido-folico",
+  "nome": "Acido Folico",
+  "atc": "B03BB01",
+  "categoria_atc": "Sangue e organi emopoietici",
+  "n_farmaci": 3,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 4.51,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Folina 5mg 20cpr",
+      "ditta": "Italfarmaco",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Acido Folico EG 0,4mg 90cpr",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Folidex 400mcg 60cpr",
+      "ditta": "Harmonium",
+      "prezzo": 5.18,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

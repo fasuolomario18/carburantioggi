@@ -1,0 +1,27 @@
+{
+  "slug": "warfarin",
+  "nome": "Warfarin",
+  "atc": "B01AA03",
+  "categoria_atc": "Sangue e organi emopoietici",
+  "n_farmaci": 2,
+  "prezzo_min": 2.42,
+  "prezzo_medio": 2.97,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Coumadin 5mg 30cpr",
+      "ditta": "BMS",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Warfarin EG 5mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 2.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

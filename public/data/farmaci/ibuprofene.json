@@ -3,44 +3,51 @@
   "nome": "Ibuprofene",
   "atc": "M01AE01",
   "categoria_atc": "Sistema muscolo-scheletrico",
-  "n_farmaci": 5,
-  "prezzo_min": 2.7,
-  "prezzo_medio": 4.02,
+  "n_farmaci": 6,
+  "prezzo_min": 2.72,
+  "prezzo_medio": 4.03,
   "ha_rimborsato": false,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
-      "nome": "Brufen 200mg 24cpr",
+      "nome": "Brufen 400mg 24cpr",
       "ditta": "Viatris",
-      "prezzo": 4.2,
+      "prezzo": 4.52,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Moment 200mg 24cps",
+      "nome": "Moment 200mg 24cps molli",
       "ditta": "Angelini",
-      "prezzo": 5.5,
+      "prezzo": 5.42,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Nurofen 200mg 12cpr",
+      "nome": "Nurofen 200mg 12cpr riv",
       "ditta": "RB",
-      "prezzo": 4.8,
+      "prezzo": 4.78,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Ibuprofene EG 400mg",
+      "nome": "Ibuprofene EG 400mg 30cpr",
       "ditta": "EG",
-      "prezzo": 2.9,
+      "prezzo": 2.88,
       "fascia": "C",
       "rimborso": false
     },
     {
-      "nome": "Ibuprofene Teva 400mg",
+      "nome": "Ibuprofene Teva 400mg 30cpr",
       "ditta": "Teva",
-      "prezzo": 2.7,
+      "prezzo": 2.72,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Antalgil 200mg 12cps",
+      "ditta": "Sanofi",
+      "prezzo": 3.85,
       "fascia": "C",
       "rimborso": false
     }

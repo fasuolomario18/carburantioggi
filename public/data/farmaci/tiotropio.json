@@ -1,0 +1,27 @@
+{
+  "slug": "tiotropio",
+  "nome": "Tiotropio",
+  "atc": "R03BB04",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 2,
+  "prezzo_min": 45.82,
+  "prezzo_medio": 49.17,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Spiriva 18mcg 30cps+inalat",
+      "ditta": "Boehringer Ing.",
+      "prezzo": 52.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Spiriva Respimat 2,5mcg 60dosi",
+      "ditta": "Boehringer Ing.",
+      "prezzo": 45.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "ciprofloxacina",
+  "nome": "Ciprofloxacina",
+  "atc": "J01MA02",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 5.22,
+  "prezzo_medio": 7.31,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Ciprofloxacina EG 500mg 14cpr",
+      "ditta": "EG",
+      "prezzo": 5.22,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Ciproxin 500mg 10cpr",
+      "ditta": "Bayer",
+      "prezzo": 8.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Samper 500mg 10cpr",
+      "ditta": "Bayer",
+      "prezzo": 8.18,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

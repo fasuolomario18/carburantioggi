@@ -1,0 +1,22 @@
+{
+  "slug": "cefalu",
+  "nome": "Cefalù",
+  "provincia": "PA",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Lungomare",
+      "res_min": 2000,
+      "res_max": 5000,
+      "loc_min": 62,
+      "loc_max": 150
+    }
+  ],
+  "residenziale_media": 3500,
+  "residenziale_min": 2000,
+  "residenziale_max": 5000,
+  "affitto_media": 106,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

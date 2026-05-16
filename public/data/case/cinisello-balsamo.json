@@ -1,0 +1,22 @@
+{
+  "slug": "cinisello-balsamo",
+  "nome": "Cinisello Balsamo",
+  "provincia": "MI",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Crocetta",
+      "res_min": 2500,
+      "res_max": 4200,
+      "loc_min": 80,
+      "loc_max": 130
+    }
+  ],
+  "residenziale_media": 3350,
+  "residenziale_min": 2500,
+  "residenziale_max": 4200,
+  "affitto_media": 105,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

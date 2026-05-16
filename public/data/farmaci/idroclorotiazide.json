@@ -1,0 +1,27 @@
+{
+  "slug": "idroclorotiazide",
+  "nome": "Idroclorotiazide",
+  "atc": "C03AA03",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 2.18,
+  "prezzo_medio": 2.85,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Esidrex 25mg 30cpr",
+      "ditta": "Novartis",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Idroclorotiazide EG 25mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 2.18,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

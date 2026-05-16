@@ -1,0 +1,34 @@
+{
+  "slug": "fluoxetina",
+  "nome": "Fluoxetina",
+  "atc": "N06AB03",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 9.29,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Fluoxetina EG 20mg 28cps",
+      "ditta": "EG",
+      "prezzo": 4.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Prozac 20mg 28cps",
+      "ditta": "Eli Lilly",
+      "prezzo": 18.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Fluoxetina Teva 20mg 28cps",
+      "ditta": "Teva",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

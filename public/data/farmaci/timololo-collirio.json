@@ -1,0 +1,27 @@
+{
+  "slug": "timololo-collirio",
+  "nome": "Timololo collirio",
+  "atc": "S01ED01",
+  "categoria_atc": "Organi di senso",
+  "n_farmaci": 2,
+  "prezzo_min": 2.82,
+  "prezzo_medio": 3.17,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Timoftol 0,5% collirio 5ml",
+      "ditta": "MSD",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Timololo EG 0,5% collirio 5ml",
+      "ditta": "EG",
+      "prezzo": 2.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

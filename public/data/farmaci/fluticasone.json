@@ -1,0 +1,34 @@
+{
+  "slug": "fluticasone",
+  "nome": "Fluticasone",
+  "atc": "R03BA05",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 10.82,
+  "prezzo_medio": 15.95,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Flixotide 125mcg 60dosi disk",
+      "ditta": "GSK",
+      "prezzo": 22.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Flixonase spray nasale 50mcg",
+      "ditta": "GSK",
+      "prezzo": 10.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Fluticasone EG 125mcg 120dosi",
+      "ditta": "EG",
+      "prezzo": 14.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

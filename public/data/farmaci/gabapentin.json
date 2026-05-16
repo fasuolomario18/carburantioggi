@@ -1,0 +1,34 @@
+{
+  "slug": "gabapentin",
+  "nome": "Gabapentin",
+  "atc": "N03AX12",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 7.82,
+  "prezzo_medio": 12.92,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Gabapentin EG 300mg 90cps",
+      "ditta": "EG",
+      "prezzo": 7.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Neurontin 300mg 100cps",
+      "ditta": "Viatris",
+      "prezzo": 22.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Gabapentin Teva 400mg 90cps",
+      "ditta": "Teva",
+      "prezzo": 8.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

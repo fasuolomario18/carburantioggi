@@ -1,0 +1,34 @@
+{
+  "slug": "pregabalin",
+  "nome": "Pregabalin",
+  "atc": "N03AX16",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 8.82,
+  "prezzo_medio": 28.05,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Pregabalin EG 75mg 56cps",
+      "ditta": "EG",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Lyrica 150mg 56cps",
+      "ditta": "Viatris",
+      "prezzo": 62.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Pregabalin Teva 300mg 56cps",
+      "ditta": "Teva",
+      "prezzo": 12.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

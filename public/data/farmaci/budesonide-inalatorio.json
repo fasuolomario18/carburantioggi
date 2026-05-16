@@ -1,0 +1,34 @@
+{
+  "slug": "budesonide-inalatorio",
+  "nome": "Budesonide Inalatorio",
+  "atc": "R03BA02",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 12.52,
+  "prezzo_medio": 15.62,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Pulmicort 200mcg/dose 200dosi",
+      "ditta": "AstraZeneca",
+      "prezzo": 18.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Aircort 200mcg 100dosi",
+      "ditta": "Chiesi",
+      "prezzo": 15.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Budesonide EG 200mcg 200dosi",
+      "ditta": "EG",
+      "prezzo": 12.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

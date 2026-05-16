@@ -1,0 +1,22 @@
+{
+  "slug": "alghero",
+  "nome": "Alghero",
+  "provincia": "SS",
+  "regione": "Sardegna",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Lungomare",
+      "res_min": 2200,
+      "res_max": 4500,
+      "loc_min": 68,
+      "loc_max": 138
+    }
+  ],
+  "residenziale_media": 3350,
+  "residenziale_min": 2200,
+  "residenziale_max": 4500,
+  "affitto_media": 103,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "colchicina",
+  "nome": "Colchicina",
+  "atc": "M04AC01",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 2,
+  "prezzo_min": 11.82,
+  "prezzo_medio": 12.17,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Colchicina 1mg 20cpr",
+      "ditta": "Recordati",
+      "prezzo": 12.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Colchicine Opocalcium 1mg 20cpr",
+      "ditta": "Sanofi",
+      "prezzo": 11.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

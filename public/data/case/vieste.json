@@ -1,0 +1,22 @@
+{
+  "slug": "vieste",
+  "nome": "Vieste",
+  "provincia": "FG",
+  "regione": "Puglia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Marina Piccola",
+      "res_min": 1800,
+      "res_max": 4500,
+      "loc_min": 58,
+      "loc_max": 138
+    }
+  ],
+  "residenziale_media": 3150,
+  "residenziale_min": 1800,
+  "residenziale_max": 4500,
+  "affitto_media": 98,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "biella",
+  "nome": "Biella",
+  "provincia": "BI",
+  "regione": "Piemonte",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Vandorno",
+      "res_min": 900,
+      "res_max": 2200,
+      "loc_min": 35,
+      "loc_max": 70
+    }
+  ],
+  "residenziale_media": 1550,
+  "residenziale_min": 900,
+  "residenziale_max": 2200,
+  "affitto_media": 53,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

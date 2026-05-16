@@ -1,0 +1,34 @@
+{
+  "slug": "aciclovir",
+  "nome": "Aciclovir",
+  "atc": "J05AB01",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 3,
+  "prezzo_min": 4.22,
+  "prezzo_medio": 6.52,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Aciclovir EG 400mg 25cpr",
+      "ditta": "EG",
+      "prezzo": 6.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Zovirax 200mg 25cpr",
+      "ditta": "GSK",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Aciclovir EG crema 5% 3g",
+      "ditta": "EG",
+      "prezzo": 4.22,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

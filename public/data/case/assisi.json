@@ -1,0 +1,22 @@
+{
+  "slug": "assisi",
+  "nome": "Assisi",
+  "provincia": "PG",
+  "regione": "Umbria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Santa Maria degli Angeli",
+      "res_min": 1800,
+      "res_max": 4000,
+      "loc_min": 58,
+      "loc_max": 120
+    }
+  ],
+  "residenziale_media": 2900,
+  "residenziale_min": 1800,
+  "residenziale_max": 4000,
+  "affitto_media": 89,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

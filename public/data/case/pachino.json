@@ -1,0 +1,22 @@
+{
+  "slug": "pachino",
+  "nome": "Pachino",
+  "provincia": "SR",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Portopalo",
+      "res_min": 800,
+      "res_max": 2000,
+      "loc_min": 30,
+      "loc_max": 62
+    }
+  ],
+  "residenziale_media": 1400,
+  "residenziale_min": 800,
+  "residenziale_max": 2000,
+  "affitto_media": 46,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

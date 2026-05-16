@@ -1,0 +1,22 @@
+{
+  "slug": "montalcino",
+  "nome": "Montalcino",
+  "provincia": "SI",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro Storico/Campagna",
+      "res_min": 2500,
+      "res_max": 6000,
+      "loc_min": 78,
+      "loc_max": 180
+    }
+  ],
+  "residenziale_media": 4250,
+  "residenziale_min": 2500,
+  "residenziale_max": 6000,
+  "affitto_media": 129,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

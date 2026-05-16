@@ -1,0 +1,34 @@
+{
+  "slug": "rosuvastatina",
+  "nome": "Rosuvastatina",
+  "atc": "C10AA07",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 17.49,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Rosuvastatina EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Crestor 20mg 28cpr",
+      "ditta": "AstraZeneca",
+      "prezzo": 28.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Provisacor 5mg 28cpr",
+      "ditta": "AstraZeneca",
+      "prezzo": 18.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

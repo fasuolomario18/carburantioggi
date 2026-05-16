@@ -1,0 +1,27 @@
+{
+  "slug": "nitrofurantoina",
+  "nome": "Nitrofurantoina",
+  "atc": "J01XE01",
+  "categoria_atc": "Antimicrobici per uso sistemico",
+  "n_farmaci": 2,
+  "prezzo_min": 3.52,
+  "prezzo_medio": 4.67,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Furadantin 100mg 30cpr",
+      "ditta": "Almirall",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Nitrofurantoina EG 100mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

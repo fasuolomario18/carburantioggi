@@ -1,0 +1,34 @@
+{
+  "slug": "montelukast",
+  "nome": "Montelukast",
+  "atc": "R03DC03",
+  "categoria_atc": "Sistema respiratorio",
+  "n_farmaci": 3,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 19.05,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Montelukast EG 10mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Singulair 10mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 28.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Montegen 5mg 28cpr mast",
+      "ditta": "MSD",
+      "prezzo": 22.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

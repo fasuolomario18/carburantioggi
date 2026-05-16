@@ -1,0 +1,22 @@
+{
+  "slug": "castiglione-della-pescaia",
+  "nome": "Castiglione della Pescaia",
+  "provincia": "GR",
+  "regione": "Toscana",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Marina",
+      "res_min": 3000,
+      "res_max": 7000,
+      "loc_min": 92,
+      "loc_max": 210
+    }
+  ],
+  "residenziale_media": 5000,
+  "residenziale_min": 3000,
+  "residenziale_max": 7000,
+  "affitto_media": 151,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

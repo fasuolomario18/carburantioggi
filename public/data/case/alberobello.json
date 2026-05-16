@@ -1,0 +1,22 @@
+{
+  "slug": "alberobello",
+  "nome": "Alberobello",
+  "provincia": "BA",
+  "regione": "Puglia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Trulli/Rione Monti",
+      "res_min": 1500,
+      "res_max": 4000,
+      "loc_min": 50,
+      "loc_max": 120
+    }
+  ],
+  "residenziale_media": 2750,
+  "residenziale_min": 1500,
+  "residenziale_max": 4000,
+  "affitto_media": 85,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

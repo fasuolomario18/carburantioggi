@@ -1,0 +1,22 @@
+{
+  "slug": "scilla",
+  "nome": "Scilla",
+  "provincia": "RC",
+  "regione": "Calabria",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Chianalea/Marina",
+      "res_min": 1200,
+      "res_max": 3000,
+      "loc_min": 42,
+      "loc_max": 92
+    }
+  ],
+  "residenziale_media": 2100,
+  "residenziale_min": 1200,
+  "residenziale_max": 3000,
+  "affitto_media": 67,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

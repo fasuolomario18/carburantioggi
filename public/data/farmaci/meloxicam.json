@@ -1,0 +1,34 @@
+{
+  "slug": "meloxicam",
+  "nome": "Meloxicam",
+  "atc": "M01AC06",
+  "categoria_atc": "Sistema muscolo-scheletrico",
+  "n_farmaci": 3,
+  "prezzo_min": 4.52,
+  "prezzo_medio": 7.29,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Meloxicam EG 15mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 4.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Mobic 15mg 20cpr",
+      "ditta": "Boehringer Ing.",
+      "prezzo": 9.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Recoxa 7,5mg 20cpr",
+      "ditta": "Recordati",
+      "prezzo": 7.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

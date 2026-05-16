@@ -1,0 +1,22 @@
+{
+  "slug": "jesolo",
+  "nome": "Jesolo",
+  "provincia": "VE",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Lido di Jesolo",
+      "res_min": 2500,
+      "res_max": 5500,
+      "loc_min": 78,
+      "loc_max": 165
+    }
+  ],
+  "residenziale_media": 4000,
+  "residenziale_min": 2500,
+  "residenziale_max": 5500,
+  "affitto_media": 122,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

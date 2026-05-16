@@ -1,0 +1,34 @@
+{
+  "slug": "fenofibrato",
+  "nome": "Fenofibrato",
+  "atc": "C10AB05",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 3,
+  "prezzo_min": 7.82,
+  "prezzo_medio": 11.52,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Lipsin 145mg 30cpr",
+      "ditta": "Fournier",
+      "prezzo": 12.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Fenofibrato EG 145mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 7.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Tricor 145mg 30cpr",
+      "ditta": "AbbVie",
+      "prezzo": 14.22,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

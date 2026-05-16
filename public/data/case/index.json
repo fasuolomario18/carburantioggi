@@ -983,6 +983,1050 @@
       "n_zone": 1
     },
     {
+      "slug": "biella",
+      "nome": "Biella",
+      "provincia": "BI",
+      "regione": "Piemonte",
+      "residenziale_media": 1550,
+      "affitto_media": 53,
+      "n_zone": 1
+    },
+    {
+      "slug": "caltanissetta",
+      "nome": "Caltanissetta",
+      "provincia": "CL",
+      "regione": "Sicilia",
+      "residenziale_media": 1050,
+      "affitto_media": 38,
+      "n_zone": 1
+    },
+    {
+      "slug": "enna",
+      "nome": "Enna",
+      "provincia": "EN",
+      "regione": "Sicilia",
+      "residenziale_media": 1000,
+      "affitto_media": 35,
+      "n_zone": 1
+    },
+    {
+      "slug": "fermo",
+      "nome": "Fermo",
+      "provincia": "FM",
+      "regione": "Marche",
+      "residenziale_media": 2100,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "gorizia",
+      "nome": "Gorizia",
+      "provincia": "GO",
+      "regione": "Friuli-Venezia Giulia",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "isernia",
+      "nome": "Isernia",
+      "provincia": "IS",
+      "regione": "Molise",
+      "residenziale_media": 1150,
+      "affitto_media": 40,
+      "n_zone": 1
+    },
+    {
+      "slug": "lodi",
+      "nome": "Lodi",
+      "provincia": "LO",
+      "regione": "Lombardia",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "rieti",
+      "nome": "Rieti",
+      "provincia": "RI",
+      "regione": "Lazio",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "sesto-san-giovanni",
+      "nome": "Sesto San Giovanni",
+      "provincia": "MI",
+      "regione": "Lombardia",
+      "residenziale_media": 3800,
+      "affitto_media": 118,
+      "n_zone": 1
+    },
+    {
+      "slug": "cinisello-balsamo",
+      "nome": "Cinisello Balsamo",
+      "provincia": "MI",
+      "regione": "Lombardia",
+      "residenziale_media": 3350,
+      "affitto_media": 105,
+      "n_zone": 1
+    },
+    {
+      "slug": "busto-arsizio",
+      "nome": "Busto Arsizio",
+      "provincia": "VA",
+      "regione": "Lombardia",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "gallarate",
+      "nome": "Gallarate",
+      "provincia": "VA",
+      "regione": "Lombardia",
+      "residenziale_media": 2350,
+      "affitto_media": 74,
+      "n_zone": 1
+    },
+    {
+      "slug": "rho",
+      "nome": "Rho",
+      "provincia": "MI",
+      "regione": "Lombardia",
+      "residenziale_media": 3000,
+      "affitto_media": 94,
+      "n_zone": 1
+    },
+    {
+      "slug": "cernusco-sul-naviglio",
+      "nome": "Cernusco sul Naviglio",
+      "provincia": "MI",
+      "regione": "Lombardia",
+      "residenziale_media": 3350,
+      "affitto_media": 104,
+      "n_zone": 1
+    },
+    {
+      "slug": "settimo-torinese",
+      "nome": "Settimo Torinese",
+      "provincia": "TO",
+      "regione": "Piemonte",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "collegno",
+      "nome": "Collegno",
+      "provincia": "TO",
+      "regione": "Piemonte",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "moncalieri",
+      "nome": "Moncalieri",
+      "provincia": "TO",
+      "regione": "Piemonte",
+      "residenziale_media": 2200,
+      "affitto_media": 70,
+      "n_zone": 1
+    },
+    {
+      "slug": "imola",
+      "nome": "Imola",
+      "provincia": "BO",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "faenza",
+      "nome": "Faenza",
+      "provincia": "RA",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2300,
+      "affitto_media": 72,
+      "n_zone": 1
+    },
+    {
+      "slug": "carpi",
+      "nome": "Carpi",
+      "provincia": "MO",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2350,
+      "affitto_media": 74,
+      "n_zone": 1
+    },
+    {
+      "slug": "sassuolo",
+      "nome": "Sassuolo",
+      "provincia": "MO",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 2150,
+      "affitto_media": 68,
+      "n_zone": 1
+    },
+    {
+      "slug": "reggio-nellemilia",
+      "nome": "Reggio nell'Emilia",
+      "provincia": "RE",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 3000,
+      "affitto_media": 92,
+      "n_zone": 1
+    },
+    {
+      "slug": "guidonia-montecelio",
+      "nome": "Guidonia Montecelio",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 2500,
+      "affitto_media": 78,
+      "n_zone": 1
+    },
+    {
+      "slug": "civitavecchia",
+      "nome": "Civitavecchia",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "velletri",
+      "nome": "Velletri",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "tivoli",
+      "nome": "Tivoli",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "pozzuoli",
+      "nome": "Pozzuoli",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "torre-annunziata",
+      "nome": "Torre Annunziata",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "ercolano",
+      "nome": "Ercolano",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "castellammare-di-stabia",
+      "nome": "Castellammare di Stabia",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "trani",
+      "nome": "Trani",
+      "provincia": "BT",
+      "regione": "Puglia",
+      "residenziale_media": 2000,
+      "affitto_media": 65,
+      "n_zone": 1
+    },
+    {
+      "slug": "cerignola",
+      "nome": "Cerignola",
+      "provincia": "FG",
+      "regione": "Puglia",
+      "residenziale_media": 1150,
+      "affitto_media": 40,
+      "n_zone": 1
+    },
+    {
+      "slug": "altamura",
+      "nome": "Altamura",
+      "provincia": "BA",
+      "regione": "Puglia",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "molfetta",
+      "nome": "Molfetta",
+      "provincia": "BA",
+      "regione": "Puglia",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "vittoria",
+      "nome": "Vittoria",
+      "provincia": "RG",
+      "regione": "Sicilia",
+      "residenziale_media": 1150,
+      "affitto_media": 40,
+      "n_zone": 1
+    },
+    {
+      "slug": "bagheria",
+      "nome": "Bagheria",
+      "provincia": "PA",
+      "regione": "Sicilia",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "acireale",
+      "nome": "Acireale",
+      "provincia": "CT",
+      "regione": "Sicilia",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "marsala",
+      "nome": "Marsala",
+      "provincia": "TP",
+      "regione": "Sicilia",
+      "residenziale_media": 1300,
+      "affitto_media": 44,
+      "n_zone": 1
+    },
+    {
+      "slug": "gela",
+      "nome": "Gela",
+      "provincia": "CL",
+      "regione": "Sicilia",
+      "residenziale_media": 1000,
+      "affitto_media": 37,
+      "n_zone": 1
+    },
+    {
+      "slug": "mazara-del-vallo",
+      "nome": "Mazara del Vallo",
+      "provincia": "TP",
+      "regione": "Sicilia",
+      "residenziale_media": 1300,
+      "affitto_media": 44,
+      "n_zone": 1
+    },
+    {
+      "slug": "modica",
+      "nome": "Modica",
+      "provincia": "RG",
+      "regione": "Sicilia",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "noto",
+      "nome": "Noto",
+      "provincia": "SR",
+      "regione": "Sicilia",
+      "residenziale_media": 2000,
+      "affitto_media": 65,
+      "n_zone": 1
+    },
+    {
+      "slug": "olbia",
+      "nome": "Olbia",
+      "provincia": "SS",
+      "regione": "Sardegna",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "alghero",
+      "nome": "Alghero",
+      "provincia": "SS",
+      "regione": "Sardegna",
+      "residenziale_media": 3350,
+      "affitto_media": 103,
+      "n_zone": 1
+    },
+    {
+      "slug": "quartu-santelena",
+      "nome": "Quartu Sant'Elena",
+      "provincia": "CA",
+      "regione": "Sardegna",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "nuoro",
+      "nome": "Nuoro",
+      "provincia": "NU",
+      "regione": "Sardegna",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "oristano",
+      "nome": "Oristano",
+      "provincia": "OR",
+      "regione": "Sardegna",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "sorrento",
+      "nome": "Sorrento",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 6750,
+      "affitto_media": 200,
+      "n_zone": 1
+    },
+    {
+      "slug": "ravello",
+      "nome": "Ravello",
+      "provincia": "SA",
+      "regione": "Campania",
+      "residenziale_media": 5500,
+      "affitto_media": 160,
+      "n_zone": 1
+    },
+    {
+      "slug": "ischia",
+      "nome": "Ischia",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 5250,
+      "affitto_media": 155,
+      "n_zone": 1
+    },
+    {
+      "slug": "procida",
+      "nome": "Procida",
+      "provincia": "NA",
+      "regione": "Campania",
+      "residenziale_media": 4400,
+      "affitto_media": 134,
+      "n_zone": 1
+    },
+    {
+      "slug": "riccione",
+      "nome": "Riccione",
+      "provincia": "RN",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 4400,
+      "affitto_media": 134,
+      "n_zone": 1
+    },
+    {
+      "slug": "cattolica",
+      "nome": "Cattolica",
+      "provincia": "RN",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 3750,
+      "affitto_media": 115,
+      "n_zone": 1
+    },
+    {
+      "slug": "cesenatico",
+      "nome": "Cesenatico",
+      "provincia": "FC",
+      "regione": "Emilia-Romagna",
+      "residenziale_media": 4150,
+      "affitto_media": 127,
+      "n_zone": 1
+    },
+    {
+      "slug": "viareggio",
+      "nome": "Viareggio",
+      "provincia": "LU",
+      "regione": "Toscana",
+      "residenziale_media": 4500,
+      "affitto_media": 136,
+      "n_zone": 1
+    },
+    {
+      "slug": "montecatini-terme",
+      "nome": "Montecatini Terme",
+      "provincia": "PT",
+      "regione": "Toscana",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "scandicci",
+      "nome": "Scandicci",
+      "provincia": "FI",
+      "regione": "Toscana",
+      "residenziale_media": 3800,
+      "affitto_media": 118,
+      "n_zone": 1
+    },
+    {
+      "slug": "empoli",
+      "nome": "Empoli",
+      "provincia": "FI",
+      "regione": "Toscana",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "foligno",
+      "nome": "Foligno",
+      "provincia": "PG",
+      "regione": "Umbria",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "spoleto",
+      "nome": "Spoleto",
+      "provincia": "PG",
+      "regione": "Umbria",
+      "residenziale_media": 2250,
+      "affitto_media": 71,
+      "n_zone": 1
+    },
+    {
+      "slug": "assisi",
+      "nome": "Assisi",
+      "provincia": "PG",
+      "regione": "Umbria",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "jesi",
+      "nome": "Jesi",
+      "provincia": "AN",
+      "regione": "Marche",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "senigallia",
+      "nome": "Senigallia",
+      "provincia": "AN",
+      "regione": "Marche",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "civitanova-marche",
+      "nome": "Civitanova Marche",
+      "provincia": "MC",
+      "regione": "Marche",
+      "residenziale_media": 2800,
+      "affitto_media": 87,
+      "n_zone": 1
+    },
+    {
+      "slug": "san-benedetto-del-tronto",
+      "nome": "San Benedetto del Tronto",
+      "provincia": "AP",
+      "regione": "Marche",
+      "residenziale_media": 3350,
+      "affitto_media": 103,
+      "n_zone": 1
+    },
+    {
+      "slug": "terracina",
+      "nome": "Terracina",
+      "provincia": "LT",
+      "regione": "Lazio",
+      "residenziale_media": 2800,
+      "affitto_media": 87,
+      "n_zone": 1
+    },
+    {
+      "slug": "formia",
+      "nome": "Formia",
+      "provincia": "LT",
+      "regione": "Lazio",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "sabaudia",
+      "nome": "Sabaudia",
+      "provincia": "LT",
+      "regione": "Lazio",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "cassino",
+      "nome": "Cassino",
+      "provincia": "FR",
+      "regione": "Lazio",
+      "residenziale_media": 1450,
+      "affitto_media": 47,
+      "n_zone": 1
+    },
+    {
+      "slug": "anzio",
+      "nome": "Anzio",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "ostia",
+      "nome": "Ostia",
+      "provincia": "RM",
+      "regione": "Lazio",
+      "residenziale_media": 3900,
+      "affitto_media": 118,
+      "n_zone": 1
+    },
+    {
+      "slug": "monfalcone",
+      "nome": "Monfalcone",
+      "provincia": "GO",
+      "regione": "Friuli-Venezia Giulia",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "portogruaro",
+      "nome": "Portogruaro",
+      "provincia": "VE",
+      "regione": "Veneto",
+      "residenziale_media": 1850,
+      "affitto_media": 60,
+      "n_zone": 1
+    },
+    {
+      "slug": "chioggia",
+      "nome": "Chioggia",
+      "provincia": "VE",
+      "regione": "Veneto",
+      "residenziale_media": 2800,
+      "affitto_media": 87,
+      "n_zone": 1
+    },
+    {
+      "slug": "jesolo",
+      "nome": "Jesolo",
+      "provincia": "VE",
+      "regione": "Veneto",
+      "residenziale_media": 4000,
+      "affitto_media": 122,
+      "n_zone": 1
+    },
+    {
+      "slug": "caorle",
+      "nome": "Caorle",
+      "provincia": "VE",
+      "regione": "Veneto",
+      "residenziale_media": 3600,
+      "affitto_media": 109,
+      "n_zone": 1
+    },
+    {
+      "slug": "thiene",
+      "nome": "Thiene",
+      "provincia": "VI",
+      "regione": "Veneto",
+      "residenziale_media": 2150,
+      "affitto_media": 69,
+      "n_zone": 1
+    },
+    {
+      "slug": "bassano-del-grappa",
+      "nome": "Bassano del Grappa",
+      "provincia": "VI",
+      "regione": "Veneto",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "castelfranco-veneto",
+      "nome": "Castelfranco Veneto",
+      "provincia": "TV",
+      "regione": "Veneto",
+      "residenziale_media": 2300,
+      "affitto_media": 72,
+      "n_zone": 1
+    },
+    {
+      "slug": "conegliano",
+      "nome": "Conegliano",
+      "provincia": "TV",
+      "regione": "Veneto",
+      "residenziale_media": 2650,
+      "affitto_media": 83,
+      "n_zone": 1
+    },
+    {
+      "slug": "valdagno",
+      "nome": "Valdagno",
+      "provincia": "VI",
+      "regione": "Veneto",
+      "residenziale_media": 1600,
+      "affitto_media": 54,
+      "n_zone": 1
+    },
+    {
+      "slug": "merano",
+      "nome": "Merano",
+      "provincia": "BZ",
+      "regione": "Trentino-Alto Adige",
+      "residenziale_media": 5000,
+      "affitto_media": 148,
+      "n_zone": 1
+    },
+    {
+      "slug": "bressanone",
+      "nome": "Bressanone",
+      "provincia": "BZ",
+      "regione": "Trentino-Alto Adige",
+      "residenziale_media": 4250,
+      "affitto_media": 129,
+      "n_zone": 1
+    },
+    {
+      "slug": "rovereto",
+      "nome": "Rovereto",
+      "provincia": "TN",
+      "regione": "Trentino-Alto Adige",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "riva-del-garda",
+      "nome": "Riva del Garda",
+      "provincia": "TN",
+      "regione": "Trentino-Alto Adige",
+      "residenziale_media": 4150,
+      "affitto_media": 127,
+      "n_zone": 1
+    },
+    {
+      "slug": "madonna-di-campiglio",
+      "nome": "Madonna di Campiglio",
+      "provincia": "TN",
+      "regione": "Trentino-Alto Adige",
+      "residenziale_media": 8500,
+      "affitto_media": 248,
+      "n_zone": 1
+    },
+    {
+      "slug": "verbania",
+      "nome": "Verbania",
+      "provincia": "VB",
+      "regione": "Piemonte",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "stresa",
+      "nome": "Stresa",
+      "provincia": "VB",
+      "regione": "Piemonte",
+      "residenziale_media": 4750,
+      "affitto_media": 144,
+      "n_zone": 1
+    },
+    {
+      "slug": "bellagio",
+      "nome": "Bellagio",
+      "provincia": "CO",
+      "regione": "Lombardia",
+      "residenziale_media": 6500,
+      "affitto_media": 194,
+      "n_zone": 1
+    },
+    {
+      "slug": "varenna",
+      "nome": "Varenna",
+      "provincia": "LC",
+      "regione": "Lombardia",
+      "residenziale_media": 5750,
+      "affitto_media": 173,
+      "n_zone": 1
+    },
+    {
+      "slug": "desenzano-del-garda",
+      "nome": "Desenzano del Garda",
+      "provincia": "BS",
+      "regione": "Lombardia",
+      "residenziale_media": 4150,
+      "affitto_media": 127,
+      "n_zone": 1
+    },
+    {
+      "slug": "sirmione",
+      "nome": "Sirmione",
+      "provincia": "BS",
+      "regione": "Lombardia",
+      "residenziale_media": 5500,
+      "affitto_media": 165,
+      "n_zone": 1
+    },
+    {
+      "slug": "bardolino",
+      "nome": "Bardolino",
+      "provincia": "VR",
+      "regione": "Veneto",
+      "residenziale_media": 4000,
+      "affitto_media": 122,
+      "n_zone": 1
+    },
+    {
+      "slug": "peschiera-del-garda",
+      "nome": "Peschiera del Garda",
+      "provincia": "VR",
+      "regione": "Veneto",
+      "residenziale_media": 4150,
+      "affitto_media": 127,
+      "n_zone": 1
+    },
+    {
+      "slug": "montecarlo",
+      "nome": "Montecarlo",
+      "provincia": "LU",
+      "regione": "Toscana",
+      "residenziale_media": 3000,
+      "affitto_media": 91,
+      "n_zone": 1
+    },
+    {
+      "slug": "san-gimignano",
+      "nome": "San Gimignano",
+      "provincia": "SI",
+      "regione": "Toscana",
+      "residenziale_media": 3750,
+      "affitto_media": 114,
+      "n_zone": 1
+    },
+    {
+      "slug": "montalcino",
+      "nome": "Montalcino",
+      "provincia": "SI",
+      "regione": "Toscana",
+      "residenziale_media": 4250,
+      "affitto_media": 129,
+      "n_zone": 1
+    },
+    {
+      "slug": "volterra",
+      "nome": "Volterra",
+      "provincia": "PI",
+      "regione": "Toscana",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "castiglione-della-pescaia",
+      "nome": "Castiglione della Pescaia",
+      "provincia": "GR",
+      "regione": "Toscana",
+      "residenziale_media": 5000,
+      "affitto_media": 151,
+      "n_zone": 1
+    },
+    {
+      "slug": "orbetello",
+      "nome": "Orbetello",
+      "provincia": "GR",
+      "regione": "Toscana",
+      "residenziale_media": 3250,
+      "affitto_media": 100,
+      "n_zone": 1
+    },
+    {
+      "slug": "agropoli",
+      "nome": "Agropoli",
+      "provincia": "SA",
+      "regione": "Campania",
+      "residenziale_media": 2800,
+      "affitto_media": 87,
+      "n_zone": 1
+    },
+    {
+      "slug": "paestum",
+      "nome": "Paestum",
+      "provincia": "SA",
+      "regione": "Campania",
+      "residenziale_media": 3250,
+      "affitto_media": 100,
+      "n_zone": 1
+    },
+    {
+      "slug": "tropea",
+      "nome": "Tropea",
+      "provincia": "VV",
+      "regione": "Calabria",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "scilla",
+      "nome": "Scilla",
+      "provincia": "RC",
+      "regione": "Calabria",
+      "residenziale_media": 2100,
+      "affitto_media": 67,
+      "n_zone": 1
+    },
+    {
+      "slug": "cefalu",
+      "nome": "Cefalù",
+      "provincia": "PA",
+      "regione": "Sicilia",
+      "residenziale_media": 3500,
+      "affitto_media": 106,
+      "n_zone": 1
+    },
+    {
+      "slug": "castellammare-del-golfo",
+      "nome": "Castellammare del Golfo",
+      "provincia": "TP",
+      "regione": "Sicilia",
+      "residenziale_media": 2100,
+      "affitto_media": 67,
+      "n_zone": 1
+    },
+    {
+      "slug": "ragusa-ibla",
+      "nome": "Ragusa Ibla",
+      "provincia": "RG",
+      "regione": "Sicilia",
+      "residenziale_media": 1750,
+      "affitto_media": 58,
+      "n_zone": 1
+    },
+    {
+      "slug": "pachino",
+      "nome": "Pachino",
+      "provincia": "SR",
+      "regione": "Sicilia",
+      "residenziale_media": 1400,
+      "affitto_media": 46,
+      "n_zone": 1
+    },
+    {
+      "slug": "caltagirone",
+      "nome": "Caltagirone",
+      "provincia": "CT",
+      "regione": "Sicilia",
+      "residenziale_media": 1300,
+      "affitto_media": 44,
+      "n_zone": 1
+    },
+    {
+      "slug": "gallipoli",
+      "nome": "Gallipoli",
+      "provincia": "LE",
+      "regione": "Puglia",
+      "residenziale_media": 3150,
+      "affitto_media": 98,
+      "n_zone": 1
+    },
+    {
+      "slug": "otranto",
+      "nome": "Otranto",
+      "provincia": "LE",
+      "regione": "Puglia",
+      "residenziale_media": 3500,
+      "affitto_media": 106,
+      "n_zone": 1
+    },
+    {
+      "slug": "martina-franca",
+      "nome": "Martina Franca",
+      "provincia": "TA",
+      "regione": "Puglia",
+      "residenziale_media": 2000,
+      "affitto_media": 65,
+      "n_zone": 1
+    },
+    {
+      "slug": "alberobello",
+      "nome": "Alberobello",
+      "provincia": "BA",
+      "regione": "Puglia",
+      "residenziale_media": 2750,
+      "affitto_media": 85,
+      "n_zone": 1
+    },
+    {
+      "slug": "monopoli",
+      "nome": "Monopoli",
+      "provincia": "BA",
+      "regione": "Puglia",
+      "residenziale_media": 2900,
+      "affitto_media": 89,
+      "n_zone": 1
+    },
+    {
+      "slug": "polignano-a-mare",
+      "nome": "Polignano a Mare",
+      "provincia": "BA",
+      "regione": "Puglia",
+      "residenziale_media": 4250,
+      "affitto_media": 129,
+      "n_zone": 1
+    },
+    {
+      "slug": "vieste",
+      "nome": "Vieste",
+      "provincia": "FG",
+      "regione": "Puglia",
+      "residenziale_media": 3150,
+      "affitto_media": 98,
+      "n_zone": 1
+    },
+    {
       "slug": "amalfi",
       "nome": "Amalfi",
       "provincia": "SA",

@@ -1,0 +1,22 @@
+{
+  "slug": "enna",
+  "nome": "Enna",
+  "provincia": "EN",
+  "regione": "Sicilia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Pergusa",
+      "res_min": 600,
+      "res_max": 1400,
+      "loc_min": 22,
+      "loc_max": 48
+    }
+  ],
+  "residenziale_media": 1000,
+  "residenziale_min": 600,
+  "residenziale_max": 1400,
+  "affitto_media": 35,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

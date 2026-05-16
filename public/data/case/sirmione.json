@@ -1,0 +1,22 @@
+{
+  "slug": "sirmione",
+  "nome": "Sirmione",
+  "provincia": "BS",
+  "regione": "Lombardia",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Terme",
+      "res_min": 3500,
+      "res_max": 7500,
+      "loc_min": 105,
+      "loc_max": 225
+    }
+  ],
+  "residenziale_media": 5500,
+  "residenziale_min": 3500,
+  "residenziale_max": 7500,
+  "affitto_media": 165,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

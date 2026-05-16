@@ -1,0 +1,34 @@
+{
+  "slug": "sitagliptin",
+  "nome": "Sitagliptin",
+  "atc": "A10BH01",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 28.42,
+  "prezzo_medio": 41.19,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Januvia 100mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 47.58,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Tesavel 100mg 28cpr",
+      "ditta": "MSD",
+      "prezzo": 47.58,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Sitagliptin EG 100mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 28.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

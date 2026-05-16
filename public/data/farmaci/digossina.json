@@ -1,0 +1,27 @@
+{
+  "slug": "digossina",
+  "nome": "Digossina",
+  "atc": "C01AA05",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 2.42,
+  "prezzo_medio": 2.97,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Lanoxin 0,25mg 30cpr",
+      "ditta": "GSK",
+      "prezzo": 3.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Digossina EG 0,25mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 2.42,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

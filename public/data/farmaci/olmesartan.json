@@ -1,0 +1,27 @@
+{
+  "slug": "olmesartan",
+  "nome": "Olmesartan",
+  "atc": "C09CA08",
+  "categoria_atc": "Sistema cardiovascolare",
+  "n_farmaci": 2,
+  "prezzo_min": 5.82,
+  "prezzo_medio": 14.17,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Olmesartan EG 20mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 5.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Olmetec 40mg 28cpr",
+      "ditta": "Menarini/Daiichi",
+      "prezzo": 22.52,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

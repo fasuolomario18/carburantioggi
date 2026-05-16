@@ -1,0 +1,22 @@
+{
+  "slug": "chioggia",
+  "nome": "Chioggia",
+  "provincia": "VE",
+  "regione": "Veneto",
+  "aggiornato": "II/2025",
+  "zone": [
+    {
+      "nome": "Centro/Sottomarina",
+      "res_min": 1800,
+      "res_max": 3800,
+      "loc_min": 58,
+      "loc_max": 115
+    }
+  ],
+  "residenziale_media": 2800,
+  "residenziale_min": 1800,
+  "residenziale_max": 3800,
+  "affitto_media": 87,
+  "n_zone": 1,
+  "fonte": "OMI — Agenzia delle Entrate"
+}

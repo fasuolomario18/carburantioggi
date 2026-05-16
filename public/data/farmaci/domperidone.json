@@ -1,0 +1,34 @@
+{
+  "slug": "domperidone",
+  "nome": "Domperidone",
+  "atc": "A03FA03",
+  "categoria_atc": "Apparato gastrointestinale e metabolismo",
+  "n_farmaci": 3,
+  "prezzo_min": 3.48,
+  "prezzo_medio": 5.24,
+  "ha_rimborsato": false,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Motilium 10mg 30cpr",
+      "ditta": "Janssen",
+      "prezzo": 6.82,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Peridon 10mg 30cpr",
+      "ditta": "Giuliani",
+      "prezzo": 5.42,
+      "fascia": "C",
+      "rimborso": false
+    },
+    {
+      "nome": "Domperidone EG 10mg 30cpr",
+      "ditta": "EG",
+      "prezzo": 3.48,
+      "fascia": "C",
+      "rimborso": false
+    }
+  ]
+}

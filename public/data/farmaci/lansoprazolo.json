@@ -3,23 +3,30 @@
   "nome": "Lansoprazolo",
   "atc": "A02BC03",
   "categoria_atc": "Apparato gastrointestinale e metabolismo",
-  "n_farmaci": 2,
-  "prezzo_min": 2.8,
-  "prezzo_medio": 4.65,
+  "n_farmaci": 3,
+  "prezzo_min": 2.78,
+  "prezzo_medio": 5.17,
   "ha_rimborsato": true,
-  "aggiornato": "2026-05-15",
+  "aggiornato": "2026-05-16",
   "farmaci": [
     {
       "nome": "Lansoprazolo EG 15mg 14cps",
       "ditta": "EG",
-      "prezzo": 2.8,
+      "prezzo": 2.78,
       "fascia": "A",
       "rimborso": true
     },
     {
       "nome": "Lansox 30mg 14cps",
       "ditta": "AstraZeneca",
-      "prezzo": 6.5,
+      "prezzo": 6.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Limpidex 30mg 14cps",
+      "ditta": "Wyeth",
+      "prezzo": 6.22,
       "fascia": "A",
       "rimborso": true
     }

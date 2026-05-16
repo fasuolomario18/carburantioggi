@@ -1,0 +1,27 @@
+{
+  "slug": "rivaroxaban",
+  "nome": "Rivaroxaban",
+  "atc": "B01AF01",
+  "categoria_atc": "Sangue e organi emopoietici",
+  "n_farmaci": 2,
+  "prezzo_min": 38.82,
+  "prezzo_medio": 53.62,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Xarelto 20mg 28cpr",
+      "ditta": "Bayer",
+      "prezzo": 68.42,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Rivaroxaban EG 20mg 28cpr",
+      "ditta": "EG",
+      "prezzo": 38.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}

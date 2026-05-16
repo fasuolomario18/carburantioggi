@@ -1,0 +1,34 @@
+{
+  "slug": "sumatriptan",
+  "nome": "Sumatriptan",
+  "atc": "N02CC01",
+  "categoria_atc": "Sistema nervoso",
+  "n_farmaci": 3,
+  "prezzo_min": 8.82,
+  "prezzo_medio": 16.72,
+  "ha_rimborsato": true,
+  "aggiornato": "2026-05-16",
+  "farmaci": [
+    {
+      "nome": "Sumatriptan EG 100mg 6cpr",
+      "ditta": "EG",
+      "prezzo": 8.82,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Imigran 100mg 6cpr",
+      "ditta": "GSK",
+      "prezzo": 22.52,
+      "fascia": "A",
+      "rimborso": true
+    },
+    {
+      "nome": "Naramig 2,5mg 6cpr",
+      "ditta": "GSK",
+      "prezzo": 18.82,
+      "fascia": "A",
+      "rimborso": true
+    }
+  ]
+}
