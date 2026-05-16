@@ -65,6 +65,7 @@ export default async function ComuneCasePage({ params }: { params: Promise<{ slu
     "description": `Prezzi immobili residenziali per zona a ${c.nome} (${c.provincia}), ${c.regione}. Dati OMI Agenzia delle Entrate, semestre ${c.aggiornato}.`,
     "url": `https://www.prezzioggi.com/case/${c.slug}`,
     "creator": { "@type": "Organization", "name": "OMI — Agenzia delle Entrate", "url": "https://www.agenziaentrate.gov.it" },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "temporalCoverage": c.aggiornato,
     "spatialCoverage": { "@type": "Place", "name": `${c.nome}, ${c.regione}, Italia` },
     "variableMeasured": "Prezzi immobili residenziali €/m²",

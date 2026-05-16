@@ -134,6 +134,7 @@ export default async function QualitaAriaSlugPage({ params }: { params: Promise<
       "name": "Copernicus Atmosphere Monitoring Service (CAMS)",
       "url": "https://atmosphere.copernicus.eu",
     },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "dateModified": c.aggiornato,
     "spatialCoverage": { "@type": "Place", "name": `${c.nome}, ${c.regione}, Italia` },
     "variableMeasured": "Indice Europeo Qualità dell'Aria (EAQI)",

@@ -85,6 +85,7 @@ export default async function ProvinciaPage({ params }: { params: Promise<{ slug
     "description": `Prezzi benzina e gasolio a ${p.nome}, ${p.regione}. ${benzSelf ? `Benzina self: €${benzSelf.toFixed(3)}/L.` : ""} ${gasSelf ? `Gasolio self: €${gasSelf.toFixed(3)}/L.` : ""} Dati MIMIT ufficiali.`,
     "url": `https://www.prezzioggi.com/province/${p.slug}`,
     "creator": { "@type": "Organization", "name": "MIMIT — Ministero delle Imprese", "url": "https://www.mimit.gov.it" },
+    "license": "https://creativecommons.org/licenses/by/4.0/",
     "dateModified": p.aggiornato,
     "spatialCoverage": { "@type": "Place", "name": `${p.nome}, ${p.regione}, Italia` },
   };
