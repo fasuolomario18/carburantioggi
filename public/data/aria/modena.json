@@ -1,0 +1,38 @@
+{
+  "slug": "modena",
+  "nome": "Modena",
+  "sigla": "MO",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "2026-05-16T00:09:11.693Z",
+  "aqi": 20,
+  "aqi_categoria": "Buono",
+  "aqi_colore": "green",
+  "aqi_idx": 0,
+  "pollutanti": {
+    "pm25": {
+      "valore": 6.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 7.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 9.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 50,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 146,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

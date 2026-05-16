@@ -1,0 +1,38 @@
+{
+  "slug": "pescara",
+  "nome": "Pescara",
+  "sigla": "PE",
+  "regione": "Abruzzo",
+  "aggiornato": "2026-05-16T00:09:13.570Z",
+  "aqi": 26,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 3.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 6.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 4.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 66,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 109,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

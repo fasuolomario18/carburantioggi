@@ -1,0 +1,38 @@
+{
+  "slug": "lecce",
+  "nome": "Lecce",
+  "sigla": "LE",
+  "regione": "Puglia",
+  "aggiornato": "2026-05-16T00:09:09.966Z",
+  "aqi": 32,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 7.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 17.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 1.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 79,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 108,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

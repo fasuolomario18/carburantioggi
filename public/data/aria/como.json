@@ -1,0 +1,38 @@
+{
+  "slug": "como",
+  "nome": "Como",
+  "sigla": "CO",
+  "regione": "Lombardia",
+  "aggiornato": "2026-05-16T00:09:06.882Z",
+  "aqi": 24,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 7.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 8.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 9.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 61,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 166,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "oristano",
+  "nome": "Oristano",
+  "sigla": "OR",
+  "regione": "Sardegna",
+  "aggiornato": "2026-05-16T00:09:12.471Z",
+  "aqi": 34,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 1.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 6.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 0.4,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 85,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 121,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

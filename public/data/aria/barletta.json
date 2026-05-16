@@ -1,0 +1,38 @@
+{
+  "slug": "barletta",
+  "nome": "Barletta",
+  "sigla": "BT",
+  "regione": "Puglia",
+  "aggiornato": "2026-05-16T00:09:04.288Z",
+  "aqi": 28,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 5.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 13.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 2.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 69,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 112,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

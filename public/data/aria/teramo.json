@@ -1,0 +1,38 @@
+{
+  "slug": "teramo",
+  "nome": "Teramo",
+  "sigla": "TE",
+  "regione": "Abruzzo",
+  "aggiornato": "2026-05-16T00:09:17.163Z",
+  "aqi": 22,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 4.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 5.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 54,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 125,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

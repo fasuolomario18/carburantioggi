@@ -1,0 +1,38 @@
+{
+  "slug": "brescia",
+  "nome": "Brescia",
+  "sigla": "BS",
+  "regione": "Lombardia",
+  "aggiornato": "2026-05-16T00:09:05.475Z",
+  "aqi": 20,
+  "aqi_categoria": "Buono",
+  "aqi_colore": "green",
+  "aqi_idx": 0,
+  "pollutanti": {
+    "pm25": {
+      "valore": 6.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 7.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 13.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 50,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 209,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

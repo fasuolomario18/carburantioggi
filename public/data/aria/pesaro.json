@@ -1,0 +1,38 @@
+{
+  "slug": "pesaro",
+  "nome": "Pesaro",
+  "sigla": "PU",
+  "regione": "Marche",
+  "aggiornato": "2026-05-16T00:09:13.417Z",
+  "aqi": 28,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 1.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 2.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 2.4,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 70,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 125,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

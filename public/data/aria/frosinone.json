@@ -1,0 +1,38 @@
+{
+  "slug": "frosinone",
+  "nome": "Frosinone",
+  "sigla": "FR",
+  "regione": "Lazio",
+  "aggiornato": "2026-05-16T00:09:08.604Z",
+  "aqi": 28,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 2.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 3.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 3.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 69,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 116,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

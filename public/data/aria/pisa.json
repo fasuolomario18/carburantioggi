@@ -1,0 +1,38 @@
+{
+  "slug": "pisa",
+  "nome": "Pisa",
+  "sigla": "PI",
+  "regione": "Toscana",
+  "aggiornato": "2026-05-16T00:09:13.890Z",
+  "aqi": 25,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 2.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 6.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 3.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 62,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 126,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

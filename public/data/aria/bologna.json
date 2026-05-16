@@ -1,0 +1,38 @@
+{
+  "slug": "bologna",
+  "nome": "Bologna",
+  "sigla": "BO",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "2026-05-16T00:09:05.159Z",
+  "aqi": 18,
+  "aqi_categoria": "Buono",
+  "aqi_colore": "green",
+  "aqi_idx": 0,
+  "pollutanti": {
+    "pm25": {
+      "valore": 4.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 6.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 10.2,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 44,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 139,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

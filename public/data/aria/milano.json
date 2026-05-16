@@ -1,0 +1,38 @@
+{
+  "slug": "milano",
+  "nome": "Milano",
+  "sigla": "MI",
+  "regione": "Lombardia",
+  "aggiornato": "2026-05-16T00:09:11.533Z",
+  "aqi": 27,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 10.1,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "pm10": {
+      "valore": 12.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 29.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 38,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 215,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

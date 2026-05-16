@@ -1,0 +1,38 @@
+{
+  "slug": "rovigo",
+  "nome": "Rovigo",
+  "sigla": "RO",
+  "regione": "Veneto",
+  "aggiornato": "2026-05-16T00:09:15.751Z",
+  "aqi": 14,
+  "aqi_categoria": "Buono",
+  "aqi_colore": "green",
+  "aqi_idx": 0,
+  "pollutanti": {
+    "pm25": {
+      "valore": 9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 10,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 15.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 35,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 167,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

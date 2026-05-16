@@ -1,0 +1,38 @@
+{
+  "slug": "cagliari",
+  "nome": "Cagliari",
+  "sigla": "CA",
+  "regione": "Sardegna",
+  "aggiornato": "2026-05-16T00:09:05.781Z",
+  "aqi": 30,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 2.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 7.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 2.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 75,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 118,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

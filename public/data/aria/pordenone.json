@@ -1,0 +1,38 @@
+{
+  "slug": "pordenone",
+  "nome": "Pordenone",
+  "sigla": "PN",
+  "regione": "Friuli-Venezia Giulia",
+  "aggiornato": "2026-05-16T00:09:14.202Z",
+  "aqi": 15,
+  "aqi_categoria": "Buono",
+  "aqi_colore": "green",
+  "aqi_idx": 0,
+  "pollutanti": {
+    "pm25": {
+      "valore": 5.2,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 6.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 9.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 38,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 148,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "ancona",
+  "nome": "Ancona",
+  "sigla": "AN",
+  "regione": "Marche",
+  "aggiornato": "2026-05-16T00:09:03.185Z",
+  "aqi": 27,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 2.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 4.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 6.2,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 67,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 118,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

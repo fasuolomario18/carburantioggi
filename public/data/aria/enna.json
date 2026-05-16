@@ -1,0 +1,38 @@
+{
+  "slug": "enna",
+  "nome": "Enna",
+  "sigla": "EN",
+  "regione": "Sicilia",
+  "aggiornato": "2026-05-16T00:09:07.657Z",
+  "aqi": 26,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 15,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "pm10": {
+      "valore": 26.8,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "no2": {
+      "valore": 3.6,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 65,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 119,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

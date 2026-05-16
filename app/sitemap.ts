@@ -16,10 +16,15 @@ interface Indice {
   province: { slug: string }[];
 }
 
+interface AriaIndex {
+  citta: { slug: string }[];
+}
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const indice = loadJSON<Indice>("indice.json");
   const farmaciIndex = loadJSON<{ principi_attivi: { slug: string }[] }>("farmaci/index.json");
   const caseIndex = loadJSON<{ comuni: { slug: string }[] }>("case/index.json");
+  const ariaIndex = loadJSON<AriaIndex>("aria/index.json");
   const oggi = new Date().toISOString();
 
   const statiche: MetadataRoute.Sitemap = [
@@ -29,6 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/bollette`, lastModified: oggi, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE_URL}/farmaci`, lastModified: oggi, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE_URL}/case`, lastModified: oggi, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${BASE_URL}/qualita-aria`, lastModified: oggi, changeFrequency: "hourly", priority: 0.8 },
     { url: `${BASE_URL}/contatti`, lastModified: oggi, changeFrequency: "monthly", priority: 0.3 },
     { url: `${BASE_URL}/privacy`, lastModified: oggi, changeFrequency: "monthly", priority: 0.2 },
   ];
@@ -61,5 +67,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...statiche, ...regioniUrls, ...provinceUrls, ...farmaciUrls, ...caseUrls];
+  const ariaUrls: MetadataRoute.Sitemap = (ariaIndex?.citta ?? []).map((c) => ({
+    url: `${BASE_URL}/qualita-aria/${c.slug}`,
+    lastModified: oggi,
+    changeFrequency: "hourly",
+    priority: 0.8,
+  }));
+
+  return [...statiche, ...regioniUrls, ...provinceUrls, ...farmaciUrls, ...caseUrls, ...ariaUrls];
 }

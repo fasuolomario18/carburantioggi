@@ -1,0 +1,38 @@
+{
+  "slug": "reggio-emilia",
+  "nome": "Reggio Emilia",
+  "sigla": "RE",
+  "regione": "Emilia-Romagna",
+  "aggiornato": "2026-05-16T00:09:15.123Z",
+  "aqi": 21,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 8.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 9.7,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 11.1,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 52,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 158,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

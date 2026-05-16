@@ -1,0 +1,38 @@
+{
+  "slug": "lucca",
+  "nome": "Lucca",
+  "sigla": "LU",
+  "regione": "Toscana",
+  "aggiornato": "2026-05-16T00:09:10.591Z",
+  "aqi": 23,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 2.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 5.2,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 4.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 58,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 134,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

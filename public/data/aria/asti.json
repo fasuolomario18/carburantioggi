@@ -1,0 +1,38 @@
+{
+  "slug": "asti",
+  "nome": "Asti",
+  "sigla": "AT",
+  "regione": "Piemonte",
+  "aggiornato": "2026-05-16T00:09:03.819Z",
+  "aqi": 23,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 8.4,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "pm10": {
+      "valore": 8.9,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 7.3,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 56,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "co": {
+      "valore": 154,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

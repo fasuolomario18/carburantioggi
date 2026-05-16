@@ -1,0 +1,38 @@
+{
+  "slug": "taranto",
+  "nome": "Taranto",
+  "sigla": "TA",
+  "regione": "Puglia",
+  "aggiornato": "2026-05-16T00:09:17.004Z",
+  "aqi": 32,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
+  "pollutanti": {
+    "pm25": {
+      "valore": 11.4,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "pm10": {
+      "valore": 20.3,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "no2": {
+      "valore": 1.8,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 81,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
+    "co": {
+      "valore": 116,
+      "unita": "µg/m³",
+      "categoria": "N/D"
+    }
+  }
+}

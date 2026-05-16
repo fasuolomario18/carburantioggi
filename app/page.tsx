@@ -185,6 +185,11 @@ export default function Home() {
             <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Farmaci</div>
             <div className="text-xs text-gray-400 mt-1">Prezzi · Generici · AIFA</div>
           </Link>
+          <Link href="/qualita-aria" className="bg-white rounded-2xl border border-gray-200 p-5 shadow-sm hover:border-green-400 hover:shadow-md transition-all group text-center">
+            <div className="text-3xl mb-2">🌬️</div>
+            <div className="font-semibold text-sm text-gray-800 group-hover:text-green-700">Qualità Aria</div>
+            <div className="text-xs text-gray-400 mt-1">AQI · PM2.5 · Ozono</div>
+          </Link>
         </div>
       </section>
 
