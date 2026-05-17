@@ -3,34 +3,34 @@
   "nome": "Caltanissetta",
   "sigla": "CL",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:05.940Z",
-  "aqi": 26,
+  "aggiornato": "2026-05-17T10:39:24.374Z",
+  "aqi": 33,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 14.2,
-      "unita": "µg/m³",
-      "categoria": "Discreto"
-    },
-    "pm10": {
-      "valore": 26.8,
-      "unita": "µg/m³",
-      "categoria": "Discreto"
-    },
-    "no2": {
       "valore": 2.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
+    "pm10": {
+      "valore": 7.2,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "no2": {
+      "valore": 0.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
     "o3": {
-      "valore": 65,
+      "valore": 83,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 123,
+      "valore": 113,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

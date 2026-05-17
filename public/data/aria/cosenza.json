@@ -3,34 +3,34 @@
   "nome": "Cosenza",
   "sigla": "CS",
   "regione": "Calabria",
-  "aggiornato": "2026-05-16T00:09:07.037Z",
-  "aqi": 25,
+  "aggiornato": "2026-05-17T10:39:25.896Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.2,
+      "valore": 3.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 22.9,
+      "valore": 7.4,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.2,
+      "valore": 0.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 63,
+      "valore": 96,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 116,
+      "valore": 119,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

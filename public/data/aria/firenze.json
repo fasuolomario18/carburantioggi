@@ -3,34 +3,34 @@
   "nome": "Firenze",
   "sigla": "FI",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:08.134Z",
-  "aqi": 19,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:27.417Z",
+  "aqi": 38,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.4,
+      "valore": 5.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.5,
+      "valore": 7.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 7.3,
+      "valore": 1.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 48,
+      "valore": 96,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 134,
+      "valore": 140,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

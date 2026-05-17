@@ -3,29 +3,29 @@
   "nome": "Sassari",
   "sigla": "SS",
   "regione": "Sardegna",
-  "aggiornato": "2026-05-16T00:09:16.066Z",
-  "aqi": 32,
+  "aggiornato": "2026-05-17T10:39:38.475Z",
+  "aqi": 35,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.3,
+      "valore": 3.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.9,
+      "valore": 6.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.9,
+      "valore": 0.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 79,
+      "valore": 87,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },

@@ -3,34 +3,34 @@
   "nome": "Alessandria",
   "sigla": "AL",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:03.025Z",
-  "aqi": 22,
+  "aggiornato": "2026-05-17T10:39:20.458Z",
+  "aqi": 35,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 10,
+      "valore": 4.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 10.4,
+      "valore": 5.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 9.1,
+      "valore": 1.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 47,
+      "valore": 87,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 166,
+      "valore": 132,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

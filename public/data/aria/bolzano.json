@@ -3,34 +3,34 @@
   "nome": "Bolzano",
   "sigla": "BZ",
   "regione": "Trentino-Alto Adige",
-  "aggiornato": "2026-05-16T00:09:05.318Z",
-  "aqi": 21,
+  "aggiornato": "2026-05-17T10:39:23.507Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.2,
+      "valore": 3.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.5,
+      "valore": 4.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 12.8,
+      "valore": 1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 53,
+      "valore": 96,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 226,
+      "valore": 121,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

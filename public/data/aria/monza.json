@@ -3,34 +3,34 @@
   "nome": "Monza",
   "sigla": "MB",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:11.848Z",
-  "aqi": 24,
-  "aqi_categoria": "Discreto",
-  "aqi_colore": "yellow",
-  "aqi_idx": 1,
+  "aggiornato": "2026-05-17T10:39:32.622Z",
+  "aqi": 41,
+  "aqi_categoria": "Moderato",
+  "aqi_colore": "orange",
+  "aqi_idx": 2,
   "pollutanti": {
     "pm25": {
-      "valore": 9.3,
+      "valore": 12.6,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 11.4,
+      "valore": 15,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 23.2,
+      "valore": 4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 43,
+      "valore": 101,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Moderato"
     },
     "co": {
-      "valore": 210,
+      "valore": 159,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

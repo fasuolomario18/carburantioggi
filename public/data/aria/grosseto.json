@@ -3,34 +3,34 @@
   "nome": "Grosseto",
   "sigla": "GR",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:09.070Z",
-  "aqi": 26,
+  "aggiornato": "2026-05-17T10:39:28.720Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 1.8,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 2.9,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.4,
+      "valore": 0.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 65,
+      "valore": 91,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 116,
+      "valore": 134,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

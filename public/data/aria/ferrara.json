@@ -3,34 +3,34 @@
   "nome": "Ferrara",
   "sigla": "FE",
   "regione": "Emilia-Romagna",
-  "aggiornato": "2026-05-16T00:09:07.976Z",
-  "aqi": 18,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:27.198Z",
+  "aqi": 39,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7,
+      "valore": 15.1,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 8.6,
+      "valore": 17.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 10.6,
+      "valore": 2.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 46,
+      "valore": 98,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 148,
+      "valore": 160,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

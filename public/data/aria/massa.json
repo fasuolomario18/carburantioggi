@@ -3,34 +3,34 @@
   "nome": "Massa",
   "sigla": "MS",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:11.067Z",
-  "aqi": 30,
+  "aggiornato": "2026-05-17T10:39:31.538Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.8,
+      "valore": 5.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4.6,
+      "valore": 7.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.2,
+      "valore": 1.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 76,
+      "valore": 95,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 123,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

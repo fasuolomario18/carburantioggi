@@ -3,34 +3,34 @@
   "nome": "Varese",
   "sigla": "VA",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:18.427Z",
-  "aqi": 22,
+  "aggiornato": "2026-05-17T10:39:41.729Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.7,
+      "valore": 4.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 9.6,
+      "valore": 5.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 11.3,
+      "valore": 1.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 56,
+      "valore": 92,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 165,
+      "valore": 128,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

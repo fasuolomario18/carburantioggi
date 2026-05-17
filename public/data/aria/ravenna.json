@@ -3,34 +3,34 @@
   "nome": "Ravenna",
   "sigla": "RA",
   "regione": "Emilia-Romagna",
-  "aggiornato": "2026-05-16T00:09:14.824Z",
-  "aqi": 23,
+  "aggiornato": "2026-05-17T10:39:36.744Z",
+  "aqi": 34,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3.4,
+      "valore": 9.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5.4,
+      "valore": 11.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 6.4,
+      "valore": 5.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 57,
+      "valore": 84,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 136,
+      "valore": 167,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

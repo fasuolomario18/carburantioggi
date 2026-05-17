@@ -3,34 +3,34 @@
   "nome": "Palermo",
   "sigla": "PA",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:12.790Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:33.922Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 20.8,
+      "valore": 8.9,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 9,
+      "valore": 1.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 69,
+      "valore": 91,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 117,
+      "valore": 120,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

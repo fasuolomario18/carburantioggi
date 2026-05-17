@@ -3,34 +3,34 @@
   "nome": "Novara",
   "sigla": "NO",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:12.158Z",
-  "aqi": 25,
+  "aggiornato": "2026-05-17T10:39:33.055Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 15.9,
+      "valore": 3.3,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 17.6,
+      "valore": 5.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 17.7,
+      "valore": 2.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 55,
+      "valore": 93,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 177,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

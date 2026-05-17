@@ -3,34 +3,34 @@
   "nome": "Sud Sardegna",
   "sigla": "SU",
   "regione": "Sardegna",
-  "aggiornato": "2026-05-16T00:09:16.848Z",
-  "aqi": 33,
+  "aggiornato": "2026-05-17T10:39:39.557Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 1.9,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3.8,
+      "valore": 7.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.7,
+      "valore": 0.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 83,
+      "valore": 90,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 118,
+      "valore": 116,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

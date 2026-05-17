@@ -3,34 +3,34 @@
   "nome": "Bari",
   "sigla": "BA",
   "regione": "Puglia",
-  "aggiornato": "2026-05-16T00:09:04.136Z",
-  "aqi": 32,
-  "aqi_categoria": "Discreto",
-  "aqi_colore": "yellow",
-  "aqi_idx": 1,
+  "aggiornato": "2026-05-17T10:39:21.981Z",
+  "aqi": 41,
+  "aqi_categoria": "Moderato",
+  "aqi_colore": "orange",
+  "aqi_idx": 2,
   "pollutanti": {
     "pm25": {
-      "valore": 6.1,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 14.1,
+      "valore": 6.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.1,
+      "valore": 1.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 81,
+      "valore": 101,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Moderato"
     },
     "co": {
-      "valore": 113,
+      "valore": 137,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Avellino",
   "sigla": "AV",
   "regione": "Campania",
-  "aggiornato": "2026-05-16T00:09:03.976Z",
-  "aqi": 33,
+  "aggiornato": "2026-05-17T10:39:21.763Z",
+  "aqi": 34,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 5.7,
+      "valore": 2.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 9.2,
+      "valore": 3.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2,
+      "valore": 0.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 82,
+      "valore": 85,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 109,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

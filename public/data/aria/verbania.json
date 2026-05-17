@@ -3,34 +3,34 @@
   "nome": "Verbania",
   "sigla": "VB",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:18.868Z",
-  "aqi": 23,
+  "aggiornato": "2026-05-17T10:39:42.510Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.6,
+      "valore": 1.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4.8,
+      "valore": 2.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 5.4,
+      "valore": 0.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 57,
+      "valore": 92,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 132,
+      "valore": 115,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

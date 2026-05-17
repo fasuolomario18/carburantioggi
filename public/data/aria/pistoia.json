@@ -3,34 +3,34 @@
   "nome": "Pistoia",
   "sigla": "PT",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:14.049Z",
-  "aqi": 24,
+  "aggiornato": "2026-05-17T10:39:35.659Z",
+  "aqi": 39,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4,
+      "valore": 6.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 7.6,
+      "valore": 8.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.9,
+      "valore": 1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 59,
+      "valore": 97,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 144,
+      "valore": 138,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

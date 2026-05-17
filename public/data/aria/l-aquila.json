@@ -3,34 +3,34 @@
   "nome": "L'Aquila",
   "sigla": "AQ",
   "regione": "Abruzzo",
-  "aggiornato": "2026-05-16T00:09:09.520Z",
-  "aqi": 25,
+  "aggiornato": "2026-05-17T10:39:29.372Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.4,
+      "valore": 1.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 2.9,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.6,
+      "valore": 0.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 63,
+      "valore": 90,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 101,
+      "valore": 120,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

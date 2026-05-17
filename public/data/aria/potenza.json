@@ -3,34 +3,34 @@
   "nome": "Potenza",
   "sigla": "PZ",
   "regione": "Basilicata",
-  "aggiornato": "2026-05-16T00:09:14.362Z",
-  "aqi": 29,
+  "aggiornato": "2026-05-17T10:39:36.093Z",
+  "aqi": 32,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.2,
+      "valore": 2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 16.2,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.7,
+      "valore": 0.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 72,
+      "valore": 80,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 103,
+      "valore": 126,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

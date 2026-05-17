@@ -3,34 +3,34 @@
   "nome": "Catania",
   "sigla": "CT",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:06.406Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:25.026Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 15.1,
+      "valore": 3.6,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 46.2,
+      "valore": 9,
       "unita": "µg/m³",
-      "categoria": "Moderato"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.9,
+      "valore": 1.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 70,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 117,
+      "valore": 119,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

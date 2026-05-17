@@ -3,34 +3,34 @@
   "nome": "Imperia",
   "sigla": "IM",
   "regione": "Liguria",
-  "aggiornato": "2026-05-16T00:09:09.218Z",
-  "aqi": 32,
+  "aggiornato": "2026-05-17T10:39:28.936Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.4,
+      "valore": 3.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3.3,
+      "valore": 7.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.9,
+      "valore": 1.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 79,
+      "valore": 95,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 149,
+      "valore": 124,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

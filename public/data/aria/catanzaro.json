@@ -3,34 +3,34 @@
   "nome": "Catanzaro",
   "sigla": "CZ",
   "regione": "Calabria",
-  "aggiornato": "2026-05-16T00:09:06.567Z",
-  "aqi": 27,
+  "aggiornato": "2026-05-17T10:39:25.244Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.1,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 22.7,
+      "valore": 8.4,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.7,
+      "valore": 0.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 68,
+      "valore": 91,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 112,
+      "valore": 117,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Messina",
   "sigla": "ME",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:11.376Z",
-  "aqi": 21,
+  "aggiornato": "2026-05-17T10:39:31.971Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 12.5,
+      "valore": 4,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 21,
+      "valore": 10.1,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 21.3,
+      "valore": 1.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 53,
+      "valore": 96,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 122,
+      "valore": 119,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Ragusa",
   "sigla": "RG",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:14.675Z",
-  "aqi": 27,
+  "aggiornato": "2026-05-17T10:39:36.529Z",
+  "aqi": 35,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 13,
+      "valore": 2.6,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 23.6,
+      "valore": 6.7,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.7,
+      "valore": 0.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 67,
+      "valore": 88,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 116,
+      "valore": 114,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

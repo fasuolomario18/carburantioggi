@@ -3,34 +3,34 @@
   "nome": "Lodi",
   "sigla": "LO",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:10.436Z",
-  "aqi": 18,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:30.672Z",
+  "aqi": 39,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7.3,
+      "valore": 13,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 8.1,
+      "valore": 14.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 12.3,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 46,
+      "valore": 97,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 183,
+      "valore": 156,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

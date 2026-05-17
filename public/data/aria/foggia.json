@@ -3,34 +3,34 @@
   "nome": "Foggia",
   "sigla": "FG",
   "regione": "Puglia",
-  "aggiornato": "2026-05-16T00:09:08.293Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:27.634Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 5.9,
+      "valore": 2.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 13.6,
+      "valore": 3.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.5,
+      "valore": 0.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 71,
+      "valore": 92,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 114,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

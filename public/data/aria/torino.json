@@ -3,34 +3,34 @@
   "nome": "Torino",
   "sigla": "TO",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:17.479Z",
-  "aqi": 22,
+  "aggiornato": "2026-05-17T10:39:40.425Z",
+  "aqi": 39,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7.3,
+      "valore": 4.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.9,
+      "valore": 7.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 16.5,
+      "valore": 2.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 55,
+      "valore": 98,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 167,
+      "valore": 135,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

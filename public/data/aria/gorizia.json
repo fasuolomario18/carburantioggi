@@ -3,34 +3,34 @@
   "nome": "Gorizia",
   "sigla": "GO",
   "regione": "Friuli-Venezia Giulia",
-  "aggiornato": "2026-05-16T00:09:08.915Z",
-  "aqi": 20,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:28.502Z",
+  "aqi": 39,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3.1,
+      "valore": 3.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3.2,
+      "valore": 4.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.4,
+      "valore": 0.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 49,
+      "valore": 97,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 125,
+      "valore": 133,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

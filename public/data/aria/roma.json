@@ -3,14 +3,14 @@
   "nome": "Roma",
   "sigla": "RM",
   "regione": "Lazio",
-  "aggiornato": "2026-05-16T00:09:15.598Z",
-  "aqi": 27,
-  "aqi_categoria": "Discreto",
-  "aqi_colore": "yellow",
-  "aqi_idx": 1,
+  "aggiornato": "2026-05-17T10:39:37.825Z",
+  "aqi": 42,
+  "aqi_categoria": "Moderato",
+  "aqi_colore": "orange",
+  "aqi_idx": 2,
   "pollutanti": {
     "pm25": {
-      "valore": 3,
+      "valore": 5.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
@@ -20,17 +20,17 @@
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 4.2,
+      "valore": 2.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 67,
+      "valore": 103,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Moderato"
     },
     "co": {
-      "valore": 118,
+      "valore": 140,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

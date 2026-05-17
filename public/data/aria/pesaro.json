@@ -3,34 +3,34 @@
   "nome": "Pesaro",
   "sigla": "PU",
   "regione": "Marche",
-  "aggiornato": "2026-05-16T00:09:13.417Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:34.791Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 1.6,
+      "valore": 3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 2.7,
+      "valore": 4.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.4,
+      "valore": 0.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 70,
+      "valore": 90,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 125,
+      "valore": 133,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

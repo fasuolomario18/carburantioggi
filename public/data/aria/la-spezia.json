@@ -3,34 +3,34 @@
   "nome": "La Spezia",
   "sigla": "SP",
   "regione": "Liguria",
-  "aggiornato": "2026-05-16T00:09:09.668Z",
-  "aqi": 27,
+  "aggiornato": "2026-05-17T10:39:29.588Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.6,
+      "valore": 5.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4.2,
+      "valore": 7.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 7.2,
+      "valore": 3.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 68,
+      "valore": 90,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 131,
+      "valore": 138,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

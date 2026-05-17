@@ -3,14 +3,14 @@
   "nome": "Genova",
   "sigla": "GE",
   "regione": "Liguria",
-  "aggiornato": "2026-05-16T00:09:08.756Z",
-  "aqi": 30,
+  "aggiornato": "2026-05-17T10:39:28.285Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.8,
+      "valore": 3.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
@@ -20,17 +20,17 @@
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 7.3,
+      "valore": 4.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 75,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 150,
+      "valore": 127,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

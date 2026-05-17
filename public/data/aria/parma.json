@@ -3,34 +3,34 @@
   "nome": "Parma",
   "sigla": "PR",
   "regione": "Emilia-Romagna",
-  "aggiornato": "2026-05-16T00:09:12.948Z",
-  "aqi": 21,
+  "aggiornato": "2026-05-17T10:39:34.140Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7,
+      "valore": 14.9,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 8.5,
+      "valore": 17.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 12.7,
+      "valore": 2.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 53,
+      "valore": 90,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 170,
+      "valore": 158,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

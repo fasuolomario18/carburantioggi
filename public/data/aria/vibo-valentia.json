@@ -3,34 +3,34 @@
   "nome": "Vibo Valentia",
   "sigla": "VV",
   "regione": "Calabria",
-  "aggiornato": "2026-05-16T00:09:19.340Z",
-  "aqi": 24,
+  "aggiornato": "2026-05-17T10:39:43.163Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 10.1,
-      "unita": "µg/m³",
-      "categoria": "Discreto"
-    },
-    "pm10": {
-      "valore": 21.7,
-      "unita": "µg/m³",
-      "categoria": "Discreto"
-    },
-    "no2": {
       "valore": 3.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
-    "o3": {
-      "valore": 60,
+    "pm10": {
+      "valore": 11.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
+    "no2": {
+      "valore": 0.5,
+      "unita": "µg/m³",
+      "categoria": "Buono"
+    },
+    "o3": {
+      "valore": 94,
+      "unita": "µg/m³",
+      "categoria": "Discreto"
+    },
     "co": {
-      "valore": 113,
+      "valore": 121,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Crotone",
   "sigla": "KR",
   "regione": "Calabria",
-  "aggiornato": "2026-05-16T00:09:07.342Z",
-  "aqi": 32,
+  "aggiornato": "2026-05-17T10:39:26.331Z",
+  "aqi": 39,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 11.8,
+      "valore": 3.3,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 24.2,
+      "valore": 9.1,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.6,
+      "valore": 0.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 80,
+      "valore": 98,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 116,
+      "valore": 122,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

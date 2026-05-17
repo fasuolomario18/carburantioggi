@@ -3,34 +3,34 @@
   "nome": "Cremona",
   "sigla": "CR",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:07.188Z",
-  "aqi": 23,
+  "aggiornato": "2026-05-17T10:39:26.114Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.2,
+      "valore": 10.5,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 8,
+      "valore": 12.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 11,
+      "valore": 1.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 57,
+      "valore": 94,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 157,
+      "valore": 155,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Ascoli Piceno",
   "sigla": "AP",
   "regione": "Marche",
-  "aggiornato": "2026-05-16T00:09:03.659Z",
-  "aqi": 20,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:21.329Z",
+  "aqi": 36,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.1,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4.6,
+      "valore": 4.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 5.1,
+      "valore": 0.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 51,
+      "valore": 89,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 117,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

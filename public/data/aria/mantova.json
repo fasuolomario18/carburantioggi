@@ -3,34 +3,34 @@
   "nome": "Mantova",
   "sigla": "MN",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:10.908Z",
-  "aqi": 18,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:31.322Z",
+  "aqi": 39,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.3,
+      "valore": 12.1,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 10.7,
+      "valore": 14,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 15.1,
+      "valore": 2.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 45,
+      "valore": 97,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 165,
+      "valore": 154,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

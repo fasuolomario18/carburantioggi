@@ -3,14 +3,14 @@
   "nome": "Arezzo",
   "sigla": "AR",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:03.502Z",
-  "aqi": 20,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:21.111Z",
+  "aqi": 36,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3.3,
+      "valore": 2.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
@@ -20,17 +20,17 @@
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 5.3,
+      "valore": 0.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 50,
+      "valore": 89,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 130,
+      "valore": 132,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

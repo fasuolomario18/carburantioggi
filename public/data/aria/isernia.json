@@ -3,34 +3,34 @@
   "nome": "Isernia",
   "sigla": "IS",
   "regione": "Molise",
-  "aggiornato": "2026-05-16T00:09:09.366Z",
-  "aqi": 32,
+  "aggiornato": "2026-05-17T10:39:29.154Z",
+  "aqi": 34,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.4,
+      "valore": 2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3,
+      "valore": 2.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.2,
+      "valore": 0.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 81,
+      "valore": 86,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 101,
+      "valore": 126,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

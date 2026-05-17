@@ -3,34 +3,34 @@
   "nome": "Prato",
   "sigla": "PO",
   "regione": "Toscana",
-  "aggiornato": "2026-05-16T00:09:14.518Z",
-  "aqi": 15,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:36.310Z",
+  "aqi": 38,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.4,
+      "valore": 6.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 11.7,
+      "valore": 9.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 14,
+      "valore": 1.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 38,
+      "valore": 96,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 159,
+      "valore": 143,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

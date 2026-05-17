@@ -3,34 +3,34 @@
   "nome": "Reggio Calabria",
   "sigla": "RC",
   "regione": "Calabria",
-  "aggiornato": "2026-05-16T00:09:14.974Z",
-  "aqi": 26,
+  "aggiornato": "2026-05-17T10:39:36.961Z",
+  "aqi": 39,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 12.9,
+      "valore": 3.8,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 19.8,
+      "valore": 9.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 9.2,
+      "valore": 1.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 66,
+      "valore": 98,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 120,
+      "valore": 118,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

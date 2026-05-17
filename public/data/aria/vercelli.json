@@ -3,34 +3,34 @@
   "nome": "Vercelli",
   "sigla": "VC",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:19.023Z",
-  "aqi": 21,
+  "aggiornato": "2026-05-17T10:39:42.728Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 11.5,
+      "valore": 3.1,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 12.7,
+      "valore": 3.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 12,
+      "valore": 1.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 53,
+      "valore": 93,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 156,
+      "valore": 126,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

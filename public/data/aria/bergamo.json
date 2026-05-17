@@ -3,34 +3,34 @@
   "nome": "Bergamo",
   "sigla": "BG",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:04.846Z",
-  "aqi": 19,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:22.854Z",
+  "aqi": 41,
+  "aqi_categoria": "Moderato",
+  "aqi_colore": "orange",
+  "aqi_idx": 2,
   "pollutanti": {
     "pm25": {
-      "valore": 5.6,
+      "valore": 7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 7.2,
+      "valore": 9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 16.2,
+      "valore": 2.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 48,
+      "valore": 102,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Moderato"
     },
     "co": {
-      "valore": 236,
+      "valore": 143,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

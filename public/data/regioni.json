@@ -2,19 +2,19 @@
   "sicilia": {
     "nome": "Sicilia",
     "slug": "sicilia",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 673,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.932,
-        "servito_media": 2.093,
+        "self_media": 1.933,
+        "servito_media": 2.094,
         "self_min": 1.699
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.984,
-        "servito_media": 2.146,
+        "self_media": 1.981,
+        "servito_media": 2.144,
         "self_min": 1.599
       },
       "metano": {
@@ -34,19 +34,19 @@
   "piemonte": {
     "nome": "Piemonte",
     "slug": "piemonte",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 603,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.934,
-        "servito_media": 2.088,
+        "self_media": 1.935,
+        "servito_media": 2.089,
         "self_min": 1.191
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.971,
-        "servito_media": 2.13,
+        "self_media": 1.968,
+        "servito_media": 2.127,
         "self_min": 1.569
       },
       "metano": {
@@ -66,19 +66,19 @@
   "marche": {
     "nome": "Marche",
     "slug": "marche",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 198,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.916,
-        "servito_media": 2.074,
+        "self_media": 1.918,
+        "servito_media": 2.077,
         "self_min": 1.699
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.963,
-        "servito_media": 2.129,
+        "self_media": 1.96,
+        "servito_media": 2.125,
         "self_min": 1.629
       },
       "metano": {
@@ -90,7 +90,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": null,
-        "servito_media": 0.833,
+        "servito_media": 0.832,
         "self_min": null
       }
     }
@@ -98,19 +98,19 @@
   "valle-daosta": {
     "nome": "Valle d'Aosta",
     "slug": "valle-daosta",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 34,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.947,
-        "servito_media": 2.091,
+        "self_media": 1.954,
+        "servito_media": 2.101,
         "self_min": 1.827
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.991,
-        "servito_media": 2.131,
+        "self_media": 1.993,
+        "servito_media": 2.136,
         "self_min": 1.949
       },
       "metano": {
@@ -130,19 +130,19 @@
   "toscana": {
     "nome": "Toscana",
     "slug": "toscana",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 688,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
         "self_media": 1.938,
-        "servito_media": 2.118,
+        "servito_media": 2.119,
         "self_min": 1.694
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.982,
-        "servito_media": 2.169,
+        "self_media": 1.979,
+        "servito_media": 2.166,
         "self_min": 1.628
       },
       "metano": {
@@ -154,7 +154,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": 0.8,
-        "servito_media": 0.821,
+        "servito_media": 0.82,
         "self_min": 0.8
       }
     }
@@ -162,31 +162,31 @@
   "campania": {
     "nome": "Campania",
     "slug": "campania",
-    "aggiornato": "2026-05-15",
-    "impianti_count": 618,
+    "aggiornato": "2026-05-17",
+    "impianti_count": 617,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.929,
-        "servito_media": 2.044,
-        "self_min": 1.569
+        "self_media": 1.932,
+        "servito_media": 2.047,
+        "self_min": 1.659
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.974,
-        "servito_media": 2.093,
+        "self_media": 1.971,
+        "servito_media": 2.091,
         "self_min": 1.579
       },
       "metano": {
         "label": "Metano",
         "self_media": 1.399,
-        "servito_media": 1.551,
+        "servito_media": 1.549,
         "self_min": 1.399
       },
       "gpl": {
         "label": "GPL",
         "self_media": 0.775,
-        "servito_media": 0.783,
+        "servito_media": 0.782,
         "self_min": 0.76
       }
     }
@@ -194,31 +194,31 @@
   "puglia": {
     "nome": "Puglia",
     "slug": "puglia",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 379,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.947,
-        "servito_media": 2.126,
+        "self_media": 1.949,
+        "servito_media": 2.129,
         "self_min": 1.695
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.98,
-        "servito_media": 2.162,
+        "self_media": 1.977,
+        "servito_media": 2.16,
         "self_min": 1.699
       },
       "metano": {
         "label": "Metano",
         "self_media": 1.399,
-        "servito_media": 1.653,
+        "servito_media": 1.651,
         "self_min": 1.399
       },
       "gpl": {
         "label": "GPL",
         "self_media": 0.731,
-        "servito_media": 0.78,
+        "servito_media": 0.779,
         "self_min": 0.729
       }
     }
@@ -226,18 +226,18 @@
   "veneto": {
     "nome": "Veneto",
     "slug": "veneto",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 553,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.943,
-        "servito_media": 2.082,
+        "self_media": 1.944,
+        "servito_media": 2.084,
         "self_min": 1.589
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.97,
+        "self_media": 1.968,
         "servito_media": 2.115,
         "self_min": 1.573
       },
@@ -250,7 +250,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": 0.809,
-        "servito_media": 0.812,
+        "servito_media": 0.811,
         "self_min": 0.799
       }
     }
@@ -258,19 +258,19 @@
   "lombardia": {
     "nome": "Lombardia",
     "slug": "lombardia",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 1232,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.938,
-        "servito_media": 2.087,
+        "self_media": 1.94,
+        "servito_media": 2.09,
         "self_min": 1.615
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.981,
-        "servito_media": 2.137,
+        "self_media": 1.979,
+        "servito_media": 2.134,
         "self_min": 1.635
       },
       "metano": {
@@ -282,7 +282,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": 0.791,
-        "servito_media": 0.819,
+        "servito_media": 0.817,
         "self_min": 0.782
       }
     }
@@ -290,19 +290,19 @@
   "emilia-romagna": {
     "nome": "Emilia Romagna",
     "slug": "emilia-romagna",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 687,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
         "self_media": 1.942,
-        "servito_media": 2.11,
+        "servito_media": 2.111,
         "self_min": 1.722
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.977,
-        "servito_media": 2.154,
+        "self_media": 1.975,
+        "servito_media": 2.152,
         "self_min": 1.877
       },
       "metano": {
@@ -314,7 +314,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": 0.847,
-        "servito_media": 0.818,
+        "servito_media": 0.817,
         "self_min": 0.779
       }
     }
@@ -322,19 +322,19 @@
   "trentino-alto-adige": {
     "nome": "Trentino Alto Adige",
     "slug": "trentino-alto-adige",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 84,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.949,
-        "servito_media": 2.115,
+        "self_media": 1.948,
+        "servito_media": 2.114,
         "self_min": 1.729
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.989,
-        "servito_media": 2.152,
+        "self_media": 1.987,
+        "servito_media": 2.151,
         "self_min": 1.787
       },
       "metano": {
@@ -354,19 +354,19 @@
   "sardegna": {
     "nome": "Sardegna",
     "slug": "sardegna",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 248,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.935,
-        "servito_media": 2.11,
+        "self_media": 1.937,
+        "servito_media": 2.114,
         "self_min": 1.719
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.983,
-        "servito_media": 2.166,
+        "self_media": 1.979,
+        "servito_media": 2.159,
         "self_min": 1.609
       },
       "gpl": {
@@ -380,18 +380,18 @@
   "molise": {
     "nome": "Molise",
     "slug": "molise",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 43,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.936,
-        "servito_media": 2.082,
+        "self_media": 1.935,
+        "servito_media": 2.08,
         "self_min": 1.799
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 2.002,
+        "self_media": 2.001,
         "servito_media": 2.13,
         "self_min": 1.938
       },
@@ -412,19 +412,19 @@
   "calabria": {
     "nome": "Calabria",
     "slug": "calabria",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 178,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.956,
-        "servito_media": 2.12,
+        "self_media": 1.958,
+        "servito_media": 2.121,
         "self_min": 1.659
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.987,
-        "servito_media": 2.151,
+        "self_media": 1.984,
+        "servito_media": 2.148,
         "self_min": 1.669
       },
       "metano": {
@@ -444,25 +444,25 @@
   "abruzzo": {
     "nome": "Abruzzo",
     "slug": "abruzzo",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 232,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.934,
-        "servito_media": 2.074,
+        "self_media": 1.935,
+        "servito_media": 2.073,
         "self_min": 1.699
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.97,
-        "servito_media": 2.113,
+        "self_media": 1.968,
+        "servito_media": 2.108,
         "self_min": 1.809
       },
       "metano": {
         "label": "Metano",
         "self_media": 1.397,
-        "servito_media": 1.603,
+        "servito_media": 1.602,
         "self_min": 1.397
       },
       "gpl": {
@@ -476,19 +476,19 @@
   "lazio": {
     "nome": "Lazio",
     "slug": "lazio",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 875,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.918,
-        "servito_media": 2.041,
+        "self_media": 1.92,
+        "servito_media": 2.043,
         "self_min": 1.558
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.967,
-        "servito_media": 2.096,
+        "self_media": 1.965,
+        "servito_media": 2.093,
         "self_min": 1.565
       },
       "metano": {
@@ -508,19 +508,19 @@
   "liguria": {
     "nome": "Liguria",
     "slug": "liguria",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 227,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.941,
+        "self_media": 1.943,
         "servito_media": 2.098,
         "self_min": 1.799
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.979,
-        "servito_media": 2.144,
+        "self_media": 1.976,
+        "servito_media": 2.141,
         "self_min": 1.875
       },
       "metano": {
@@ -540,20 +540,20 @@
   "friuli-venezia-giulia": {
     "nome": "Friuli Venezia Giulia",
     "slug": "friuli-venezia-giulia",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 183,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.957,
-        "servito_media": 2.073,
+        "self_media": 1.958,
+        "servito_media": 2.076,
         "self_min": 1.729
       },
       "gasolio": {
         "label": "Gasolio",
         "self_media": 1.996,
-        "servito_media": 2.119,
-        "self_min": 1.727
+        "servito_media": 2.116,
+        "self_min": 1.909
       },
       "metano": {
         "label": "Metano",
@@ -564,7 +564,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": 0.809,
-        "servito_media": 0.81,
+        "servito_media": 0.808,
         "self_min": 0.799
       }
     }
@@ -572,20 +572,20 @@
   "basilicata": {
     "nome": "Basilicata",
     "slug": "basilicata",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 50,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.953,
-        "servito_media": 2.084,
+        "self_media": 1.956,
+        "servito_media": 2.087,
         "self_min": 1.909
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.978,
-        "servito_media": 2.109,
-        "self_min": 1.935
+        "self_media": 1.977,
+        "servito_media": 2.108,
+        "self_min": 1.929
       },
       "metano": {
         "label": "Metano",
@@ -596,7 +596,7 @@
       "gpl": {
         "label": "GPL",
         "self_media": null,
-        "servito_media": 0.818,
+        "servito_media": 0.816,
         "self_min": null
       }
     }
@@ -604,19 +604,19 @@
   "umbria": {
     "nome": "Umbria",
     "slug": "umbria",
-    "aggiornato": "2026-05-15",
+    "aggiornato": "2026-05-17",
     "impianti_count": 136,
     "prezzi": {
       "benzina": {
         "label": "Benzina",
-        "self_media": 1.929,
+        "self_media": 1.93,
         "servito_media": 2.101,
         "self_min": 1.709
       },
       "gasolio": {
         "label": "Gasolio",
-        "self_media": 1.962,
-        "servito_media": 2.136,
+        "self_media": 1.96,
+        "servito_media": 2.134,
         "self_min": 1.679
       },
       "metano": {

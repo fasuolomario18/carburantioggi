@@ -3,34 +3,34 @@
   "nome": "Fermo",
   "sigla": "FM",
   "regione": "Marche",
-  "aggiornato": "2026-05-16T00:09:07.815Z",
-  "aqi": 27,
+  "aggiornato": "2026-05-17T10:39:26.982Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.2,
+      "valore": 2.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3.6,
+      "valore": 4.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.9,
+      "valore": 0.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 68,
+      "valore": 95,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 114,
+      "valore": 136,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

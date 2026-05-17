@@ -3,14 +3,14 @@
   "nome": "Savona",
   "sigla": "SV",
   "regione": "Liguria",
-  "aggiornato": "2026-05-16T00:09:16.226Z",
-  "aqi": 34,
+  "aggiornato": "2026-05-17T10:39:38.691Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3.5,
+      "valore": 2.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
@@ -20,17 +20,17 @@
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 3.5,
+      "valore": 2.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 85,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 146,
+      "valore": 121,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

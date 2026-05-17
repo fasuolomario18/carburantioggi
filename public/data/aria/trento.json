@@ -3,34 +3,34 @@
   "nome": "Trento",
   "sigla": "TN",
   "regione": "Trentino-Alto Adige",
-  "aggiornato": "2026-05-16T00:09:17.794Z",
-  "aqi": 26,
+  "aggiornato": "2026-05-17T10:39:40.858Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.8,
+      "valore": 3.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5.2,
+      "valore": 3.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 7.9,
+      "valore": 1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 64,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 143,
+      "valore": 119,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Agrigento",
   "sigla": "AG",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-16T00:09:02.870Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:20.240Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 14.8,
+      "valore": 2.9,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 26.5,
+      "valore": 8.6,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "no2": {
-      "valore": 4.8,
+      "valore": 0.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 60,
+      "valore": 91,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 129,
+      "valore": 117,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

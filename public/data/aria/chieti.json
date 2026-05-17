@@ -3,34 +3,34 @@
   "nome": "Chieti",
   "sigla": "CH",
   "regione": "Abruzzo",
-  "aggiornato": "2026-05-16T00:09:06.722Z",
-  "aqi": 26,
+  "aggiornato": "2026-05-17T10:39:25.461Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3.4,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5.3,
+      "valore": 4.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.7,
+      "valore": 1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 64,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 105,
+      "valore": 133,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Caserta",
   "sigla": "CE",
   "regione": "Campania",
-  "aggiornato": "2026-05-16T00:09:06.250Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:24.809Z",
+  "aqi": 35,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 9.5,
+      "valore": 2.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 12.3,
+      "valore": 3.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 11.3,
+      "valore": 1.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 70,
+      "valore": 88,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 126,
+      "valore": 137,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Verona",
   "sigla": "VR",
   "regione": "Veneto",
-  "aggiornato": "2026-05-16T00:09:19.182Z",
-  "aqi": 18,
-  "aqi_categoria": "Buono",
-  "aqi_colore": "green",
-  "aqi_idx": 0,
+  "aggiornato": "2026-05-17T10:39:42.946Z",
+  "aqi": 39,
+  "aqi_categoria": "Discreto",
+  "aqi_colore": "yellow",
+  "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.4,
+      "valore": 5.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.7,
+      "valore": 8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 14.5,
+      "valore": 1.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 44,
+      "valore": 97,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 169,
+      "valore": 139,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

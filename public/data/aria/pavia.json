@@ -3,34 +3,34 @@
   "nome": "Pavia",
   "sigla": "PV",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-16T00:09:13.103Z",
-  "aqi": 22,
+  "aggiornato": "2026-05-17T10:39:34.358Z",
+  "aqi": 34,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7.3,
+      "valore": 4.5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 7.6,
+      "valore": 6.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 10.6,
+      "valore": 2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 56,
+      "valore": 86,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 157,
+      "valore": 133,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

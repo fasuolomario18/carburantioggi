@@ -3,34 +3,34 @@
   "nome": "Salerno",
   "sigla": "SA",
   "regione": "Campania",
-  "aggiornato": "2026-05-16T00:09:15.910Z",
-  "aqi": 31,
+  "aggiornato": "2026-05-17T10:39:38.257Z",
+  "aqi": 40,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 9.5,
+      "valore": 3.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 16.7,
+      "valore": 5.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 7.4,
+      "valore": 1.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 78,
+      "valore": 99,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 115,
+      "valore": 135,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

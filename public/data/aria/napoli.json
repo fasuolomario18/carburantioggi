@@ -3,19 +3,19 @@
   "nome": "Napoli",
   "sigla": "NA",
   "regione": "Campania",
-  "aggiornato": "2026-05-16T00:09:12.004Z",
+  "aggiornato": "2026-05-17T10:39:32.838Z",
   "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.9,
+      "valore": 5.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 17.3,
+      "valore": 6.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
@@ -30,7 +30,7 @@
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 107,
+      "valore": 142,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

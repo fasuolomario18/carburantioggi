@@ -3,34 +3,34 @@
   "nome": "Biella",
   "sigla": "BI",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-16T00:09:05.003Z",
-  "aqi": 21,
+  "aggiornato": "2026-05-17T10:39:23.070Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 5.8,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 6.4,
+      "valore": 4.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 5.7,
+      "valore": 0.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 53,
+      "valore": 92,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "co": {
-      "valore": 131,
+      "valore": 124,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

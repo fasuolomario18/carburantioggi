@@ -3,34 +3,34 @@
   "nome": "Terni",
   "sigla": "TR",
   "regione": "Umbria",
-  "aggiornato": "2026-05-16T00:09:17.318Z",
-  "aqi": 28,
+  "aggiornato": "2026-05-17T10:39:40.208Z",
+  "aqi": 37,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.9,
+      "valore": 2.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4,
+      "valore": 3.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 4,
+      "valore": 1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 69,
+      "valore": 93,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 112,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

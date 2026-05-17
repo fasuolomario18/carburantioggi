@@ -3,34 +3,34 @@
   "nome": "Brindisi",
   "sigla": "BR",
   "regione": "Puglia",
-  "aggiornato": "2026-05-16T00:09:05.630Z",
-  "aqi": 32,
+  "aggiornato": "2026-05-17T10:39:23.939Z",
+  "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 7.5,
+      "valore": 4.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 17.5,
+      "valore": 10.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.9,
+      "valore": 0.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 81,
+      "valore": 95,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 108,
+      "valore": 139,
       "unita": "µg/m³",
       "categoria": "N/D"
     }
