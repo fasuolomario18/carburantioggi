@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Privacy Policy",
   description: "Informativa sulla privacy di PrezziOggi.com",
   robots: { index: false },
+  alternates: { canonical: "/privacy" },
 };
 
 export default function PrivacyPage() {

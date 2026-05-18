@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Chi siamo — PrezziOggi.com",
   description:
     "Scopri chi c'è dietro PrezziOggi.com: il portale italiano dei dati ufficiali su carburanti, case, farmaci, bollette e qualità dell'aria.",
+  alternates: { canonical: "/chi-siamo" },
 };
 
 export default function ChiSiamoPage() {

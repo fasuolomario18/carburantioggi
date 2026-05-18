@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Contatti",
   description: "Contatta PrezziOggi.com — gestito da PlasmaCompany",
+  alternates: { canonical: "/contatti" },
 };
 
 export default function ContattiPage() {

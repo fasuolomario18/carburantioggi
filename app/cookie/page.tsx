@@ -4,6 +4,7 @@ export const metadata: Metadata = {
   title: "Cookie Policy",
   description: "Cookie Policy di PrezziOggi.com",
   robots: { index: false },
+  alternates: { canonical: "/cookie" },
 };
 
 export default function CookiePage() {

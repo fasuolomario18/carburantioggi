@@ -35,7 +35,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/farmaci`, lastModified: oggi, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE_URL}/case`, lastModified: oggi, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE_URL}/qualita-aria`, lastModified: oggi, changeFrequency: "hourly", priority: 0.8 },
+    { url: `${BASE_URL}/chi-siamo`, lastModified: oggi, changeFrequency: "monthly", priority: 0.3 },
     { url: `${BASE_URL}/contatti`, lastModified: oggi, changeFrequency: "monthly", priority: 0.3 },
+    { url: `${BASE_URL}/cookie`, lastModified: oggi, changeFrequency: "monthly", priority: 0.2 },
     { url: `${BASE_URL}/privacy`, lastModified: oggi, changeFrequency: "monthly", priority: 0.2 },
   ];
 
