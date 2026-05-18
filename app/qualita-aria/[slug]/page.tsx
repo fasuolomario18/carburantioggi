@@ -259,12 +259,32 @@ export default async function QualitaAriaSlugPage({ params }: { params: Promise<
         <p>
           {c.pollutanti.no2 && (
             <>Il biossido di azoto (NO₂) rilevato è <strong>{c.pollutanti.no2.valore} µg/m³</strong>{" "}
-            ({c.pollutanti.no2.categoria}), tipicamente associato al traffico veicolare. </>
+            ({c.pollutanti.no2.categoria}), tipicamente associato al traffico veicolare.{" "}
+            {c.pollutanti.no2.valore > 40
+              ? `Il valore supera il limite annuale UE di 40 µg/m³ fissato dalla Direttiva 2008/50/CE.`
+              : `Il valore è al di sotto del limite annuale UE di 40 µg/m³ (Direttiva 2008/50/CE).`}{" "}
+            </>
           )}
           {c.pollutanti.o3 && (
-            <>L&apos;ozono (O₃) è a <strong>{c.pollutanti.o3.valore} µg/m³</strong> ({c.pollutanti.o3.categoria}).</>
+            <>L&apos;ozono (O₃) è a <strong>{c.pollutanti.o3.valore} µg/m³</strong> ({c.pollutanti.o3.categoria}).{" "}
+            {c.pollutanti.o3.valore > 120
+              ? `Il valore supera la soglia di informazione UE di 120 µg/m³.`
+              : `Il valore rientra nella soglia di protezione della salute UE (120 µg/m³).`}
+            </>
           )}
         </p>
+        {c.pollutanti.pm25 && (
+          <p>
+            Il PM2.5 a {c.nome} ({c.pollutanti.pm25.valore} µg/m³) è{" "}
+            {c.pollutanti.pm25.valore <= 10
+              ? `ben al di sotto del limite OMS di 15 µg/m³ (media annuale), segnale di un'aria particolarmente pulita.`
+              : c.pollutanti.pm25.valore <= 15
+              ? `in linea con il limite OMS di 15 µg/m³ (media annuale), indicando una qualità dell'aria accettabile.`
+              : c.pollutanti.pm25.valore <= 25
+              ? `al di sopra del limite OMS di 15 µg/m³ ma sotto il limite UE di 25 µg/m³ (Direttiva 2008/50/CE).`
+              : `superiore sia al limite OMS (15 µg/m³) sia al limite UE di 25 µg/m³, con possibili effetti sulla salute nei soggetti sensibili.`}
+          </p>
+        )}
         <p>
           I dati sono forniti dal Copernicus Atmosphere Monitoring Service (CAMS) dell&apos;Unione Europea
           e aggiornati ogni ora. Per consultare la qualità dell&apos;aria nelle altre città italiane,

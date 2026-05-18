@@ -210,12 +210,33 @@ export default async function ProvinciaPage({ params }: { params: Promise<{ slug
           I prezzi della benzina e del gasolio a <strong>{p.nome}</strong> ({p.sigla}) vengono aggiornati ogni giorno
           sulla base delle comunicazioni degli esercenti al Ministero delle Imprese e del Made in Italy (MIMIT),
           come previsto dalla Legge Sviluppo n. 99/2009. I dati mostrati sono ufficiali e gratuiti.
+          A {p.nome} sono stati rilevati <strong>{p.impianti_count} impianti</strong> attivi nelle ultime 24 ore.
         </p>
         <p>
           I valori rappresentano la <strong>media degli impianti attivi</strong> rilevati nel raggio di 15 km dal
-          capoluogo di {p.nome}, aggiornata ogni mattina alle 6:00. Il <strong>prezzo minimo</strong> indica il
-          distributore più conveniente rilevato nell&apos;area.
+          capoluogo di {p.nome}, aggiornata ogni mattina alle 6:00.{" "}
+          {p.prezzi?.benzina?.self_media && p.prezzi?.benzina?.self_min && (
+            <>
+              Il prezzo medio della benzina self è <strong>€{p.prezzi.benzina.self_media.toFixed(3)}/l</strong>,
+              mentre il distributore più conveniente rilevato nell&apos;area offre{" "}
+              <strong>€{p.prezzi.benzina.self_min.toFixed(3)}/l</strong>
+              {p.prezzi.benzina.self_media - p.prezzi.benzina.self_min > 0.005 && (
+                <> con un risparmio potenziale di <strong>€{(p.prezzi.benzina.self_media - p.prezzi.benzina.self_min).toFixed(3)}/l</strong></>
+              )}.
+            </>
+          )}
         </p>
+        {p.prezzi?.gasolio?.self_media && (
+          <p>
+            Il gasolio self a {p.nome} ha una media di <strong>€{p.prezzi.gasolio.self_media.toFixed(3)}/l</strong>
+            {p.prezzi.gasolio.self_min && p.prezzi.gasolio.self_media - p.prezzi.gasolio.self_min > 0.005
+              ? `, con il prezzo minimo rilevato a €${p.prezzi.gasolio.self_min.toFixed(3)}/l.`
+              : `.`}{" "}
+            {p.prezzi?.gpl?.self_media && (
+              <>Il GPL è disponibile a una media di <strong>€{p.prezzi.gpl.self_media.toFixed(3)}/l</strong>.</>
+            )}
+          </p>
+        )}
         <p>
           Per confrontare con le province vicine consulta la sezione{" "}
           <Link href={`/regioni/${regSlug}`} className="text-green-700">{p.regione}</Link>, oppure
