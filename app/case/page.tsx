@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
 import type { Metadata } from "next";
+import CaseChart from "../components/CaseChart";
 
 interface ComuneIndex {
   slug: string;
@@ -57,6 +58,13 @@ export default function CasePage() {
 
   const regioniPresenti = REGIONI_ORDINE.filter(r => perRegione[r]);
 
+  const regioniChartData = regioniPresenti.map((regione) => {
+    const items = perRegione[regione];
+    const mediaResidenziale = Math.round(items.reduce((s, c) => s + c.residenziale_media, 0) / items.length);
+    const mediaAffitto = parseFloat((items.reduce((s, c) => s + c.affitto_media, 0) / items.length).toFixed(2));
+    return { nome: regione, mediaResidenziale, mediaAffitto };
+  });
+
   return (
     <div>
 
@@ -95,6 +103,9 @@ export default function CasePage() {
           <div className="text-xs text-gray-500">Dati suddivisi per microzone territoriali (centro, semicentro, periferia...)</div>
         </div>
       </div>
+
+      {/* GRAFICO PREZZI PER REGIONE */}
+      <CaseChart regioniData={regioniChartData} />
 
       {/* LISTA COMUNI PER REGIONE */}
       {regioniPresenti.map((regione) => (

@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import type { Metadata } from "next";
 import Link from "next/link";
+import MutuiChart from "../components/MutuiChart";
 
 interface Durata { anni: number; tasso: number; rata_100k: number; }
 interface MutuiData {
@@ -121,6 +122,9 @@ export default function MutuiPage() {
           </div>
         </div>
       </div>
+
+      {/* GRAFICO STORICO */}
+      <MutuiChart storico={data.storico} />
 
       {/* STORICO */}
       <section className="mb-8">

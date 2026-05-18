@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import type { Metadata } from "next";
 import Link from "next/link";
+import CarrelloChart from "../components/CarrelloChart";
 
 interface Categoria { nome: string; var_annua: number; var_mensile: number; icona: string; }
 interface CarrelloData {
@@ -90,6 +91,13 @@ export default function CarrelloPage() {
           <div className="text-xs text-gray-400 mt-1">extra a famiglia per l&apos;inflazione</div>
         </div>
       </div>
+
+      {/* GRAFICI */}
+      <CarrelloChart
+        categorie={data.categorie}
+        storico={data.storico}
+        inflazioneMedia={data.inflazione.totale}
+      />
 
       {/* CATEGORIE — più care e più stabili */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">

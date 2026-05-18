@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
 import type { Metadata } from "next";
+import FarmaciChart from "../components/FarmaciChart";
 
 interface PrincipioAttivo {
   slug: string;
@@ -99,6 +100,11 @@ export default function FarmaciPage() {
           <div className="text-xs text-blue-700">Stessa qualità, stesso principio attivo, prezzo fino al 60% inferiore. Il farmacista è obbligato a proporlo</div>
         </div>
       </div>
+
+      {/* GRAFICO CATEGORIE */}
+      <FarmaciChart
+        perCategoria={Object.entries(perCategoria).map(([nome, items]) => ({ nome, count: items.length }))}
+      />
 
       {/* LISTA PRINCIPI ATTIVI */}
       {Object.entries(perCategoria).map(([categoria, items]) => (

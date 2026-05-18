@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
 import type { Metadata } from "next";
+import AriaChart from "../components/AriaChart";
 
 interface CittaIndex {
   slug: string;
@@ -107,6 +108,9 @@ export default function QualitaAriaPage() {
           <div className="text-xs text-gray-400 mt-1">Moderata o peggio</div>
         </div>
       </div>
+
+      {/* GRAFICI AQI */}
+      <AriaChart citta={data.citta} />
 
       {/* TOP / BOTTOM */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">

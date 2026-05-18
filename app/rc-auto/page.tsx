@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import type { Metadata } from "next";
 import Link from "next/link";
+import RcAutoChart from "../components/RcAutoChart";
 
 interface ProvinciaIndex {
   slug: string;
@@ -72,7 +73,8 @@ export default function RcAutoPage() {
       <div className="mb-6">
         <h1 className="text-3xl font-bold text-gray-900 mb-1">RC Auto per Provincia</h1>
         <p className="text-sm text-gray-500">
-          Premio medio annuo · Dati <strong className="text-gray-700">{data.anno}</strong> · {data.n_province} province · Fonte{" "}
+          Premio medio annuo · Ultimo rilevamento disponibile IVASS:{" "}
+          <strong className="text-gray-700">{data.anno}</strong> · {data.n_province} province · Fonte{" "}
           <a href="https://www.ivass.it/pubblicazioni-e-statistiche/statistiche/rc-auto/" target="_blank" rel="noopener noreferrer" className="text-green-700 underline">IVASS</a>
         </p>
       </div>
@@ -85,10 +87,17 @@ export default function RcAutoPage() {
             €{data.media_nazionale}
             <span className="text-base font-normal text-gray-400 ml-1">/anno</span>
           </div>
-          <p className="text-xs text-gray-400 mt-1">Premio medio RC Auto — {data.anno}</p>
+          <p className="text-xs text-gray-400 mt-1">Premio medio RC Auto — dati IVASS {data.anno}</p>
         </div>
         <span className="text-5xl">🚗</span>
       </div>
+
+      {/* GRAFICI */}
+      <RcAutoChart
+        piuCare={piuCare}
+        piuEco={piuEco}
+        mediaNazionale={data.media_nazionale}
+      />
 
       {/* TOP / BOTTOM */}
       <div className="grid md:grid-cols-2 gap-6 mb-8">

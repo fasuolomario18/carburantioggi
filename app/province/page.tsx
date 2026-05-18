@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
 import type { Metadata } from "next";
+import ProvinceChart from "../components/ProvinceChart";
 
 export const metadata: Metadata = {
   title: "Prezzi Carburanti per Provincia",
@@ -34,10 +35,29 @@ export default function ProvincePage() {
     perRegione[p.regione].push(p);
   }
 
+  const conBenzina = lista
+    .filter((p) => p.prezzi?.benzina?.self_media != null)
+    .map((p) => ({
+      nome: p.nome,
+      sigla: p.sigla,
+      regione: p.regione,
+      benzina: p.prezzi.benzina.self_media as number,
+    }));
+  const sortedBenzina = [...conBenzina].sort((a, b) => b.benzina - a.benzina);
+  const top10 = sortedBenzina.slice(0, 10);
+  const bottom10 = [...sortedBenzina].reverse().slice(0, 10).reverse();
+  const mediaNazionale = conBenzina.length > 0
+    ? conBenzina.reduce((s, p) => s + p.benzina, 0) / conBenzina.length
+    : 0;
+
   return (
     <div>
       <h1 className="text-3xl font-bold mb-2">Prezzi Carburanti per Provincia</h1>
-      <p className="text-gray-500 mb-8">Tutte le province italiane con prezzi medi aggiornati quotidianamente.</p>
+      <p className="text-gray-500 mb-6">Tutte le province italiane con prezzi medi aggiornati quotidianamente.</p>
+
+      {conBenzina.length > 0 && (
+        <ProvinceChart top10={top10} bottom10={bottom10} mediaNazionale={mediaNazionale} />
+      )}
 
       {Object.entries(perRegione).sort(([a], [b]) => a.localeCompare(b)).map(([regione, prov]) => (
         <section key={regione} className="mb-8">
