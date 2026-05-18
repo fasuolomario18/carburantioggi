@@ -29,6 +29,7 @@ function loadJSON<T>(filename: string): T | null {
 export const metadata: Metadata = {
   title: "Qualità dell'Aria in Italia — Indice AQI per Città",
   description: "Qualità dell'aria aggiornata oggi per tutti i capoluoghi italiani. Indice AQI europeo, PM2.5, PM10, NO2, Ozono. Dati Copernicus CAMS in tempo reale.",
+  alternates: { canonical: "/qualita-aria" },
 };
 
 const AQI_BADGE: Record<string, string> = {

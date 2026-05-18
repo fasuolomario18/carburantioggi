@@ -38,6 +38,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${p.nome} — Prezzi e Farmaci Equivalenti`,
     description: `Prezzi di ${p.nome} in farmacia. ${p.n_farmaci} farmaci disponibili. Da €${p.prezzo_min?.toFixed(2) ?? "—"}. ${p.ha_rimborsato ? "Rimborsato dal SSN." : "Fascia C."} Dati AIFA aggiornati.`,
+    alternates: { canonical: `/farmaci/${slug}` },
   };
 }
 

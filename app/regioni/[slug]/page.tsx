@@ -43,6 +43,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Prezzi Carburanti ${r.nome}`,
     description: `Prezzi benzina e gasolio in ${r.nome} aggiornati oggi. ${benzina ? `Benzina self media: €${benzina.toFixed(3)}.` : ""} Dati MIMIT ufficiali.`,
+    alternates: { canonical: `/regioni/${slug}` },
   };
 }
 

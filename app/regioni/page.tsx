@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Prezzi Carburanti per Regione",
   description: "Confronta i prezzi di benzina e gasolio in tutte le regioni italiane. Dati aggiornati ogni giorno.",
+  alternates: { canonical: "/regioni" },
 };
 
 interface RegioneSummary {

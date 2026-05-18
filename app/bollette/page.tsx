@@ -51,6 +51,7 @@ function fmtVar(v: number) {
 export const metadata: Metadata = {
   title: "Prezzi Bollette Luce e Gas in Italia Oggi",
   description: "Prezzi luce e gas aggiornati per il trimestre corrente. Dati ARERA ufficiali. Stima bolletta annua, storico prezzi, consigli per risparmiare.",
+  alternates: { canonical: "/bollette" },
 };
 
 export default function BollettePage() {

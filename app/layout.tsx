@@ -6,6 +6,7 @@ import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.prezzioggi.com"),
   title: {
     default: "PrezziOggi.com — Prezzi Carburanti, Case, Farmaci e Bollette in Italia",
     template: "%s | PrezziOggi.com",
@@ -15,6 +16,7 @@ export const metadata: Metadata = {
   openGraph: { siteName: "PrezziOggi.com", locale: "it_IT", type: "website" },
   robots: { index: true, follow: true },
   verification: { google: "AyzBR1jWyyFosK3O037m2FQbET7tzuHCAO2G1o-Mcrc" },
+  alternates: { canonical: "/" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

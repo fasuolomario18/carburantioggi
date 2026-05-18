@@ -27,6 +27,7 @@ function loadJSON<T>(filename: string): T | null {
 export const metadata: Metadata = {
   title: "Prezzi Case e Affitti per Comune — Dati OMI Italia",
   description: "Prezzi di vendita e affitto immobili per tutti i comuni italiani. Dati ufficiali OMI — Agenzia delle Entrate. Aggiornati ogni semestre.",
+  alternates: { canonical: "/case" },
 };
 
 const REGIONI_ORDINE = [

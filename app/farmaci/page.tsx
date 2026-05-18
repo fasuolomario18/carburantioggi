@@ -27,6 +27,7 @@ function loadJSON<T>(filename: string): T | null {
 export const metadata: Metadata = {
   title: "Prezzi Farmaci in Italia — Equivalenti e Branded",
   description: "Confronta i prezzi dei farmaci italiani per principio attivo. Dati ufficiali AIFA aggiornati. Trova il farmaco equivalente più conveniente.",
+  alternates: { canonical: "/farmaci" },
 };
 
 const CATEGORIE_ICONE: Record<string, string> = {

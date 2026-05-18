@@ -6,6 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Prezzi Carburanti per Provincia",
   description: "Confronta i prezzi benzina, gasolio, GPL e metano in tutte le province italiane. Aggiornati ogni giorno.",
+  alternates: { canonical: "/province" },
 };
 
 interface ProvinceSummary {

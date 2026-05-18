@@ -99,6 +99,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Qualità dell'Aria ${c.nome} (${c.sigla}) — AQI ${c.aqi} Oggi`,
     description: `Qualità dell'aria a ${c.nome} oggi: indice AQI ${c.aqi} (${c.aqi_categoria}). PM2.5: ${c.pollutanti.pm25?.valore ?? "—"} µg/m³, PM10: ${c.pollutanti.pm10?.valore ?? "—"} µg/m³, NO₂: ${c.pollutanti.no2?.valore ?? "—"} µg/m³. Dati CAMS Copernicus.`,
+    alternates: { canonical: `/qualita-aria/${slug}` },
   };
 }
 

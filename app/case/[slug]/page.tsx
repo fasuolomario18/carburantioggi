@@ -40,6 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Prezzi Case e Affitti ${c.nome} — Dati OMI ${c.aggiornato}`,
     description: `Prezzi immobili a ${c.nome} (${c.provincia}): da €${c.residenziale_min.toLocaleString("it-IT")}/m² a €${c.residenziale_max.toLocaleString("it-IT")}/m². Affitti da €${c.affitto_media}/m²/mese. Dati OMI ufficiali.`,
+    alternates: { canonical: `/case/${slug}` },
   };
 }
 

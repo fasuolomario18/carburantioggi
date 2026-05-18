@@ -52,6 +52,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `Prezzi Benzina ${p.nome} (${p.sigla}) Oggi`,
     description: `Prezzi benzina e gasolio a ${p.nome} aggiornati oggi. ${benzina ? `Benzina self: €${benzina.toFixed(3)}` : ""}${gasolio ? ` · Gasolio self: €${gasolio.toFixed(3)}` : ""}. Fonte MIMIT.`,
+    alternates: { canonical: `/province/${slug}` },
   };
 }
 
