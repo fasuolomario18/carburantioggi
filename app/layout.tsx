@@ -85,6 +85,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <p className="mt-1">Gestito da <strong>PlasmaCompany</strong> · <a href="mailto:info@plasmacompany.net" className="underline hover:text-green-700">info@plasmacompany.net</a></p>
               </div>
               <div className="flex flex-col gap-1 text-right">
+                <Link href="/chi-siamo" className="hover:text-green-700 hover:underline">Chi siamo</Link>
                 <Link href="/privacy" className="hover:text-green-700 hover:underline">Privacy Policy</Link>
                 <Link href="/cookie" className="hover:text-green-700 hover:underline">Cookie Policy</Link>
                 <Link href="/contatti" className="hover:text-green-700 hover:underline">Contatti</Link>
