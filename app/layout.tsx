@@ -64,6 +64,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <Link href="/case" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">🏠 Case</Link>
                 <Link href="/bollette" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors">⚡ Bollette</Link>
                 <Link href="/farmaci" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors hidden lg:block">💊 Farmaci</Link>
+                <Link href="/rc-auto" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors hidden xl:block">🚗 RC Auto</Link>
+                <Link href="/mutui" className="px-3 py-1.5 rounded-lg hover:bg-gray-100 hover:text-green-700 transition-colors hidden xl:block">🏠 Mutui</Link>
               </nav>
             </div>
           </div>

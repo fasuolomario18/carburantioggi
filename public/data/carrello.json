@@ -1,0 +1,139 @@
+{
+  "aggiornato": "2026-05-18T13:08:52.898Z",
+  "periodo": "aprile 2026",
+  "fonte": "ISTAT — Indice NIC (prezzi al consumo per l'intera collettività)",
+  "fonte_url": "https://www.istat.it/it/prezzi/prezzi-al-consumo",
+  "note": "Variazioni percentuali su base annua (aprile 2026 su aprile 2025). Dati definitivi ISTAT.",
+  "inflazione": {
+    "totale": 1.4,
+    "tendenziale_mensile": 0.2,
+    "descrizione": "Variazione % annua NIC (indice generale)"
+  },
+  "categorie": [
+    {
+      "nome": "Alimentari e bevande analcoliche",
+      "var_annua": 1.9,
+      "var_mensile": 0.3,
+      "icona": "🛒"
+    },
+    {
+      "nome": "Pane e cereali",
+      "var_annua": 2.1,
+      "var_mensile": 0.2,
+      "icona": "🍞"
+    },
+    {
+      "nome": "Carne",
+      "var_annua": 1.3,
+      "var_mensile": 0.1,
+      "icona": "🥩"
+    },
+    {
+      "nome": "Pesce e prodotti ittici",
+      "var_annua": 2.4,
+      "var_mensile": 0.4,
+      "icona": "🐟"
+    },
+    {
+      "nome": "Latte, formaggi e uova",
+      "var_annua": 0.9,
+      "var_mensile": -0.1,
+      "icona": "🧀"
+    },
+    {
+      "nome": "Oli e grassi",
+      "var_annua": 3.1,
+      "var_mensile": 0.5,
+      "icona": "🫙"
+    },
+    {
+      "nome": "Frutta",
+      "var_annua": 1.6,
+      "var_mensile": 0.3,
+      "icona": "🍎"
+    },
+    {
+      "nome": "Verdura",
+      "var_annua": 2.7,
+      "var_mensile": 0.6,
+      "icona": "🥦"
+    },
+    {
+      "nome": "Zucchero, marmellate e miele",
+      "var_annua": 0.4,
+      "var_mensile": 0,
+      "icona": "🍯"
+    },
+    {
+      "nome": "Caffè, tè e cacao",
+      "var_annua": 3.5,
+      "var_mensile": 0.3,
+      "icona": "☕"
+    },
+    {
+      "nome": "Bevande analcoliche",
+      "var_annua": 1.8,
+      "var_mensile": 0.2,
+      "icona": "🧃"
+    }
+  ],
+  "storico": [
+    {
+      "periodo": "apr 2025",
+      "inflazione": 1.8
+    },
+    {
+      "periodo": "mag 2025",
+      "inflazione": 1.6
+    },
+    {
+      "periodo": "giu 2025",
+      "inflazione": 1.7
+    },
+    {
+      "periodo": "lug 2025",
+      "inflazione": 1.5
+    },
+    {
+      "periodo": "ago 2025",
+      "inflazione": 1.3
+    },
+    {
+      "periodo": "set 2025",
+      "inflazione": 1.4
+    },
+    {
+      "periodo": "ott 2025",
+      "inflazione": 1.5
+    },
+    {
+      "periodo": "nov 2025",
+      "inflazione": 1.3
+    },
+    {
+      "periodo": "dic 2025",
+      "inflazione": 1.4
+    },
+    {
+      "periodo": "gen 2026",
+      "inflazione": 1.5
+    },
+    {
+      "periodo": "feb 2026",
+      "inflazione": 1.4
+    },
+    {
+      "periodo": "mar 2026",
+      "inflazione": 1.3
+    },
+    {
+      "periodo": "apr 2026",
+      "inflazione": 1.4
+    }
+  ],
+  "spesa_media_famiglia": {
+    "mensile": 612,
+    "annuale": 7344,
+    "note": "Spesa media mensile famiglia italiana (ISTAT 2024, 2,3 componenti)"
+  }
+}

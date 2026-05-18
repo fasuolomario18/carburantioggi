@@ -28,6 +28,14 @@ jobs:
         if: github.event.schedule == '0 6 1 * *' || github.event_name == 'workflow_dispatch'
         run: node scripts/fetch-farmaci.mjs
 
+      - name: Fetch mutui (Banca d'Italia) — solo il 1° del mese
+        if: github.event.schedule == '0 6 1 * *' || github.event_name == 'workflow_dispatch'
+        run: node scripts/fetch-mutui.mjs
+
+      - name: Fetch carrello della spesa (ISTAT) — solo il 1° del mese
+        if: github.event.schedule == '0 6 1 * *' || github.event_name == 'workflow_dispatch'
+        run: node scripts/fetch-carrello.mjs
+
       - name: Fetch prezzi case (OMI) — solo workflow_dispatch manuale
         if: github.event_name == 'workflow_dispatch'
         run: node scripts/fetch-case.mjs

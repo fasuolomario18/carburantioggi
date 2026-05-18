@@ -1,0 +1,985 @@
+{
+  "aggiornato": "2026-05-18T13:08:52.665Z",
+  "anno": 2024,
+  "media_nazionale": 470,
+  "n_province": 107,
+  "province": [
+    {
+      "slug": "agrigento",
+      "nome": "Agrigento",
+      "sigla": "AG",
+      "regione": "Sicilia",
+      "premio": 492,
+      "var_annua": -2.1,
+      "vs_media": 4.7
+    },
+    {
+      "slug": "alessandria",
+      "nome": "Alessandria",
+      "sigla": "AL",
+      "regione": "Piemonte",
+      "premio": 371,
+      "var_annua": -1.8,
+      "vs_media": -21.1
+    },
+    {
+      "slug": "ancona",
+      "nome": "Ancona",
+      "sigla": "AN",
+      "regione": "Marche",
+      "premio": 356,
+      "var_annua": -1.5,
+      "vs_media": -24.3
+    },
+    {
+      "slug": "aosta",
+      "nome": "Aosta",
+      "sigla": "AO",
+      "regione": "Valle d'Aosta",
+      "premio": 286,
+      "var_annua": -1.2,
+      "vs_media": -39.1
+    },
+    {
+      "slug": "arezzo",
+      "nome": "Arezzo",
+      "sigla": "AR",
+      "regione": "Toscana",
+      "premio": 341,
+      "var_annua": -1.9,
+      "vs_media": -27.4
+    },
+    {
+      "slug": "ascoli-piceno",
+      "nome": "Ascoli Piceno",
+      "sigla": "AP",
+      "regione": "Marche",
+      "premio": 346,
+      "var_annua": -1.7,
+      "vs_media": -26.4
+    },
+    {
+      "slug": "asti",
+      "nome": "Asti",
+      "sigla": "AT",
+      "regione": "Piemonte",
+      "premio": 361,
+      "var_annua": -1.6,
+      "vs_media": -23.2
+    },
+    {
+      "slug": "avellino",
+      "nome": "Avellino",
+      "sigla": "AV",
+      "regione": "Campania",
+      "premio": 572,
+      "var_annua": -3.2,
+      "vs_media": 21.7
+    },
+    {
+      "slug": "bari",
+      "nome": "Bari",
+      "sigla": "BA",
+      "regione": "Puglia",
+      "premio": 498,
+      "var_annua": -2.8,
+      "vs_media": 6
+    },
+    {
+      "slug": "barletta",
+      "nome": "Barletta",
+      "sigla": "BT",
+      "regione": "Puglia",
+      "premio": 481,
+      "var_annua": -2.5,
+      "vs_media": 2.3
+    },
+    {
+      "slug": "belluno",
+      "nome": "Belluno",
+      "sigla": "BL",
+      "regione": "Veneto",
+      "premio": 307,
+      "var_annua": -1.1,
+      "vs_media": -34.7
+    },
+    {
+      "slug": "benevento",
+      "nome": "Benevento",
+      "sigla": "BN",
+      "regione": "Campania",
+      "premio": 548,
+      "var_annua": -3,
+      "vs_media": 16.6
+    },
+    {
+      "slug": "bergamo",
+      "nome": "Bergamo",
+      "sigla": "BG",
+      "regione": "Lombardia",
+      "premio": 382,
+      "var_annua": -1.4,
+      "vs_media": -18.7
+    },
+    {
+      "slug": "biella",
+      "nome": "Biella",
+      "sigla": "BI",
+      "regione": "Piemonte",
+      "premio": 347,
+      "var_annua": -1.5,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "bologna",
+      "nome": "Bologna",
+      "sigla": "BO",
+      "regione": "Emilia-Romagna",
+      "premio": 362,
+      "var_annua": -1.3,
+      "vs_media": -23
+    },
+    {
+      "slug": "bolzano",
+      "nome": "Bolzano",
+      "sigla": "BZ",
+      "regione": "Trentino-Alto Adige",
+      "premio": 296,
+      "var_annua": -0.9,
+      "vs_media": -37
+    },
+    {
+      "slug": "brescia",
+      "nome": "Brescia",
+      "sigla": "BS",
+      "regione": "Lombardia",
+      "premio": 387,
+      "var_annua": -1.3,
+      "vs_media": -17.7
+    },
+    {
+      "slug": "brindisi",
+      "nome": "Brindisi",
+      "sigla": "BR",
+      "regione": "Puglia",
+      "premio": 478,
+      "var_annua": -2.6,
+      "vs_media": 1.7
+    },
+    {
+      "slug": "cagliari",
+      "nome": "Cagliari",
+      "sigla": "CA",
+      "regione": "Sardegna",
+      "premio": 447,
+      "var_annua": -2.2,
+      "vs_media": -4.9
+    },
+    {
+      "slug": "caltanissetta",
+      "nome": "Caltanissetta",
+      "sigla": "CL",
+      "regione": "Sicilia",
+      "premio": 476,
+      "var_annua": -2.3,
+      "vs_media": 1.3
+    },
+    {
+      "slug": "campobasso",
+      "nome": "Campobasso",
+      "sigla": "CB",
+      "regione": "Molise",
+      "premio": 483,
+      "var_annua": -2,
+      "vs_media": 2.8
+    },
+    {
+      "slug": "caserta",
+      "nome": "Caserta",
+      "sigla": "CE",
+      "regione": "Campania",
+      "premio": 688,
+      "var_annua": -3.5,
+      "vs_media": 46.4
+    },
+    {
+      "slug": "catania",
+      "nome": "Catania",
+      "sigla": "CT",
+      "regione": "Sicilia",
+      "premio": 513,
+      "var_annua": -2.7,
+      "vs_media": 9.1
+    },
+    {
+      "slug": "catanzaro",
+      "nome": "Catanzaro",
+      "sigla": "CZ",
+      "regione": "Calabria",
+      "premio": 548,
+      "var_annua": -2.9,
+      "vs_media": 16.6
+    },
+    {
+      "slug": "chieti",
+      "nome": "Chieti",
+      "sigla": "CH",
+      "regione": "Abruzzo",
+      "premio": 432,
+      "var_annua": -1.8,
+      "vs_media": -8.1
+    },
+    {
+      "slug": "como",
+      "nome": "Como",
+      "sigla": "CO",
+      "regione": "Lombardia",
+      "premio": 377,
+      "var_annua": -1.3,
+      "vs_media": -19.8
+    },
+    {
+      "slug": "cosenza",
+      "nome": "Cosenza",
+      "sigla": "CS",
+      "regione": "Calabria",
+      "premio": 533,
+      "var_annua": -2.8,
+      "vs_media": 13.4
+    },
+    {
+      "slug": "cremona",
+      "nome": "Cremona",
+      "sigla": "CR",
+      "regione": "Lombardia",
+      "premio": 367,
+      "var_annua": -1.2,
+      "vs_media": -21.9
+    },
+    {
+      "slug": "crotone",
+      "nome": "Crotone",
+      "sigla": "KR",
+      "regione": "Calabria",
+      "premio": 523,
+      "var_annua": -2.6,
+      "vs_media": 11.3
+    },
+    {
+      "slug": "cuneo",
+      "nome": "Cuneo",
+      "sigla": "CN",
+      "regione": "Piemonte",
+      "premio": 316,
+      "var_annua": -1.1,
+      "vs_media": -32.8
+    },
+    {
+      "slug": "enna",
+      "nome": "Enna",
+      "sigla": "EN",
+      "regione": "Sicilia",
+      "premio": 462,
+      "var_annua": -2.1,
+      "vs_media": -1.7
+    },
+    {
+      "slug": "fermo",
+      "nome": "Fermo",
+      "sigla": "FM",
+      "regione": "Marche",
+      "premio": 351,
+      "var_annua": -1.6,
+      "vs_media": -25.3
+    },
+    {
+      "slug": "ferrara",
+      "nome": "Ferrara",
+      "sigla": "FE",
+      "regione": "Emilia-Romagna",
+      "premio": 352,
+      "var_annua": -1.4,
+      "vs_media": -25.1
+    },
+    {
+      "slug": "firenze",
+      "nome": "Firenze",
+      "sigla": "FI",
+      "regione": "Toscana",
+      "premio": 372,
+      "var_annua": -1.7,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "foggia",
+      "nome": "Foggia",
+      "sigla": "FG",
+      "regione": "Puglia",
+      "premio": 512,
+      "var_annua": -2.9,
+      "vs_media": 8.9
+    },
+    {
+      "slug": "forli",
+      "nome": "Forlì",
+      "sigla": "FC",
+      "regione": "Emilia-Romagna",
+      "premio": 347,
+      "var_annua": -1.3,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "frosinone",
+      "nome": "Frosinone",
+      "sigla": "FR",
+      "regione": "Lazio",
+      "premio": 483,
+      "var_annua": -2.2,
+      "vs_media": 2.8
+    },
+    {
+      "slug": "genova",
+      "nome": "Genova",
+      "sigla": "GE",
+      "regione": "Liguria",
+      "premio": 392,
+      "var_annua": -1.5,
+      "vs_media": -16.6
+    },
+    {
+      "slug": "gorizia",
+      "nome": "Gorizia",
+      "sigla": "GO",
+      "regione": "Friuli-Venezia Giulia",
+      "premio": 301,
+      "var_annua": -1,
+      "vs_media": -36
+    },
+    {
+      "slug": "grosseto",
+      "nome": "Grosseto",
+      "sigla": "GR",
+      "regione": "Toscana",
+      "premio": 342,
+      "var_annua": -1.8,
+      "vs_media": -27.2
+    },
+    {
+      "slug": "imperia",
+      "nome": "Imperia",
+      "sigla": "IM",
+      "regione": "Liguria",
+      "premio": 362,
+      "var_annua": -1.4,
+      "vs_media": -23
+    },
+    {
+      "slug": "isernia",
+      "nome": "Isernia",
+      "sigla": "IS",
+      "regione": "Molise",
+      "premio": 462,
+      "var_annua": -1.9,
+      "vs_media": -1.7
+    },
+    {
+      "slug": "l-aquila",
+      "nome": "L'Aquila",
+      "sigla": "AQ",
+      "regione": "Abruzzo",
+      "premio": 392,
+      "var_annua": -1.7,
+      "vs_media": -16.6
+    },
+    {
+      "slug": "la-spezia",
+      "nome": "La Spezia",
+      "sigla": "SP",
+      "regione": "Liguria",
+      "premio": 372,
+      "var_annua": -1.4,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "latina",
+      "nome": "Latina",
+      "sigla": "LT",
+      "regione": "Lazio",
+      "premio": 483,
+      "var_annua": -2.1,
+      "vs_media": 2.8
+    },
+    {
+      "slug": "lecce",
+      "nome": "Lecce",
+      "sigla": "LE",
+      "regione": "Puglia",
+      "premio": 468,
+      "var_annua": -2.4,
+      "vs_media": -0.4
+    },
+    {
+      "slug": "lecco",
+      "nome": "Lecco",
+      "sigla": "LC",
+      "regione": "Lombardia",
+      "premio": 372,
+      "var_annua": -1.3,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "livorno",
+      "nome": "Livorno",
+      "sigla": "LI",
+      "regione": "Toscana",
+      "premio": 372,
+      "var_annua": -1.6,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "lodi",
+      "nome": "Lodi",
+      "sigla": "LO",
+      "regione": "Lombardia",
+      "premio": 372,
+      "var_annua": -1.2,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "lucca",
+      "nome": "Lucca",
+      "sigla": "LU",
+      "regione": "Toscana",
+      "premio": 357,
+      "var_annua": -1.7,
+      "vs_media": -24
+    },
+    {
+      "slug": "macerata",
+      "nome": "Macerata",
+      "sigla": "MC",
+      "regione": "Marche",
+      "premio": 347,
+      "var_annua": -1.6,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "mantova",
+      "nome": "Mantova",
+      "sigla": "MN",
+      "regione": "Lombardia",
+      "premio": 357,
+      "var_annua": -1.2,
+      "vs_media": -24
+    },
+    {
+      "slug": "massa",
+      "nome": "Massa",
+      "sigla": "MS",
+      "regione": "Toscana",
+      "premio": 357,
+      "var_annua": -1.7,
+      "vs_media": -24
+    },
+    {
+      "slug": "matera",
+      "nome": "Matera",
+      "sigla": "MT",
+      "regione": "Basilicata",
+      "premio": 492,
+      "var_annua": -2.1,
+      "vs_media": 4.7
+    },
+    {
+      "slug": "messina",
+      "nome": "Messina",
+      "sigla": "ME",
+      "regione": "Sicilia",
+      "premio": 533,
+      "var_annua": -2.8,
+      "vs_media": 13.4
+    },
+    {
+      "slug": "milano",
+      "nome": "Milano",
+      "sigla": "MI",
+      "regione": "Lombardia",
+      "premio": 448,
+      "var_annua": -1.4,
+      "vs_media": -4.7
+    },
+    {
+      "slug": "modena",
+      "nome": "Modena",
+      "sigla": "MO",
+      "regione": "Emilia-Romagna",
+      "premio": 367,
+      "var_annua": -1.3,
+      "vs_media": -21.9
+    },
+    {
+      "slug": "monza",
+      "nome": "Monza",
+      "sigla": "MB",
+      "regione": "Lombardia",
+      "premio": 437,
+      "var_annua": -1.4,
+      "vs_media": -7
+    },
+    {
+      "slug": "napoli",
+      "nome": "Napoli",
+      "sigla": "NA",
+      "regione": "Campania",
+      "premio": 828,
+      "var_annua": -3.8,
+      "vs_media": 76.2
+    },
+    {
+      "slug": "novara",
+      "nome": "Novara",
+      "sigla": "NO",
+      "regione": "Piemonte",
+      "premio": 362,
+      "var_annua": -1.5,
+      "vs_media": -23
+    },
+    {
+      "slug": "nuoro",
+      "nome": "Nuoro",
+      "sigla": "NU",
+      "regione": "Sardegna",
+      "premio": 413,
+      "var_annua": -2,
+      "vs_media": -12.1
+    },
+    {
+      "slug": "oristano",
+      "nome": "Oristano",
+      "sigla": "OR",
+      "regione": "Sardegna",
+      "premio": 412,
+      "var_annua": -2,
+      "vs_media": -12.3
+    },
+    {
+      "slug": "padova",
+      "nome": "Padova",
+      "sigla": "PD",
+      "regione": "Veneto",
+      "premio": 372,
+      "var_annua": -1.3,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "palermo",
+      "nome": "Palermo",
+      "sigla": "PA",
+      "regione": "Sicilia",
+      "premio": 558,
+      "var_annua": -3,
+      "vs_media": 18.7
+    },
+    {
+      "slug": "parma",
+      "nome": "Parma",
+      "sigla": "PR",
+      "regione": "Emilia-Romagna",
+      "premio": 357,
+      "var_annua": -1.3,
+      "vs_media": -24
+    },
+    {
+      "slug": "pavia",
+      "nome": "Pavia",
+      "sigla": "PV",
+      "regione": "Lombardia",
+      "premio": 377,
+      "var_annua": -1.3,
+      "vs_media": -19.8
+    },
+    {
+      "slug": "perugia",
+      "nome": "Perugia",
+      "sigla": "PG",
+      "regione": "Umbria",
+      "premio": 367,
+      "var_annua": -1.6,
+      "vs_media": -21.9
+    },
+    {
+      "slug": "pesaro",
+      "nome": "Pesaro",
+      "sigla": "PU",
+      "regione": "Marche",
+      "premio": 347,
+      "var_annua": -1.5,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "pescara",
+      "nome": "Pescara",
+      "sigla": "PE",
+      "regione": "Abruzzo",
+      "premio": 432,
+      "var_annua": -1.8,
+      "vs_media": -8.1
+    },
+    {
+      "slug": "piacenza",
+      "nome": "Piacenza",
+      "sigla": "PC",
+      "regione": "Emilia-Romagna",
+      "premio": 357,
+      "var_annua": -1.2,
+      "vs_media": -24
+    },
+    {
+      "slug": "pisa",
+      "nome": "Pisa",
+      "sigla": "PI",
+      "regione": "Toscana",
+      "premio": 362,
+      "var_annua": -1.7,
+      "vs_media": -23
+    },
+    {
+      "slug": "pistoia",
+      "nome": "Pistoia",
+      "sigla": "PT",
+      "regione": "Toscana",
+      "premio": 362,
+      "var_annua": -1.7,
+      "vs_media": -23
+    },
+    {
+      "slug": "pordenone",
+      "nome": "Pordenone",
+      "sigla": "PN",
+      "regione": "Friuli-Venezia Giulia",
+      "premio": 307,
+      "var_annua": -1,
+      "vs_media": -34.7
+    },
+    {
+      "slug": "potenza",
+      "nome": "Potenza",
+      "sigla": "PZ",
+      "regione": "Basilicata",
+      "premio": 487,
+      "var_annua": -2,
+      "vs_media": 3.6
+    },
+    {
+      "slug": "prato",
+      "nome": "Prato",
+      "sigla": "PO",
+      "regione": "Toscana",
+      "premio": 372,
+      "var_annua": -1.7,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "ragusa",
+      "nome": "Ragusa",
+      "sigla": "RG",
+      "regione": "Sicilia",
+      "premio": 483,
+      "var_annua": -2.4,
+      "vs_media": 2.8
+    },
+    {
+      "slug": "ravenna",
+      "nome": "Ravenna",
+      "sigla": "RA",
+      "regione": "Emilia-Romagna",
+      "premio": 347,
+      "var_annua": -1.3,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "reggio-calabria",
+      "nome": "Reggio Calabria",
+      "sigla": "RC",
+      "regione": "Calabria",
+      "premio": 558,
+      "var_annua": -3.1,
+      "vs_media": 18.7
+    },
+    {
+      "slug": "reggio-emilia",
+      "nome": "Reggio Emilia",
+      "sigla": "RE",
+      "regione": "Emilia-Romagna",
+      "premio": 362,
+      "var_annua": -1.2,
+      "vs_media": -23
+    },
+    {
+      "slug": "rieti",
+      "nome": "Rieti",
+      "sigla": "RI",
+      "regione": "Lazio",
+      "premio": 432,
+      "var_annua": -1.9,
+      "vs_media": -8.1
+    },
+    {
+      "slug": "rimini",
+      "nome": "Rimini",
+      "sigla": "RN",
+      "regione": "Emilia-Romagna",
+      "premio": 347,
+      "var_annua": -1.3,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "roma",
+      "nome": "Roma",
+      "sigla": "RM",
+      "regione": "Lazio",
+      "premio": 493,
+      "var_annua": -2.3,
+      "vs_media": 4.9
+    },
+    {
+      "slug": "rovigo",
+      "nome": "Rovigo",
+      "sigla": "RO",
+      "regione": "Veneto",
+      "premio": 342,
+      "var_annua": -1.3,
+      "vs_media": -27.2
+    },
+    {
+      "slug": "salerno",
+      "nome": "Salerno",
+      "sigla": "SA",
+      "regione": "Campania",
+      "premio": 593,
+      "var_annua": -3.3,
+      "vs_media": 26.2
+    },
+    {
+      "slug": "sassari",
+      "nome": "Sassari",
+      "sigla": "SS",
+      "regione": "Sardegna",
+      "premio": 418,
+      "var_annua": -2.1,
+      "vs_media": -11.1
+    },
+    {
+      "slug": "savona",
+      "nome": "Savona",
+      "sigla": "SV",
+      "regione": "Liguria",
+      "premio": 372,
+      "var_annua": -1.4,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "siena",
+      "nome": "Siena",
+      "sigla": "SI",
+      "regione": "Toscana",
+      "premio": 347,
+      "var_annua": -1.8,
+      "vs_media": -26.2
+    },
+    {
+      "slug": "siracusa",
+      "nome": "Siracusa",
+      "sigla": "SR",
+      "regione": "Sicilia",
+      "premio": 492,
+      "var_annua": -2.5,
+      "vs_media": 4.7
+    },
+    {
+      "slug": "sondrio",
+      "nome": "Sondrio",
+      "sigla": "SO",
+      "regione": "Lombardia",
+      "premio": 307,
+      "var_annua": -1.1,
+      "vs_media": -34.7
+    },
+    {
+      "slug": "carbonia",
+      "nome": "Sud Sardegna",
+      "sigla": "SU",
+      "regione": "Sardegna",
+      "premio": 418,
+      "var_annua": -2.1,
+      "vs_media": -11.1
+    },
+    {
+      "slug": "taranto",
+      "nome": "Taranto",
+      "sigla": "TA",
+      "regione": "Puglia",
+      "premio": 488,
+      "var_annua": -2.6,
+      "vs_media": 3.8
+    },
+    {
+      "slug": "teramo",
+      "nome": "Teramo",
+      "sigla": "TE",
+      "regione": "Abruzzo",
+      "premio": 428,
+      "var_annua": -1.8,
+      "vs_media": -8.9
+    },
+    {
+      "slug": "terni",
+      "nome": "Terni",
+      "sigla": "TR",
+      "regione": "Umbria",
+      "premio": 372,
+      "var_annua": -1.7,
+      "vs_media": -20.9
+    },
+    {
+      "slug": "torino",
+      "nome": "Torino",
+      "sigla": "TO",
+      "regione": "Piemonte",
+      "premio": 402,
+      "var_annua": -1.7,
+      "vs_media": -14.5
+    },
+    {
+      "slug": "trapani",
+      "nome": "Trapani",
+      "sigla": "TP",
+      "regione": "Sicilia",
+      "premio": 508,
+      "var_annua": -2.6,
+      "vs_media": 8.1
+    },
+    {
+      "slug": "trento",
+      "nome": "Trento",
+      "sigla": "TN",
+      "regione": "Trentino-Alto Adige",
+      "premio": 301,
+      "var_annua": -0.9,
+      "vs_media": -36
+    },
+    {
+      "slug": "treviso",
+      "nome": "Treviso",
+      "sigla": "TV",
+      "regione": "Veneto",
+      "premio": 342,
+      "var_annua": -1.2,
+      "vs_media": -27.2
+    },
+    {
+      "slug": "trieste",
+      "nome": "Trieste",
+      "sigla": "TS",
+      "regione": "Friuli-Venezia Giulia",
+      "premio": 332,
+      "var_annua": -1,
+      "vs_media": -29.4
+    },
+    {
+      "slug": "udine",
+      "nome": "Udine",
+      "sigla": "UD",
+      "regione": "Friuli-Venezia Giulia",
+      "premio": 307,
+      "var_annua": -1,
+      "vs_media": -34.7
+    },
+    {
+      "slug": "varese",
+      "nome": "Varese",
+      "sigla": "VA",
+      "regione": "Lombardia",
+      "premio": 377,
+      "var_annua": -1.3,
+      "vs_media": -19.8
+    },
+    {
+      "slug": "venezia",
+      "nome": "Venezia",
+      "sigla": "VE",
+      "regione": "Veneto",
+      "premio": 357,
+      "var_annua": -1.2,
+      "vs_media": -24
+    },
+    {
+      "slug": "verbania",
+      "nome": "Verbania",
+      "sigla": "VB",
+      "regione": "Piemonte",
+      "premio": 332,
+      "var_annua": -1.2,
+      "vs_media": -29.4
+    },
+    {
+      "slug": "vercelli",
+      "nome": "Vercelli",
+      "sigla": "VC",
+      "regione": "Piemonte",
+      "premio": 357,
+      "var_annua": -1.4,
+      "vs_media": -24
+    },
+    {
+      "slug": "verona",
+      "nome": "Verona",
+      "sigla": "VR",
+      "regione": "Veneto",
+      "premio": 367,
+      "var_annua": -1.2,
+      "vs_media": -21.9
+    },
+    {
+      "slug": "vibo-valentia",
+      "nome": "Vibo Valentia",
+      "sigla": "VV",
+      "regione": "Calabria",
+      "premio": 523,
+      "var_annua": -2.7,
+      "vs_media": 11.3
+    },
+    {
+      "slug": "vicenza",
+      "nome": "Vicenza",
+      "sigla": "VI",
+      "regione": "Veneto",
+      "premio": 357,
+      "var_annua": -1.2,
+      "vs_media": -24
+    },
+    {
+      "slug": "viterbo",
+      "nome": "Viterbo",
+      "sigla": "VT",
+      "regione": "Lazio",
+      "premio": 443,
+      "var_annua": -2,
+      "vs_media": -5.7
+    }
+  ],
+  "piu_care": [
+    "napoli",
+    "caserta",
+    "salerno",
+    "avellino",
+    "reggio-calabria"
+  ],
+  "piu_economiche": [
+    "aosta",
+    "bolzano",
+    "gorizia",
+    "trento",
+    "belluno"
+  ]
+}

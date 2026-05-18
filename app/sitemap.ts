@@ -25,6 +25,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const farmaciIndex = loadJSON<{ principi_attivi: { slug: string }[] }>("farmaci/index.json");
   const caseIndex = loadJSON<{ comuni: { slug: string }[] }>("case/index.json");
   const ariaIndex = loadJSON<AriaIndex>("aria/index.json");
+  const rcautoIndex = loadJSON<{ province: { slug: string }[] }>("rcauto/index.json");
   const oggi = new Date().toISOString();
 
   const statiche: MetadataRoute.Sitemap = [
@@ -32,6 +33,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/regioni`, lastModified: oggi, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE_URL}/province`, lastModified: oggi, changeFrequency: "daily", priority: 0.8 },
     { url: `${BASE_URL}/bollette`, lastModified: oggi, changeFrequency: "weekly", priority: 0.8 },
+    { url: `${BASE_URL}/rc-auto`, lastModified: oggi, changeFrequency: "yearly", priority: 0.8 },
+    { url: `${BASE_URL}/mutui`, lastModified: oggi, changeFrequency: "monthly", priority: 0.8 },
+    { url: `${BASE_URL}/carrello`, lastModified: oggi, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE_URL}/farmaci`, lastModified: oggi, changeFrequency: "monthly", priority: 0.8 },
     { url: `${BASE_URL}/case`, lastModified: oggi, changeFrequency: "weekly", priority: 0.8 },
     { url: `${BASE_URL}/qualita-aria`, lastModified: oggi, changeFrequency: "hourly", priority: 0.8 },
@@ -76,5 +80,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...statiche, ...regioniUrls, ...provinceUrls, ...farmaciUrls, ...caseUrls, ...ariaUrls];
+  const rcautoUrls: MetadataRoute.Sitemap = (rcautoIndex?.province ?? []).map((p) => ({
+    url: `${BASE_URL}/rc-auto/${p.slug}`,
+    lastModified: oggi,
+    changeFrequency: "yearly" as const,
+    priority: 0.7,
+  }));
+
+  return [...statiche, ...regioniUrls, ...provinceUrls, ...farmaciUrls, ...caseUrls, ...ariaUrls, ...rcautoUrls];
 }
