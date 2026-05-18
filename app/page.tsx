@@ -1,6 +1,7 @@
 import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import Link from "next/link";
+import CarburantiBarChart from "./components/CarburantiBarChart";
 
 interface PrezzoCarb {
   label: string;
@@ -104,6 +105,17 @@ export default function Home() {
         <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 mb-10 text-center text-amber-800 text-sm">
           ⏳ I dati verranno caricati domani alle 6:00 dal primo aggiornamento automatico.
         </div>
+      )}
+
+      {/* GRAFICO CONFRONTO CARBURANTI */}
+      {nazionale && (
+        <CarburantiBarChart
+          prezzi={carburanti.map((carb) => ({
+            label: nazionale.prezzi[carb]?.label ?? carb,
+            self_media: nazionale.prezzi[carb]?.self_media ?? null,
+            servito_media: nazionale.prezzi[carb]?.servito_media ?? null,
+          }))}
+        />
       )}
 
       {/* PROVINCE PIÙ CERCATE + REGIONI */}

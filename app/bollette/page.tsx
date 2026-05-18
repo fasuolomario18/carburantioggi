@@ -2,6 +2,7 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import type { Metadata } from "next";
 import Link from "next/link";
+import BolletteChart from "../components/BolletteChart";
 
 interface StoricoPeriodo {
   periodo: string;
@@ -174,6 +175,9 @@ export default function BollettePage() {
           </div>
         </div>
       </div>
+
+      {/* GRAFICO STORICO */}
+      <BolletteChart storicoLuce={data.luce.storico} storicoGas={data.gas.storico} />
 
       {/* STORICO PREZZI */}
       <section className="mb-8">
