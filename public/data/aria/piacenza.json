@@ -3,34 +3,34 @@
   "nome": "Piacenza",
   "sigla": "PC",
   "regione": "Emilia-Romagna",
-  "aggiornato": "2026-05-17T10:39:35.227Z",
-  "aqi": 36,
+  "aggiornato": "2026-05-18T08:44:03.414Z",
+  "aqi": 29,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 11.1,
+      "valore": 9.3,
       "unita": "µg/m³",
-      "categoria": "Discreto"
+      "categoria": "Buono"
     },
     "pm10": {
-      "valore": 11.9,
+      "valore": 12.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.6,
+      "valore": 8.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 90,
+      "valore": 73,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 144,
+      "valore": 148,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

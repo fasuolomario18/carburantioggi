@@ -3,34 +3,34 @@
   "nome": "Sondrio",
   "sigla": "SO",
   "regione": "Lombardia",
-  "aggiornato": "2026-05-17T10:39:39.340Z",
-  "aqi": 38,
+  "aggiornato": "2026-05-18T08:44:08.186Z",
+  "aqi": 32,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.6,
+      "valore": 7.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 3.7,
+      "valore": 8.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.4,
+      "valore": 1.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 95,
+      "valore": 80,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 108,
+      "valore": 124,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

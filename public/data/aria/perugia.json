@@ -3,34 +3,34 @@
   "nome": "Perugia",
   "sigla": "PG",
   "regione": "Umbria",
-  "aggiornato": "2026-05-17T10:39:34.575Z",
-  "aqi": 36,
+  "aggiornato": "2026-05-18T08:44:02.657Z",
+  "aqi": 29,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3,
+      "valore": 7.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5,
+      "valore": 10.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.7,
+      "valore": 3.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 91,
+      "valore": 72,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 134,
+      "valore": 141,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

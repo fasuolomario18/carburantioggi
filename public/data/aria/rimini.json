@@ -3,34 +3,34 @@
   "nome": "Rimini",
   "sigla": "RN",
   "regione": "Emilia-Romagna",
-  "aggiornato": "2026-05-17T10:39:37.609Z",
-  "aqi": 35,
+  "aggiornato": "2026-05-18T08:44:06.176Z",
+  "aqi": 34,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.3,
+      "valore": 6.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5.4,
+      "valore": 8.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.6,
+      "valore": 4.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 88,
+      "valore": 85,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 136,
+      "valore": 144,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

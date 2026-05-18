@@ -3,34 +3,34 @@
   "nome": "Venezia",
   "sigla": "VE",
   "regione": "Veneto",
-  "aggiornato": "2026-05-17T10:39:42.293Z",
-  "aqi": 36,
+  "aggiornato": "2026-05-18T08:44:11.642Z",
+  "aqi": 39,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.4,
+      "valore": 11,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 7.7,
+      "valore": 12,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.8,
+      "valore": 5,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 90,
+      "valore": 98,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 138,
+      "valore": 148,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

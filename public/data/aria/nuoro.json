@@ -3,34 +3,34 @@
   "nome": "Nuoro",
   "sigla": "NU",
   "regione": "Sardegna",
-  "aggiornato": "2026-05-17T10:39:33.272Z",
-  "aqi": 34,
+  "aggiornato": "2026-05-18T08:44:01.147Z",
+  "aqi": 31,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.3,
+      "valore": 2.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 5.4,
+      "valore": 4.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.3,
+      "valore": 0.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 86,
+      "valore": 77,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 115,
+      "valore": 110,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

@@ -3,34 +3,34 @@
   "nome": "Treviso",
   "sigla": "TV",
   "regione": "Veneto",
-  "aggiornato": "2026-05-17T10:39:41.075Z",
-  "aqi": 38,
+  "aggiornato": "2026-05-18T08:44:10.197Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 4.5,
+      "valore": 14.2,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 6.8,
+      "valore": 16.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.5,
+      "valore": 5.8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 94,
+      "valore": 89,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 139,
+      "valore": 159,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

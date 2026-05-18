@@ -3,34 +3,34 @@
   "nome": "Cuneo",
   "sigla": "CN",
   "regione": "Piemonte",
-  "aggiornato": "2026-05-17T10:39:26.548Z",
-  "aqi": 35,
+  "aggiornato": "2026-05-18T08:43:53.354Z",
+  "aqi": 26,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.9,
+      "valore": 6.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 8.2,
+      "valore": 8.3,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 2.8,
+      "valore": 8,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 87,
+      "valore": 66,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 132,
+      "valore": 133,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

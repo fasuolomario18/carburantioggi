@@ -3,34 +3,34 @@
   "nome": "Vicenza",
   "sigla": "VI",
   "regione": "Veneto",
-  "aggiornato": "2026-05-17T10:39:43.381Z",
-  "aqi": 40,
+  "aggiornato": "2026-05-18T08:44:12.890Z",
+  "aqi": 30,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 8.1,
+      "valore": 16.6,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 9.9,
+      "valore": 20.2,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "no2": {
-      "valore": 2.3,
+      "valore": 12,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 100,
+      "valore": 75,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 144,
+      "valore": 168,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

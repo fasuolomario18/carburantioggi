@@ -3,34 +3,34 @@
   "nome": "Enna",
   "sigla": "EN",
   "regione": "Sicilia",
-  "aggiornato": "2026-05-17T10:39:26.765Z",
-  "aqi": 34,
+  "aggiornato": "2026-05-18T08:43:53.606Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 2.3,
+      "valore": 3.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 6.6,
+      "valore": 7.2,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.5,
+      "valore": 1.1,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 84,
+      "valore": 90,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 111,
+      "valore": 112,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

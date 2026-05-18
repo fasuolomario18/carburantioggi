@@ -3,34 +3,34 @@
   "nome": "Padova",
   "sigla": "PD",
   "regione": "Veneto",
-  "aggiornato": "2026-05-17T10:39:33.706Z",
-  "aqi": 38,
+  "aggiornato": "2026-05-18T08:44:01.651Z",
+  "aqi": 36,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 6.2,
+      "valore": 14.9,
       "unita": "µg/m³",
-      "categoria": "Buono"
+      "categoria": "Discreto"
     },
     "pm10": {
-      "valore": 7,
+      "valore": 17.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 1.9,
+      "valore": 6.7,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 96,
+      "valore": 89,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 143,
+      "valore": 156,
       "unita": "µg/m³",
       "categoria": "N/D"
     }

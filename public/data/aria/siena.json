@@ -3,34 +3,34 @@
   "nome": "Siena",
   "sigla": "SI",
   "regione": "Toscana",
-  "aggiornato": "2026-05-17T10:39:38.907Z",
+  "aggiornato": "2026-05-18T08:44:07.686Z",
   "aqi": 38,
   "aqi_categoria": "Discreto",
   "aqi_colore": "yellow",
   "aqi_idx": 1,
   "pollutanti": {
     "pm25": {
-      "valore": 3,
+      "valore": 5.4,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "pm10": {
-      "valore": 4.7,
+      "valore": 8.6,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "no2": {
-      "valore": 0.6,
+      "valore": 1.9,
       "unita": "µg/m³",
       "categoria": "Buono"
     },
     "o3": {
-      "valore": 95,
+      "valore": 94,
       "unita": "µg/m³",
       "categoria": "Discreto"
     },
     "co": {
-      "valore": 133,
+      "valore": 131,
       "unita": "µg/m³",
       "categoria": "N/D"
     }
